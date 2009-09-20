@@ -1,6 +1,0 @@
-<!--@subject Contact Form@-->
-Name: {{var data.name}}
-E-mail: {{var data.email}}
-Telephone: {{var data.telephone}}
-
-Comment: {{var data.comment}}
