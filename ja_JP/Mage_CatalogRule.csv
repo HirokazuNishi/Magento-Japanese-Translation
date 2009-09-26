@@ -58,7 +58,7 @@
 "The page you are trying to save no longer exists","保存対象のルールがありません。"
 "There are rules that have been changed but not applied. Please, click Apply Rules in order to see immediate effect in catalog.","ルールは変更されましたがまだ適用されていません。ルールをカタログにすぐに適用するには「ルールを適用」をクリックしてください。"
 "This rule no longer exists","ルールはありません。"
-"To Date","公開日"
+"To Date","終了日"
 "Unable to apply rules","ルールを適用できません"
 "Unable to find a page to delete","削除対象のページが見つかりません。"
 "Update product's %s %s: %s","商品更新 %s %s: %s"
