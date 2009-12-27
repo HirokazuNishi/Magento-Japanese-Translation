@@ -235,7 +235,7 @@
 "Timezone","タイムゾーン"
 "Title Prefix","タイトル"
 "Title Suffix","タイトルをつける"
-"Translate Inline","直訳"
+"Translate Inline","インライン翻訳"
 "Translate cache should be disabled for both Frontend and Admin inline translations","Translate cache should be disabled for both Frontend and Admin inline translations"
 "Translations","翻訳"
 "Unable to delete store view. Please, try again later.","ストアビューを削除する事ができません。後でもう一度ためしてください。"
