@@ -113,7 +113,7 @@
 "Host","ホスト"
 "How many Links to display at once","一度に表示するリンク件数"
 "Id path for specified store","指定した店舗のID"
-"If the Current Frame Position does not cover Utmost Pages, will render Link to Current Position plus/minus this Value","現在のページ位置が総ページ数のほとんどをカバーしていない場合、現在のページ位置からこの値を加算または減産します"
+"If the Current Frame Position does not cover Utmost Pages, will render Link to Current Position plus/minus this Value","現在のページ位置が総ページ数のほとんどをカバーしていない場合、現在のページ位置からこの値を加算または減算します"
 "Incorrect credit card expiration date","不正なクレジットカード有効期限"
 "Invalid base url type","不正なベースURLタイプ"
 "Invalid block name to set child %s: %s","不正な子ブロック名です %s: %s"
