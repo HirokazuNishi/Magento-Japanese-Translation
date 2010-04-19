@@ -1,0 +1,6 @@
+"Click here to go to <a href=""%s"">Cache Management</a> and refresh cache types.","<a href=""%s"">キャッシュ管理</a>でキャッシュを更新してください。"
+"Click here to go to <a href=""%s"">Index Management</a> and rebuild required indexes.","<a href=""%s"">インデックス管理</a>でインデックスを再構築してください。"
+"Disable","無効"
+"Enable","有効"
+"One or more of the Indexes are not up to date:","1つ以上のインデックスが最新ではありません:"
+"Refresh","更新"
