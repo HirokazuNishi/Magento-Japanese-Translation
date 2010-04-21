@@ -32,6 +32,7 @@
 "Some emails was not sent","何件かのemailが送信されませんでした"
 "Some problems with data.","データに問題があります"
 "You cannot send more than %d emails at a time","1回に%d件以上のメールを送信することはできません"
+"You cannot send more than %d times in an hour","一時間に%d回以上送信できません"
 "You have exceeded limit of %d sends in an hour","1時間に%d件以上のメールを送信することはできません"
 "You have to specify at least one recipient","1件以上の宛先を指定してください"
 "You input invalid email address for recipient","不正なメールアドレスが宛先に入力されました"

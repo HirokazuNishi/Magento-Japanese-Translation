@@ -31,7 +31,7 @@
 "Add new comment to shipment","配送に新しいコメントを追加"
 "Add new tracking number","新しいトラッキング番号を追加"
 "Add to Cart","カートに追加"
-"Address","住所"
+"Address","町村"
 "Address model is not defined","Address model is not defined"
 "Address total model should be extended from Mage_Sales_Model_Quote_Address_Total_Abstract","Address total model should be extended from Mage_Sales_Model_Quote_Address_Total_Abstract"
 "Adjustment Fee","調整料"
