@@ -2,6 +2,7 @@
 "ANY","いずれか"
 "Add","追加"
 "Apply","反映"
+"Conditions Combination","条件の組み合わせ"
 "Description: %s","説明: %s"
 "End Date should be greater than Start Date","終了日は開始日より後の日付である必要があります"
 "Expire at: %s","有効期限: %s"
