@@ -119,7 +119,7 @@
 "The subscription has been removed.","The subscription has been removed."
 "The subscription has been saved.","The subscription has been saved."
 "There was a problem with the subscription.","There was a problem with the subscription."
-"There was a problem with the subscription: %s","購読に問題があります: %s"
+"There was a problem with the subscription: %s","入力内容に誤りがあります: %s"
 "There was a problem with the un-subscription.","購読解除中に問題がありました。"
 "Type","タイプ"
 "Unsubscribe","購読解除"

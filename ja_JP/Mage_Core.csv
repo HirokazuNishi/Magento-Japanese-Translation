@@ -146,7 +146,7 @@
 "Model collection resource name is not defined.","Model collection resource name is not defined."
 "Module ""%1$s"" cannot depend on ""%2$s"".","Module ""%1$s"" cannot depend on ""%2$s""."
 "Module ""%1$s"" requires module ""%2$s"".","Module ""%1$s"" requires module ""%2$s""."
-"Name","名前"
+"Name","名前
 "New Design Change","新しいデザイン変更"
 "New Store","新しい店舗"
 "New Store View","新しい店舗ビュー"
