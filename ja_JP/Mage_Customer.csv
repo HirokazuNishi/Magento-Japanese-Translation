@@ -138,7 +138,7 @@
 "Forgot Email Sender","リマインダー送信者"
 "Forgot Email Template","リマインダーテンプレート"
 "Forgot Your Password?","パスワードをお忘れですか？"
-"From your My Account Dashboard you have the ability to view a snapshot of your recent account activity and update your account information. Select a link below to view or edit information.","アカウントダッシュボードでは、お客様の最近のご購入履歴やお客様情報をご覧いただけます。リンクをクリックすらｷとで情報を閲覧・変更すらｷとが可能です。"
+"From your My Account Dashboard you have the ability to view a snapshot of your recent account activity and update your account information. Select a link below to view or edit information.","アカウントダッシュボードでは、お客様の最近のご購入履歴やお客様情報をご覧いただけます。リンクをクリックすることで情報を閲覧・変更することが可能です。"
 "Gender","性別"
 "General Subscription","メールマガジンを購読する"
 "Generate Human-Friendly Customer ID","人間にわかりやすい顧客IDを生成する"
@@ -326,7 +326,11 @@
 "Telephone","電話番号"
 "Text","テキスト"
 "Text One Line","一行テキスト"
+<<<<<<< HEAD
 "Thank you for registering with %s.","%sにご登録あｖbとうございます。"
+=======
+"Thank you for registering with %s.","%sにご登録ありがとうございます。"
+>>>>>>> 2d3e6bbffcb23c699e7f58422d08c423482bb0a2
 "The account information has been saved.","お客様の情報を保存しました。"
 "The address does not belong to this customer.","住所は未登録です。"
 "The address has been deleted.","住所を削除しました。"
