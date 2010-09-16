@@ -274,13 +274,8 @@
 "Delete %s '%s'","削除 %s '%s'"
 "Delete Profile","プロファイルの削除"
 "Delete Role","ロールの削除"
-<<<<<<< HEAD
 "Delete Store","店舗を削除"
 "Delete Store View","店舗ビューを削除"
-=======
-"Delete Store","標準の店舗"
-"Delete Store View","店舗ビューの削除"
->>>>>>> 2d3e6bbffcb23c699e7f58422d08c423482bb0a2
 "Delete Template","テンプレートの削除"
 "Delete User","ユーザーの削除"
 "Delete Website","ウェブサイトを削除"
@@ -414,14 +409,6 @@
 "Insert Variable...","変数の挿入..."
 "Interactive","インタラクティブ"
 "Interface Locale: %s","インターフェイスの言語: %s"
-<<<<<<< HEAD
-=======
-"Invalid Form Key. Please refresh the page.","不正なフォームキーです。ページを再読み込みしてください。"
-"Invalid Import Service Specified","不正なインポート処理があります"
-"Invalid POST data (please check post_max_size and upload_max_filesize settings in your php.ini file).","不正なデータです (php,iniの post_max_sizeとupload_max_filesizeの設定を確認してください)。"
-"Invalid Secret Key. Please refresh the page.","不正なシークレットキーです。ページを再読み込みしてください。"
-"Invalid Username or Password.","不正なユーザー名とパスワードです。"
->>>>>>> 2d3e6bbffcb23c699e7f58422d08c423482bb0a2
 "Invalid directory: %s","不正なディレクトリ: %s"
 "Invalid email address ""%s"".","不正なメールアドレス ""%s"" です。"
 "Invalid file: %s","不正なファイル: %s"
@@ -593,13 +580,9 @@
 "None","なし"
 "Note:","ノート:"
 "Notes","メモ"
-<<<<<<< HEAD
 "NOTICE","お知らせ"
 "notice","お知らせ"
-"Notifications","お知ｓ_"
-=======
 "Notifications","お知らせ"
->>>>>>> 2d3e6bbffcb23c699e7f58422d08c423482bb0a2
 "Number of Orders","注文数"
 "Number of records:","レコード数:"
 "Number of Uses","使用数"
@@ -799,10 +782,7 @@
 "Save","保存"
 "Save & Generate","保存して生成"
 "Save Account","アカウントの保存"
-<<<<<<< HEAD
 "Save and Continue Edit","保存して編集を続ける"
-=======
->>>>>>> 2d3e6bbffcb23c699e7f58422d08c423482bb0a2
 "Save Cache Settings","キャッシュ設定を保存"
 "Save Config","設定を保存"
 "Save Currency Rates","通貨レートの保存"
@@ -835,11 +815,6 @@
 "Shipments","出荷"
 "Shipping","出荷中"
 "Shipping Address","お届け先"
-<<<<<<< HEAD
-=======
-"Shipping Origin","出荷元"
-"Shipping Price","配送料"
->>>>>>> 2d3e6bbffcb23c699e7f58422d08c423482bb0a2
 "Shipping address selection is not applicable","配送先の選択が適切ではありません"
 "Shipping method must be specified.","配送方法を指定してください。"
 "Shipping method selection is not applicable","配送方法の選択が適切ではありません"
@@ -906,22 +881,13 @@
 "Temporary (302)","一時的(302)"
 "Terms and Conditions","利用条件"
 "Text","テキスト"
-<<<<<<< HEAD
-=======
-"The Catalog Rewrites were refreshed.","カタログ書き換えを更新しました。"
-"The CatalogInventory Stock Status has been rebuilt.","在庫ステータスインデックスを再構築しました。"
-"The Comment Text field cannot be empty.","コメントを入力してください。"
-"The Flat Catalog Product was rebuilt","フラットカタログプロダクトを再構築しました。"
-"The JavaScript/CSS cache has been cleaned.","JavaScript/CSSキャッシュをクリアしました。"
-"The JavaScript/CSS cache has been cleared.","JavaScriptとCSSのキャッシュをクリアしました。"
 "The Layered Navigation indexing has been queued.","階層ナビゲーションインデックスを実行予約しました。"
 "The Layered Navigation indexing queue has been canceled.","階層ナビゲーションインデックスの実行予約をキャンセルしました。"
 "The Layered Navigation indices were refreshed.","階層ナビゲーションインデックスを更新しました。"
 "The Layered Navigation process has been queued to be killed.","階層ナビゲーション構築プロセスを停止予約しました。"
 "The Magento cache storage has been flushed.","Magentoのキャッシュストレージを更新しました。"
 "The URL Rewrite has been deleted.","URL書換を削除しました。"
-"The URL Rewrite has been saved.","The URL Rewrite has been saved."
->>>>>>> 2d3e6bbffcb23c699e7f58422d08c423482bb0a2
+"The URL Rewrite has been saved.","URL書換を保存しました。"
 "The account has been saved.","The account has been saved."
 "The archive can be uncompressed with <a href=""%s"">%s</a> on Windows systems","このアーカイブはWindows上で <a href=""%s"">%s</a> を利用して展開することができます"
 "The attribute set has been removed.","属性セットを削除しました。"
@@ -962,13 +928,6 @@
 "The invoice has been voided.","請求書を無効にしました。"
 "The JavaScript/CSS cache has been cleaned.","JavaScript/CSSキャッシュをクリアしました。"
 "The JavaScript/CSS cache has been cleared.","JavaScriptとCSSのキャッシュをクリアしました。"
-"The Layered Navigation indexing has been queued.","階層ナビゲーションインデックスを雕
-s予約しました。"
-"The Layered Navigation indexing queue has been canceled.","階層ナビゲーションインデックスの雕
-s予約をキャンセルしました。"
-"The Layered Navigation indices were refreshed.","階層ナビゲーションインデックスを更新しました。"
-"The Layered Navigation process has been queued to be killed.","階層ナビゲーション構築プロセスを停止予約しました。"
-"The Magento cache storage has been flushed.","Magentoのキャッシュストレージを更新しました。"
 "The order does not allow creating an invoice.","The order does not allow creating an invoice."
 "The order no longer exists.","この注文データは存在しません。"
 "The poll has been deleted.","投票を削除しました。"
@@ -987,20 +946,12 @@ s予約をキャンセルしました。"
 "The shipment has been sent.","出荷メールを送信しました。"
 "The tag has been deleted.","タグを削除しました。"
 "The tag has been saved.","タグを保存しました。"
-"The URL Rewrite has been deleted.","URL書換を削除しました。"
-"The URL Rewrite has been saved.","The URL Rewrite has been saved."
 "The user has been deleted.","ユーザーを削除しました。"
 "The user has been saved.","The user has been saved."
 "Themes JavaScript and CSS files combined to one file.","テーマのJavaScriptとCSSファイルを1つのファイルに集約したものです。"
 "There has been wrong payment information submitted or time limit has expired. Please, try again.","There has been wrong payment information submitted or time limit has expired. Please, try again."
 "There is an error in one of the option rows.","There is an error in one of the option rows."
 "This Account is","このアカウントは"
-<<<<<<< HEAD
-=======
-"This Email template no longer exists.","このメールテンプレートは存在しません。"
-"This Role no longer exists","このロールは存在していません。"
-"This Role no longer exists.","このロールは存在しません。"
->>>>>>> 2d3e6bbffcb23c699e7f58422d08c423482bb0a2
 "This account is","このアカウントは"
 "This account is inactive.","このアカウントは無効です。"
 "This attribute set does not have attributes which we can use for configurable product","この属性セットは厚生可能な商品に使用できる属性を含んでいません。"
@@ -1138,15 +1089,9 @@ s予約をキャンセルしました。"
 "You cannot delete your own account.","自分のアカウントを削除することはできません。"
 "You have","You have"
 "You have logged out.","ログアウトしました。"
-<<<<<<< HEAD
-"You have not enough permissions to use this functionality.","この機能を使用するための権隹ｪありません。"
-"You must have JavaScript enabled in your browser to utilize the functionality of this website.","このウェブサイトの機能を十分に活用するために、ブラウザのJavaScriptを有効にしてください。"
-"You need to specify order items.","注文すりZ品を指定してください。"
-=======
 "You have not enough permissions to use this functionality.","この機能を使用するための権限がありません。"
 "You must have JavaScript enabled in your browser to utilize the functionality of this website.","このウェブサイトの機能を十分に活用するために、ブラウザのJavaScriptを有効にしてください。"
 "You need to specify order items.","注文する商品を指定してください。"
->>>>>>> 2d3e6bbffcb23c699e7f58422d08c423482bb0a2
 "Your answers contain duplicates.","回答が重複しています"
 "Your server PHP settings allow you to upload files not more than %s at a time. Please modify post_max_size (currently is %s) and upload_max_filesize (currently is %s) values in php.ini if you want to upload larger files.","あなたのPHPサーバーは一度に最大%sアップロード可能です。より大きなファイルをアップロードしたい場合は、php.iniの中にあるpost_max_size(現在は%s)と upload_max_filesize (現在は%s) の価格を修正してください。"
 "YTD","1年間"
