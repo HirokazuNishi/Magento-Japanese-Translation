@@ -326,11 +326,7 @@
 "Telephone","電話番号"
 "Text","テキスト"
 "Text One Line","一行テキスト"
-<<<<<<< HEAD
-"Thank you for registering with %s.","%sにご登録あｖbとうございます。"
-=======
 "Thank you for registering with %s.","%sにご登録ありがとうございます。"
->>>>>>> 2d3e6bbffcb23c699e7f58422d08c423482bb0a2
 "The account information has been saved.","お客様の情報を保存しました。"
 "The address does not belong to this customer.","住所は未登録です。"
 "The address has been deleted.","住所を削除しました。"
