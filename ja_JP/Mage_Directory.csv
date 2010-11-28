@@ -34,7 +34,7 @@
 "Select Your Currency","通貨を選択してください","TRUE"
 "Service","サービス","TRUE"
 "Start Time","開始時間","TRUE"
-"State/Province","県・地方","TRUE"
+"State/Province","都道府県","TRUE"
 "Strikeiron Email Update Warnings","メールでアップデート通知を行う","TRUE"
 "Unable to initialize the import model.","取り込みプログラムを初期化できません。","TRUE"
 "Undefined rate from ""%s-%s""."," ""%s-%s"" の為替レートは未定義です。","TRUE"

@@ -32,7 +32,7 @@
 "Ready","準備完了","TRUE"
 "Refresh","更新","TRUE"
 "Reindex Data","再インデックス","TRUE"
-"Reindex Required","要再インデックス","TRUE"
+"Reindex Required","再インデックスが必要です","TRUE"
 "Status","状態","TRUE"
 "System","システム","TRUE"
 "The index has been saved.","インデックスを保存しました。","TRUE"

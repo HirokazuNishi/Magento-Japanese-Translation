@@ -12,6 +12,6 @@
 "Schedule Ahead for","事前作成するスケジュール","TRUE"
 "Success History Lifetime","成功履歴保持期間","TRUE"
 "Too late for the schedule.","期限切れスケジュールとみなすまでの期間","TRUE"
-"Unable to save the cron expression.","CRONスケジュールを保存できません。","TRUE"
-"Unknown error.","不明なエラー","TRUE"
+"Unable to save the cron expression.","Cronジョブを保存できません。","TRUE"
+"Unknown error.","不明なエラー。","TRUE"
 "Weekly","毎週","TRUE"

@@ -12,7 +12,7 @@
 "Unable to cancel Express Checkout.","Expressチェックアウトをキャンセルできません。","TRUE"
 "Unable to initialize Express Checkout review.","Expressチェックアウトのレビューを初期化できません","TRUE"
 "Unable to place the order.","注文を保存できません。","TRUE"
-"Unable to process Express Checkout approval.","Unable to process Express Checkout approval.","TRUE"
+"Unable to process Express Checkout approval.","Expressチェックアウトの承認を続行できません。","TRUE"
 "Unable to start Express Checkout.","Expressチェックアウトを開始できません","TRUE"
 "Unable to update shipping method.","配送方法を更新できません。","TRUE"
 "View","表示","TRUE"
