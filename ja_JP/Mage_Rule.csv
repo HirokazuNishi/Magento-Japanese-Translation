@@ -1,5 +1,3 @@
-"FALSE","FALSE"
-"TRUE","TRUE"
 "Add","追加"
 "ALL","全て"
 "ANY","いずれか"
@@ -13,6 +11,7 @@
 "equals or greater than","等しいかそれより大きい"
 "equals or less than","等しいかそれより小さい"
 "Expire at: %s","有効期限: %s"
+"FALSE","FALSE"
 "greater than","より大きい"
 "If %s of these conditions are %s:","もし %s が %s であるなら:"
 "Invalid discount amount.","不正な割引き額です。"
@@ -33,3 +32,4 @@
 "Remove","削除"
 "Start at: %s","開始日時: %s"
 "to","へ"
+"TRUE","TRUE"

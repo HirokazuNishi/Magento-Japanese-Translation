@@ -14,6 +14,6 @@
 "Size, Bytes","サイズ, バイト数"
 "The file was compressed with Zlib, but this extension is not installed on server.","バックアップファイルはZlibで圧縮されますが、サーバ上でZlibが利用できません。"
 "Time","時間"
-"Type","方法"
+"Type","タイプ"
 "Unable to create backup. Please, try again later.","バックアップできませんでした。後でもう一度お試しください。"
 "Wrong order of creation for new backup.","不正なバックアップ作成指示です。"
