@@ -1,6 +1,12 @@
-<!--@subject Contact Form@-->
-名前: {{var data.name}}
-E-mail: {{var data.email}}
+<!--@subject お問い合わせ@-->
+<!--@vars
+{"var data.name":"Sender Name",
+"var data.email":"Sender Email",
+"var data.telephone":"Sender Telephone",
+"var data.comment":"Comment"}
+@-->
+お名前: {{var data.name}}
+メールアドレス: {{var data.email}}
 電話番号: {{var data.telephone}}
 
 コメント: {{var data.comment}}
