@@ -1,4 +1,3 @@
-"%s %s %s - %s. %s. %s","%s %s %s - %s. %s. %s"
 "3D Secure","3Dセキュア"
 "3D Secure Card Validation","3Dセキュアカード認証"
 "API Login ID","APIログインID"
@@ -26,7 +25,6 @@
 "Invalid amount for partial authorization.","Invalid amount for partial authorization."
 "Invalid amount for refund.","Invalid amount for refund."
 "Invalid split tenderId ID.","Invalid split tenderId ID."
-"Invalid transaction ID.","Invalid transaction ID."
 "Maximum Order Total","最大注文価格"
 "Merchant's Email","マーチャントメールアドレス"
 "Minimum Order Total","最小注文価格"
