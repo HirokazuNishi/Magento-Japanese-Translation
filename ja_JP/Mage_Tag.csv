@@ -62,7 +62,7 @@
 "Products Tagged by Customers","顧客が商品に付けているタグ"
 "Products Tagged with '%s'","%s'タグ付けされた商品"
 "Products tagged with '%s'","%s' タグ付けされた商品"
-"Rebuild Tag aggregation data","タグ集計データの再構築"
+"Rebuild Tag aggregation data","タグ集計データのインデックス"
 "Remove","削除"
 "Remove product tag","商品タグを削除"
 "Retrieve list of tags by product","商品のタグリストを取得"

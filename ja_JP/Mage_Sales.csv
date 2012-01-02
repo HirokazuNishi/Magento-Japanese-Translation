@@ -864,3 +864,4 @@
 "the order confirmation email was sent","注文確認メールは送信済みです"
 "the shipment email is not sent","出荷メールは未送信です。"
 "the shipment email was sent","出荷メールを送信しました。"
+"Improves dashboard performance but provides non-realtime data.","ダッシュボードのパフォーマンスは向上しますが、リアルタイム集計ではなくなります。"
