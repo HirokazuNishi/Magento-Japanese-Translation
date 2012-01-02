@@ -59,7 +59,7 @@
 "Checkout with Multiple Addresses","複数住所へ配送する"
 "City","市"
 "Clear Shopping Cart","ショッピングカートをクリアする"
-"Click <a href=""%s"" onclick=""this.target=\'_blank\'"">here to print</a> a copy of your order confirmation.","<a href=""%s"" onclick=""this.target=\'_blank\'"">ここをクリック</a>してご注文内容を印刷して下さい。"
+"Click <a href=""%s"" onclick=""this.target='_blank'"">here to print</a> a copy of your order confirmation.","<a href=""%s"" onclick=""this.target='_blank'"">ここをクリック</a>してご注文内容を印刷して下さい。"
 "Click <a href=""%s"">here</a> to continue shopping.","<a href=""%s"">ここ</a>をクリックしてお買い物を続けてください。"
 "Close","閉じる"
 "Company","会社名"

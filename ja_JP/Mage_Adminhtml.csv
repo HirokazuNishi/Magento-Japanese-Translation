@@ -1136,7 +1136,7 @@
 "Yes (only price with tax)","Yes(税込み価格のみ)"
 "You cannot delete your own account.","自分のアカウントを削除することはできません。"
 "You have %s unread message(s).","%s 件の未読メッセージがあります。"
-"You have %s unread message(s). <a href=""%s"">Go to messages inbox</a>.","Y%s 件の未読メッセージがあります. <a href=""%s"">メッセージボックスへ</a>."
+"You have %s unread message(s). <a href=""%s"">Go to messages inbox</a>.","%s 件の未読メッセージがあります. <a href=""%s"">メッセージボックスへ</a>."
 "You have %s, %s and %s unread messages. <a href=""%s"">Go to messages inbox</a>.","%s, %s, %s の未読メッセージがあります。 <a href=""%s"">メッセージボックスへ</a>."
 "You have logged out.","ログアウトしました。"
 "You have not enough permissions to use this functionality.","この機能を使用するための権限がありません。"
