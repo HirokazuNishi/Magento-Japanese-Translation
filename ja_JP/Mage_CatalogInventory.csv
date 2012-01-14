@@ -30,7 +30,7 @@
 "Out of Stock","在庫切れ"
 "Product Stock Options","商品在庫オプション"
 "Qty Increments","個数の増分"
-"Qty for Item's Status to Become Out of Stock","商品の在庫ステータスが在庫切れになりました"
+"Qty for Item's Status to Become Out of Stock","在庫切れステータスにする在庫数"
 "Retrieve stock data","ストックデータ取得"
 "Retrieve stock data by product ids","商品IDを使って在庫情報を復元する"
 "Rule price","値引き"
