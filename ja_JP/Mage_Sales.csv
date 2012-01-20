@@ -575,7 +575,7 @@
 "Refund Totals","返金合計"
 "Refunded","返金されました"
 "Refunded amount of %s offline.","%sをオフラインで返金しました。"
-"Refunded amount of %s online.","%sをオフラインで返金しました。"
+"Refunded amount of %s online.","%sをオンラインで返金しました。"
 "Refunds","返金"
 "Registered a Void notification.","取り消し通知を登録しました。"
 "Registered notification about approved payment.","承認済みの支払情報に対する通知"
