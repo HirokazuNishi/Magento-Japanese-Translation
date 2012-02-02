@@ -1,5 +1,5 @@
 """Remember Me"" Default Value","""ログイン状態を記憶する"" の標準期間"
-"(Not %s?)","(Not %s?)"
+"(Not %s?)","(%s さんではありませんか?)"
 "* Required Fields","* 必須項目"
 "Address","番地"
 "Address Information","住所情報"
