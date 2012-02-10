@@ -45,7 +45,7 @@
 "My Downloadable Products","ダウンロード可能な製品"
 "Open Links in New Window","新しいウィンドウでリンクを開きます。"
 "Order #","ご注文番号 "
-"Order Item Status to Enable Downloads","ご注文いただいた商品がダウンロードできるようになりました。"
+"Order Item Status to Enable Downloads","ダウンロード可能になる注文ステータス"
 "Order id cannot be null","注文IDにnullは使用できません"
 "Order item id cannot be null","商品IDにnullは使用できません"
 "Ordered","注文済"
