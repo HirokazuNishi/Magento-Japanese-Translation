@@ -12,7 +12,7 @@
 "Apply the rule only to cart items matching the following conditions (leave blank for all items)","カートの商品が下記の条件を満たす場合のみ規定が適用されます。(全ての商品欄は空白のままにしてください。）"
 "Apply the rule to cart items matching the following conditions","以下の条件にマッチするカートの商品に適用する"
 "Apply to Shipping Amount","配送料に適用する"
-"Are you sure you want to delete the selected coupon(s)?","選択したクーポンを削除してもいいですか？"
+"Are you sure you want to delete the selected coupon(s)?","選択したクーポンを削除してもよろしいですか？"
 "Auto","自動"
 "Auto Generated Specific Coupon Codes","Auto Generated Specific Coupon Codes"
 "Buy X get Y free (discount amount is Y)","X を買うと Y を無料に (Y の金額だけディスカウントする)"
