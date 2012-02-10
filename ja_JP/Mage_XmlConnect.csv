@@ -458,7 +458,7 @@
 "Product is unavailable.","商品は無効です。"
 "Product was not specified.","商品が指定されていません。"
 "Product(s) currently out of stock.","商品は在庫切れです。"
-"Purchase Order Number","出荷番号"
+"Purchase Order Number","配送番号"
 "Push Notification","プッシュ通知"
 "Push Notifications allow you to send messages directly to the people who have installed your app on their device. Send messages to your full audience even when your app is closed. Push Notifications are one of the best ways to keep your app active by delivering valuable content directly to your customers. Learn more about Push Notifications - <a href=""%1$s"" target=""_blank"">%1$s</a>","Push Notifications allow you to send messages directly to the people who have installed your app on their device. Send messages to your full audience even when your app is closed. Push Notifications are one of the best ways to keep your app active by delivering valuable content directly to your customers. Learn more about Push Notifications - <a href=""%1$s"" target=""_blank"">%1$s</a>"
 "Push Title","プッシュタイトル"

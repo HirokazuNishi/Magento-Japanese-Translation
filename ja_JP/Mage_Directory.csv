@@ -28,7 +28,7 @@
 "Invalid target currency.","不正な通貨です。"
 "List of countries","国リスト"
 "List of regions in specified country","指定した国の地域リスト"
-"Postal Code is Optional for the following countries","郵便番号は以下の国では任意項目です"
+"Postal Code is Optional for the following countries","郵便番号を任意項目にする国"
 "Region","地域"
 "Region API","地域API"
 "Scheduled Import Settings","インポートスケジュール設定"

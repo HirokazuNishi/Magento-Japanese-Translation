@@ -34,7 +34,7 @@
 "Retrieve stock data","ストックデータ取得"
 "Retrieve stock data by product ids","商品IDを使って在庫情報を復元する"
 "Rule price","値引き"
-"Set Items' Status to be In Stock When Order is Cancelled","受注がキャンセルされたときにはセット商品の状態を在庫ありにします"
+"Set Items' Status to be In Stock When Order is Cancelled","受注がキャンセルされたときにはセット商品の状態を在庫ありにする"
 "Some of the products are currently out of stock","幾つかの商品が在庫切れです"
 "Some of the products cannot be ordered in requested quantity.","幾つかの商品はご要望いただいた数量をご注文いただけません。"
 "Some of the products cannot be ordered in the requested quantity.","いくつかの商品はご要望いただいた数量をご注文いただけません。"

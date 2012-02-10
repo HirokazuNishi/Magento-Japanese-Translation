@@ -142,7 +142,7 @@
 "Total","合計"
 "Unit Price","ユニット価格"
 "Whether catalog prices entered by admin include tax.","管理画面から入力したか否かにかかわらず、税を含んだ価格で入力してください。"
-"Whether shipping amounts entered by admin or obtained from gateways include tax.","出荷総額は管理者または決済ゲートウェイによって入力されたかにかかわらず、税を含んだ価格で入力してください。"
+"Whether shipping amounts entered by admin or obtained from gateways include tax.","配送総額は管理者または決済ゲートウェイによって入力されたかにかかわらず、税を含んだ価格で入力してください。"
 "Yes","Yes"
 "You cannot delete this tax class as it is used for %d customer groups.","%dの顧客グループに使用しているため、この税区分を削除できません。"
 "You cannot delete this tax class as it is used for %d products.","%dの商品に使用されているため、この税区分を削除できません"
