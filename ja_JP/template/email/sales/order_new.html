@@ -35,14 +35,14 @@ body,td { color:#2f2f2f; font:11px/1.35em Verdana, Arial, Helvetica, sans-serif;
                     <p style="font-size:12px; line-height:16px; margin:0;">
                         {{var store.getFrontendName()}}からご注文いただきありがとうございます。
                         荷物が発送されると追跡用のリンクをメールでお知らせいたします。
-                        <a href="{{store url="customer/account/"}}" style="color:#1E7EC8;">アカウントにログイン</a>することで、注文の状態を確認することができます。
+                        <a href="{{store url="customer/account/"}}" style="color:#1E7EC8;">アカウントにログイン</a>することでご注文の状態を確認することができます。
                         ご注文に関してなにか疑問点がありましたら、<a href="mailto:{{config path='trans_email/ident_support/email'}}" style="color:#1E7EC8;">{{config path='trans_email/ident_support/email'}}</a> または、お電話 <span class="nobr">{{config path='general/store_information/phone'}}</span>（月 - 金, 午前8時 - 午後5時）からお問い合わせください。
                     </p>
                     <p style="font-size:12px; line-height:16px; margin:0;">ご注文の詳細は以下の通りです。ご注文いただきありがとうございます。</p>
             </tr>
             <tr>
                 <td>
-                    <h2 style="font-size:18px; font-weight:normal; margin:0;">注文 #{{var order.increment_id}} <small>(注文日時 {{var order.getCreatedAtFormated('long')}})</small></h2>
+                    <h2 style="font-size:18px; font-weight:normal; margin:0;"ご注文 #{{var order.increment_id}} <small>ご注文日時 {{var order.getCreatedAtFormated('long')}})</small></h2>
                 </td>
             </tr>
             <tr>

@@ -1,4 +1,4 @@
-<!--@subject {{var store.getFrontendName()}}: 注文 #{{var order.increment_id}}のクレジットメモ #{{var creditmemo.increment_id}} @-->
+<!--@subject {{var store.getFrontendName()}}:ご注文 #{{var order.increment_id}}のクレジットメモ #{{var creditmemo.increment_id}} @-->
 <!--@vars
 {"store url=\"\"":"Store Url",
 "skin url=\"images/logo_email.gif\" _area='frontend'":"Email Logo Image",
@@ -34,14 +34,14 @@ body,td { color:#2f2f2f; font:11px/1.35em Verdana, Arial, Helvetica, sans-serif;
                     <h1 style="font-size:22px; font-weight:normal; line-height:22px; margin:0 0 11px 0;"">こんにちは、{{htmlescape var=$order.getCustomerName()}} 様</h1>
                     <p>
                         {{var store.getFrontendName()}}からご注文いただきありがとうございます。
-                        <a href="{{store url="customer/account/"}}" style="color:#1E7EC8;">あなたのアカウントにログイン</a>していただくことで、注文の状態を確認することができます。
+                        <a href="{{store url="customer/account/"}}" style="color:#1E7EC8;">あなたのアカウントにログイン</a>していただくことでご注文の状態を確認することができます。
                         ご注文に関してなにか疑問点がありましたら、<a href="mailto:{{config path='trans_email/ident_support/email'}}" style="color:#1E7EC8;">{{config path='trans_email/ident_support/email'}}</a> または、お電話 <span class="nobr">{{config path='general/store_information/phone'}}</span>（月 - 金, 午前8時 - 午後5時）からお問い合わせください。
                     </p>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <h2 style="font-size:18px; font-weight:normal; margin:0;">注文 #{{var order.increment_id}}のクレジットメモ #{{var creditmemo.increment_id}}</h2>
+                    <h2 style="font-size:18px; font-weight:normal; margin:0;"ご注文 #{{var order.increment_id}}のクレジットメモ #{{var creditmemo.increment_id}}</h2>
                 </td>
             </tr>
             <tr>

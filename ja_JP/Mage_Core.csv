@@ -95,7 +95,7 @@
 "Delete Store","店舗を削除"
 "Delete Store View","店舗ビューを削除"
 "Delete Website","ウェブサイトを削除"
-"Deleting a %1$s will not delete the information associated with the %1$s (e.g. categories, products, etc.), but the %1$s will not be able to be restored. It is suggested that you create a database backup before deleting the %1$s.","%1$s を削除しても %1$s (例えば、カテゴリや製品など) に関連した情報は削除しません。但し %1$s は元に戻すことはできません。 %1$s を削除する前にデータベースのバックアップを取得する事をおすすめします。"
+"Deleting a %1$s will not delete the information associated with the %1$s (e.g. categories, products, etc.), but the %1$s will not be able to be restored. It is suggested that you create a database backup before deleting the %1$s.","%1$s を削除しても %1$s (例えば、カテゴリや商品など) に関連した情報は削除しません。但し %1$s は元に戻すことはできません。 %1$s を削除する前にデータベースのバックアップを取得する事をおすすめします。"
 "Design","デザイン"
 "Design Change","デザイン変更"
 "Developer","開発者向け"
