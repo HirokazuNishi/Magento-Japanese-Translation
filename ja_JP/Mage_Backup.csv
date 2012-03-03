@@ -24,6 +24,7 @@
 "Frequency","頻度"
 "Invalid Password.","不正なパスワード。"
 "Maintenance Mode","メンテナンスモード"
+"Name","名前"
 "Not enough free space to create backup.","バックアップ作成に必要なディスク容量がありません。"
 "Not enough permissions to create backup.","バックアップ作成に必要な書き込み権限がありません。"
 "Not enough permissions to perform rollback","ロールバック実行に必要な権限がありません。"

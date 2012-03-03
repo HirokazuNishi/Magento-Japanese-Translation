@@ -47,4 +47,10 @@
 "The stock item for Product is not valid.","商品の在庫数が不正です。"
 "This product is available for purchase in increments of %s only.","この商品は%s個単位でのみ購入可能です。"
 "This product is currently out of stock.","This product is currently out of stock."
-"This product is not available in the requested quantity. %s of the items will be backordered.","この商品にご要望いただいた数量をご用意できません。 %s 個はバックオーダーになり
+"This product is not available in the requested quantity. %s of the items will be backordered.","This product is not available in the requested quantity. %s of the items will be backordered."
+"To Fixed Value","金額"
+"To Percentage","割合"
+"Undefined product type.","Undefined product type."
+"Update","更新"
+"Update product stock data","Update product stock data"
+"Update the Product","商品を更新"
