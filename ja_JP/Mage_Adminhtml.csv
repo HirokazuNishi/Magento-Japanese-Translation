@@ -859,7 +859,7 @@
 "Sitemap Information","サイトマップ情報"
 "Size for %s","%s のサイズ"
 "Skip Category Selection","カテゴリ選択をスキップする"
-"Some items in this order have different invoice and shipment types. You can create shipment only after the invoice is created.","この受注のいくつかの商品は異なる請求先と配送先を含んでいます。配送処理は請求書を作成した後にのみ可能です。"
+"Some items in this order have different invoice and shipment types. You can create shipment only after the invoice is created.","この注文のいくつかの商品は異なる請求先と配送先を含んでいます。配送処理は請求書を作成した後にのみ可能です。"
 "Some of the ordered items do not exist in the catalog anymore and will be removed if you try to edit the order.","いくつかの商品はカタログ上に存在しません。ご注文内容を編集すると削除されます。"
 "Sorry, this feature is coming soon...","申し訳ありません、もうすぐ利用できます"
 "Special Price:","特別価格:"
