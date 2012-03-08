@@ -1,7 +1,7 @@
 " for more information or "," いただくか、もしくは右のアドレスに "
 "# of Items (and above)","件の商品 (とそれ以上)"
 "# of Items vs. Destination","商品点数と配送先"
-"%1$d records have been imported. See the following list of errors for each record that has not been imported: %2$s","%1$d 行を取り込みました。 取り込まれなかったレコードのエラーを確認して下さい。: %2$s"
+"%1$d records have been imported. See the following list of errors for each record that has not been imported: %2$s","%1$d 行を取り込みました。 取り込まれなかったレコードのエラーを確認してください。: %2$s"
 "Allow Shipping to Multiple Addresses","複数配送を許可"
 "An error occurred while import table rates.","配送料金表をインポート中にエラーが発生しました。"
 "Calculate Handling Fee","手数料を計算"

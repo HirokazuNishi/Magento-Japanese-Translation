@@ -384,7 +384,7 @@
 "Wrong old style column type definition: {$definition}.","不正な古い列定義形式: {$definition}."
 "Yes","Yes"
 "You will have to log in after you save your custom admin path.","カスタム管理者パスを設定すると再度ログインが必要になります。"
-"Your design change for the specified store intersects with another one, please specify another date range.","指定の店舗のデザイン変更が他のもので遮られます。日付の範囲を確認して下さい。"
+"Your design change for the specified store intersects with another one, please specify another date range.","指定の店舗のデザイン変更が他のもので遮られます。日付の範囲を確認してください。"
 "Your order cannot be completed at this time as there is no payment methods available for it.","あなたのご注文はご利用いただけるお支払い方法がないため確定できません。"
 "Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.","あなたのご注文はご利用いただけるお届方法がないため確定できません。お届先住所を変更していただく必要があります。"
 "Your session has been expired, you will be relogged in now.","セッションが切れました。再度ログインしてください。"
