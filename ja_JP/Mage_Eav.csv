@@ -61,7 +61,7 @@
 "Entity is not initialized","エンティティのインスタンスが未作成です"
 "Entity object is undefined","エンティティオブジェクトが未定義です"
 "Failed to load node %s from config","設定からノード名 %s のデータを読み込めません"
-"For internal use. Must be unique with no spaces. Maximum length of attribute code must be less then %s symbols","システム内部で使用します。ユニークかつ空白は使用できません。%s文字以上で指定して下さい。"
+"For internal use. Must be unique with no spaces. Maximum length of attribute code must be less then %s symbols","システム内部で使用します。ユニークかつ空白は使用できません。%s文字以上で指定してください。"
 "Form Element with the same attribute","フォームの要素に同じ属性があります"
 "Form Fieldset with the same code","フォームのフィールドセットに同じコードがあります"
 "Form Type with the same code","フォームタイプと同じコードです"

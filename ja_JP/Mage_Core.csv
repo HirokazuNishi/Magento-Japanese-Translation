@@ -379,5 +379,5 @@
 "Wrong old style column type definition: {$definition}.","不正な古い列定義形式: {$definition}."
 "Yes","Yes"
 "You will have to log in after you save your custom admin path.","カスタム管理者パスを設定すると再度ログインが必要になります。"
-"Your design change for the specified store intersects with another one, please specify another date range.","指定の店舗のデザイン変更が他のもので遮られます。日付の範囲を確認して下さい。"
+"Your design change for the specified store intersects with another one, please specify another date range.","指定の店舗のデザイン変更が他のもので遮られます。日付の範囲を確認してください。"
 "database ""%s""","データベース ""%s"""

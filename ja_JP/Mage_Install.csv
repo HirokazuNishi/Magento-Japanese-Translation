@@ -107,7 +107,7 @@
 "The URL ""%s"" is invalid.","URL ""%s"" は不正です。"
 "The URL ""%s"" is not accessible.","URL ""%s"" にアクセスできません。"
 "The database server version doesn\'t match system requirements (required: %s, actual: %s).","データベースのバージョンがシステム要件に適合していません。 (必要バージョン: %s, お使いのバージョン: %s)."
-"The table prefix should contain only letters (a-z), numbers (0-9) or underscores (_), the first character should be a letter.","テープル名プレフィックスは半角英数字またはアンダースコア（_）を指定して下さい。最初の文字は半角英字でなければなりません。"
+"The table prefix should contain only letters (a-z), numbers (0-9) or underscores (_), the first character should be a letter.","テープル名プレフィックスは半角英数字またはアンダースコア（_）を指定してください。最初の文字は半角英字でなければなりません。"
 "There was a problem installing Magento packages. Please read the log, correct errors and try again.","Magentoパッケージのインストール中に問題が発生しました。ログを確認の上、やり直してください。"
 "Time Zone","タイムゾーン"
 "Use Secure URLs (SSL)","セキュアURLを使う(SSL)"
