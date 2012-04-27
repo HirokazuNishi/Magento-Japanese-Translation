@@ -132,3 +132,7 @@
 "Wrong or empty billing amount specified.","正しくない請求額が指定されました"
 "Year","年"
 "Zero Subtotal Checkout","ゼロ合計チェックアウト"
+"Cash On Delivery Payment","代引き支払い"
+"Bank Transfer Payment","銀行振込"
+"Instructions","説明"
+"The requested Payment Method is not available.","リクエストされたお支払い方法はご利用できません。"

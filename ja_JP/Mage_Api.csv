@@ -14,3 +14,7 @@
 "WS-I Compliance","WS-I コンプライアンス"
 "Web Services","ウェブサービス"
 "Your account has been deactivated.","あなたのアカウントは有効になっていません。"
+"Can not find webservice adapter.","ウェブサービスアダプタが見つかりません。"
+"Enable WSDL Cache","WSDLキャッシュを有効にする"
+"SOAP/XML-RPC - Roles","SOAP/XML-RPC - 権限"
+"SOAP/XML-RPC - Users","SOAP/XML-RPC - ユーザー"

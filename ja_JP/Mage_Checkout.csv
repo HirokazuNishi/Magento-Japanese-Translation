@@ -330,7 +330,7 @@
 "Your order # is: %s.","あなたのご注文番号は %s です。"
 "Your order cannot be completed at this time as there is no payment methods available for it.","あなたのご注文はご利用いただけるお支払い方法がないため確定できません。"
 "Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.","あなたのご注文はご利用いただけるお届け方法がないため確定できません。お届先住所を変更していただく必要があります。"
-"Your order has been received","ご注文をお受けしました"
+"Your order has been received.","ご注文をお受けしました。"
 "Your order number is ","ご注文番号は"
 "Your recurring payment profiles:","あなたの継続支払プロファイル:"
 "Zip/Postal Code","郵便番号"

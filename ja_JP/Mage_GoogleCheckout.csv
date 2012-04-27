@@ -111,6 +111,7 @@
 "Rate 3 Title","タイトル率"
 "Remove","削除"
 "Required for live Google Checkout transactions.","Googleチェックアウト処理に必要です。"
+"Required for live Google Checkout transactions. Make sure that this option corresponds to Use Secure URLs in Frontend (""Web"" > ""Secure"").","Required for live Google Checkout transactions. Make sure that this option corresponds to Use Secure URLs in Frontend (""Web"" > ""Secure"")."
 "Residential","宅配"
 "Sandbox","サンドボックス"
 "Secure Callback URL","セキュアコールバックＵＲＬ"
