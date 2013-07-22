@@ -459,7 +459,7 @@
 "Order shipments","注文を配送する"
 "Order status does not exist.","注文ステータスがありません。"
 "Order status with the same status code already exist.","同じ名前の注文ステータスが既に存在しています。"
-"Order was placed using %s","%sを使用して支払われました"
+"Order was placed using %s","%sで購入されました"
 "Ordered","注文済"
 "Ordered amount of %s.","注文合計は %s です。"
 "Ordering amount of %s is pending approval on gateway.","注文金額 %s が決済ゲートウェイで承認待ちです。"
