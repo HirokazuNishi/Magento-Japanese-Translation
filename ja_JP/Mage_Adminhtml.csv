@@ -984,7 +984,7 @@
 "This account is","このアカウントは"
 "This account is inactive.","このアカウントは無効です。"
 "This action cannot be undone.","このアクションは取り消せません。"
-"This attribute set does not have attributes which we can use for configurable product","この属性セットは設定可能な商品に使用できる属性を含んでいません。"
+"This attribute set does not have attributes which we can use for configurable product","この属性セットはコンフィグ商品に使用できる属性を含んでいません。"
 "This attribute shares the same value in all the stores","この属性は全ての店舗で共有されています"
 "This is a demo store. Any orders placed through this store will not be honored or fulfilled.","これはデモストアです。このサイトでご注文いただいても請求されることはありません。"
 "This is a required field.","必須項目です"
