@@ -60,6 +60,7 @@
 "Google Checkout Shipping - Flat Rate","Googleチェックアウトで配送 - 固定費用"
 "Google Checkout Shipping - Merchant Calculated","Googleチェックアウトで配送 - 店舗で計算"
 "Google Checkout: %s","Googleチェックアウト: %s"
+"GoogleCheckout is not configured","Googleチェックアウトが未設定です。"
 "Google Order Number: %s","Google注文番号: %s"
 "Google Order Status Change:","Google注文ステータス変更:"
 "Google Refund:","Google返金済み:"

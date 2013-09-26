@@ -14,6 +14,7 @@
 "Please choose an action to add...","追加するアクションを選択してください。"
 "Remove","削除"
 "TRUE","TRUE"
+"There is no information about associated entity type ""%s"".","関連するエンティティ種別 ""%s"" の情報がありません。"
 "Websites must be specified.","ウェブサイトを指定してください。"
 "by","より"
 "contains","含む"

@@ -50,6 +50,7 @@
 "Date","日付"
 "Decimal Number","10進数"
 "Default Product Listing Sort by not exists on Available Product Listing Sort By","標準の商品リスト表示順は利用できる候補に存在していません。"
+"Default Product Listing Sort by does not exist in Available Product Listing Sort By.","標準の商品リスト表示順は利用できる候補に存在していません。"
 "Default Value","標準の値"
 "Default option value is not defined","標準のオプション値が未定義です"
 "Delete","削除"
