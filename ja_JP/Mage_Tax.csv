@@ -151,6 +151,7 @@
 "Total","合計"
 "Unit Price","ユニット価格"
 "Warning tax configuration can result in rounding errors","警告 税計算設定が正しくない丸め処理を行う可能性があります。"
+"Warning tax configuration can result in unexpected FPT prices on applicable devices","警告 税計算設定が予期しないFPT価格を端末に適用する可能性があります。"
 "Warning tax discount configuration might result in different discounts than a customer might expect",  "警告 値引きに関する税設定は顧客が期待する結果と異なる結果になる可能性があります。"
 "Whether catalog prices entered by admin include tax.","管理画面から入力したか否かにかかわらず、税を含んだ価格で入力してください。"
 "Whether shipping amounts entered by admin or obtained from gateways include tax.","配送総額は管理者または決済ゲートウェイによって入力されたかにかかわらず、税を含んだ価格で入力してください。"

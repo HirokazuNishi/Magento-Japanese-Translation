@@ -1,5 +1,6 @@
 """%s"" is not available in the requested quantity. %s of the items will be backordered.","""%s""の在庫が不足しています。 %s 個はバックオーダーになります。"
-"%s is available for purchase in increments of %s only.","%s は %s 個ずつしかお届けできません。"
+"%s is available for purchase in increments of %s","%s は %s 個からお求め頂けます。"
+"%s is available for purchase in increments of %s only.","%s は %s 個からお求め頂けます。"
 "%s is not a correct comparsion method.","%s は不正な比較方法です。"
 "<strong>Note</strong> that these settings are applicable to cart line items, not the whole cart.","<strong>メモ</strong> これらの設定はカート全体ではなく、それぞれの商品に対して適用されます。"
 "Add Minimum Qty","最小個数を追加"

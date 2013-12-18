@@ -92,6 +92,21 @@ body,td { color:#2f2f2f; font:11px/1.35em Verdana, Arial, Helvetica, sans-serif;
                         </tbody>
                     </table>
                     <br/>
+                    <table cellspacing="0" cellpadding="0" border="0" width="650">
+                        <thead>
+                        <tr>
+                            <th align="left" bgcolor="#EAEAEA" style="font-size:13px; padding:5px 9px 6px 9px; line-height:1em;">ギフトラッピング情報</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td valign="top" style="font-size:12px; padding:7px 9px 9px 9px; border-left:1px solid #EAEAEA; border-bottom:1px solid #EAEAEA; border-right:1px solid #EAEAEA;">
+                                {{layout handle="giftwrapping_mail_html" order_object=$order}}
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                    <br/>
                     {{/depend}}
                     {{layout handle="sales_email_order_items" order=$order}}
                     <p style="font-size:12px; margin:0 0 10px 0">{{var order.getEmailCustomerNote()}}</p>

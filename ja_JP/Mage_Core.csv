@@ -154,6 +154,7 @@
 "Invalid block type: %s","不正なブロック名です: %s"
 "Invalid block: %s","不正なブロック: %s"
 "Invalid connection","不正な接続"
+"Invalid date","不正な日付"
 "Invalid layout update handle","無効なレイアウトを更新しようとしました。"
 "Invalid messages storage ""%s"" for layout messages initialization","レイアウトメッセージ初期化で不正なメッセージストレージ ""%s"""
 "Invalid query","不正なクエリ"
