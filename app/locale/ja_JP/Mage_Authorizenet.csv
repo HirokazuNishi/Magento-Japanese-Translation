@@ -26,6 +26,7 @@
 "Payment authorization error. Transacion id is empty.","オーソリエラーです。トランザクションIDが空です。"
 "Payment error. Order was not found.","決済エラー。注文データが見つかりません。"
 "Payment error. Paid amount doesn\'t match the order amount.","決済エラー。支払額が注文時の金額と一致していません。"
+"Payment error. Paid amount doesn't match the order amount.","決済エラー。支払額が注文時の金額と一致していません。"
 "Payment from Applicable Countries","許可された国からの支払"
 "Payment from Specific Countries","特定の国からの支払"
 "Please, choose payment method","支払い方法を選択してください"

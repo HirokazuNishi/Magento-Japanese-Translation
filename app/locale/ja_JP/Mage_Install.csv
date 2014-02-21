@@ -94,6 +94,7 @@
 "Report All Bugs","バグを報告する"
 "Required Fields","必須項目"
 "Response from server isn\'t valid.","サーバからのレスポンスが不正です"
+"Response from server isn't valid.","サーバからのレスポンスが不正です"
 "Run admin interface with SSL","管理者インターフェースをSSLで実行する"
 "Run this in your shell from Magento root folder:","Magentoのルートディレクトリに配置してシェルから実行してください:"
 "Save Session Data In","セッションデータの保存先"
