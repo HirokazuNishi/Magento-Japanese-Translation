@@ -8,6 +8,7 @@
 "Enable FPT","FPTを有効にする"
 "Excluding FPT","商品定額税を除外する"
 "Excluding FPT, FPT description, final price","FPT抜価格, FPT概要, 合計金額"
+"FPT Tax Configuration","FPT Tax Configuration"
 "Fixed Product Tax","商品固定税"
 "Fixed Product Taxes","商品固定税"
 "FPT Tax Configuration","FPT税設定"
@@ -22,3 +23,4 @@
 "Total Incl. Tax","税込合計"
 "Total incl. tax","税込合計"
 "Total excl. tax","税抜き合計"
+"Total:","Total:"

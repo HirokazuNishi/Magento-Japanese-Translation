@@ -1,3 +1,4 @@
+" or "," または "
 "'%value%' appears to be a DNS hostname but cannot extract TLD part","‘%value%' がDNSのホスト名に指定されていますが、トップレベルドメイン部が抽出できません"
 "'%value%' appears to be a DNS hostname but cannot match TLD against known list","‘%value%' がDNSのホスト名に指定されていますが、トップレベルドメイン部が既知のリストにありません"
 "'%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%'","'%value%' がDNSのホスト名に指定されていますが、ホスト名の形式がトップレベルドメイン '%tld%'にマッチしていません"
@@ -419,6 +420,7 @@
 "To show VAT number on frontend, set Show VAT Number on Frontend option to Yes.","VAT番号をフロントエンドで表示するには、VAT番号をフロントエンド表示する設定にしてください。"
 "Total","合計"
 "Type","タイプ"
+"Unable to save the customer.","Unable to save the customer."
 "Unknown","不明"
 "Unsubscribe from Newsletter","ニュースレターを購読解除する"
 "Update","更新"
@@ -477,3 +479,4 @@
 "Zip/Postal Code","郵便番号"
 "n/a","該当無し"
 "or","または"
+"register","register"

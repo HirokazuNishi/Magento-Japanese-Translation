@@ -1,6 +1,7 @@
 "--Please Select--","--選択してください--"
 "API Login ID","APIログインID"
 "Accepted Currency","支払可能通貨"
+"Amount of %s approved by payment gateway. Transaction ID: ""%s"".","Amount of %s approved by payment gateway. Transaction ID: ""%s""."
 "Authorize.net Direct Post","Authorize.net ダイレクトポスト"
 "Card Verification Number","カード確認番号"
 "Card Verification Number Visual Reference","カード確認番号ビジュアルリファレンス"
