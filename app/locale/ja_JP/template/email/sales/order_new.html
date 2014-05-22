@@ -1,7 +1,8 @@
 <!--@subject {{var store.getFrontendName()}}: ご注文 # {{var order.increment_id}} @-->
 <!--@vars
 {"store url=\"\"":"Store Url",
-"skin url=\"images/logo_email.gif\" _area='frontend'":"Email Logo Image",
+"var logo_url":"Email Logo Image Url",
+"var logo_alt":"Email Logo Image Alt",
 "htmlescape var=$order.getCustomerName()":"Customer Name",
 "var store.getFrontendName()":"Store Name",
 "store url=\"customer/account/\"":"Customer Account Url",
@@ -26,7 +27,7 @@ body,td { color:#2f2f2f; font:11px/1.35em Verdana, Arial, Helvetica, sans-serif;
         <table bgcolor="#FFFFFF" cellspacing="0" cellpadding="10" border="0" width="650" style="border:1px solid #E0E0E0;">
             <!-- [ header starts here] -->
             <tr>
-                <td valign="top"><a href="{{store url=""}}"><img src="{{skin url="images/logo_email.gif" _area='frontend'}}" alt="{{var store.getFrontendName()}}"  style="margin-bottom:10px;" border="0"/></a></td>
+                <td valign="top"><a href="{{store url=""}}"><img src="{{var logo_url}}" alt="{{var logo_alt}}" style="margin-bottom:10px;" border="0"/></a></td>
             </tr>
             <!-- [ middle starts here] -->
             <tr>
@@ -87,21 +88,6 @@ body,td { color:#2f2f2f; font:11px/1.35em Verdana, Arial, Helvetica, sans-serif;
                             <td valign="top" style="font-size:12px; padding:7px 9px 9px 9px; border-left:1px solid #EAEAEA; border-bottom:1px solid #EAEAEA; border-right:1px solid #EAEAEA;">
                                 {{var order.getShippingDescription()}}
                                 &nbsp;
-                            </td>
-                        </tr>
-                        </tbody>
-                    </table>
-                    <br/>
-                    <table cellspacing="0" cellpadding="0" border="0" width="650">
-                        <thead>
-                        <tr>
-                            <th align="left" bgcolor="#EAEAEA" style="font-size:13px; padding:5px 9px 6px 9px; line-height:1em;">ギフトラッピング情報</th>
-                        </tr>
-                        </thead>
-                        <tbody>
-                        <tr>
-                            <td valign="top" style="font-size:12px; padding:7px 9px 9px 9px; border-left:1px solid #EAEAEA; border-bottom:1px solid #EAEAEA; border-right:1px solid #EAEAEA;">
-                                {{layout handle="giftwrapping_mail_html" order_object=$order}}
                             </td>
                         </tr>
                         </tbody>
