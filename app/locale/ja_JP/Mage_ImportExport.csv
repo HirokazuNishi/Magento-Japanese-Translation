@@ -1,4 +1,4 @@
-" in rows: "," in rows: "
+" in rows: "," 行: "
 "%s file does not exists or is not readable","%s は存在しないか読み込めません。"
 "-- Please Select --","-- 選択してください --"
 "Adapter must be an instance of Mage_ImportExport_Model_Import_Adapter_Abstract","アダプターは Mage_ImportExport_Model_Import_Adapter_Abstract のインスタンスであるである必要があります"
@@ -67,8 +67,8 @@ From,開始
 "Import Behavior",インポートの振る舞い
 "Import Settings",インポート設定
 "Import has been done successfuly.",インポートが完了しました。
-"Import successfully done.","Import successfully done."
-"Import/Export","Import/Export"
+"Import successfully done.","インポートが成功しました。"
+"Import/Export","インポート/エクスポート"
 "Input entity code is not equal to entity adapter code","入力エンティティコードがエンティティアダプタコードと一致しません"
 "Invalid entity","不正なエンティティ"
 "Invalid entity model",不正なエンティティモデル
@@ -103,5 +103,5 @@ To,終了
 "Uploaded file has no extension",アップロードしたファイルに拡張子がありません
 "Validation Results",チェック結果
 "Validation finished successfully",チェック完了
-"in rows","in rows"
-"in rows:","in rows:"
+"in rows","行"
+"in rows:","行:"

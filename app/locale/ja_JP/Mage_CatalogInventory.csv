@@ -50,7 +50,7 @@
 "The stock item for Product in option is not valid.","オプション商品の在庫数が不正です。"
 "The stock item for Product is not valid.","商品の在庫数が不正です。"
 "This product is available for purchase in increments of %s only.","この商品は%s個単位でのみ購入可能です。"
-"This product is currently out of stock.","This product is currently out of stock."
+"This product is currently out of stock.","この商品は現在在庫切れです。"
 "This product is not available in the requested quantity. %s of the items will be backordered.","ご指定頂いた商品の在庫数が不足しております。 %s 個はバックオーダーとなります。"
 "To Fixed Value","固定値"
 "To Percentage","割合"
