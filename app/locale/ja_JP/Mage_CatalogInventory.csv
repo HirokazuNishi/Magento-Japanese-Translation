@@ -40,6 +40,7 @@
 "Rule price","値引き"
 "Set Items' Status to be In Stock When Order is Cancelled","注文がキャンセルされたときにはセット商品の状態を在庫ありにする"
 "Some of the products are currently out of stock","幾つかの商品が在庫切れです"
+"Some of the products are currently out of stock.","幾つかの商品が在庫切れです"
 "Some of the products cannot be ordered in requested quantity.","幾つかの商品はご要望いただいた数量をご注文いただけません。"
 "Some of the products cannot be ordered in the requested quantity.","いくつかの商品はご要望いただいた数量をご注文いただけません。"
 "Stock Options","ストックオプション"
@@ -58,4 +59,3 @@
 "Update","更新"
 "Update product stock data","商品の在庫データを更新しました"
 "Update the Product","商品を更新"
-"Display Out of Stock Products","在庫切れ商品を表示する"
