@@ -68,7 +68,7 @@
 "Economy select","Economy select"
 "Empty response","空の返信"
 "Enable Negotiated Rates","ネゴシエイトレートを有効にする"
-"Enabled for Checkout","Enabled for Checkout"
+"Enabled for Checkout","有効"
 "Enables/Disables SSL verification of Magento server by UPS.","UPSによるMagentoサーバのSSL検証を有効/無効にする"
 "Error #%s : %s","Error #%s : %s"
 "Error #%s : %s (%s)","エラー #%s : %s (%s)"
