@@ -4,6 +4,16 @@
 "var $applicationName":"Application name",
 "var $status":"Token new status"}
 @-->
+{{template config_path="design/email/header"}}
+{{inlinecss file="email-inline.css"}}
 
-こんにちは, {{htmlescape var=$userName}}様<br /><br />
-あなたの <b>{{htmlescape var=$applicationName}}</b> の認証情報が管理者によって <b>{{htmlescape var=$status}}</b> に変更されました。<br /><br />
+<table cellpadding="0" cellspacing="0" border="0">
+    <tr>
+        <td class="action-content">
+            <h1>こんにちは、{{htmlescape var=$userName}}差、あ</h1>
+            <p>あなたの <b>{{htmlescape var=$applicationName}}</b> の認証情報が管理者によって <b>{{htmlescape var=$status}}</b> に変更されました。</p>
+        </td>
+    </tr>
+</table>
+
+{{template config_path="design/email/footer"}}

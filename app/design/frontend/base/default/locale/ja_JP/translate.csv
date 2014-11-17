@@ -16,3 +16,5 @@
 "Mage_Checkout::Change Billing Address","ご請求先住所変更"
 "Mage_Customer::Change Shipping Address","お届け先変更"
 "Mage_Checkout::Change Shipping Address","お届け先変更"
+"Mage_Sales::Number","追跡番号"
+"Mage_Sales::Title","配送会社"

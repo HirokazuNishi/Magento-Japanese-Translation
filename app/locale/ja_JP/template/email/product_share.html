@@ -10,4 +10,21 @@
 "var message":"Sender Message"}
 @-->
 
-ようこそ、{{htmlescape var=$name}} 様<br /><br />こちらの商品<a href="{{var product_url}}">{{var product_name}}</a>をご覧ください。<br /><br />メッセージ: <br />{{var message}}<br /><br />
+{{template config_path="design/email/header"}}
+{{inlinecss file="email-inline.css"}}
+
+<table cellpadding="0" cellspacing="0" border="0">
+    <tr>
+        <td class="action-content">
+            <h1>{{htmlescape var=$name}}様</h1>
+            <p>あなたのご友人から商品のご紹介です: <a href="{{var product_url}}">{{var product_name}}</a></p>
+            <table cellspacing="0" cellpadding="0" class="message-container">
+                <tr>
+                    <td><strong>メッセージ:</strong> {{var message}}</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+{{template config_path="design/email/footer"}}

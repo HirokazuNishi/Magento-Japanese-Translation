@@ -1,41 +1,35 @@
-" in rows: "," 行: "
 "%s file does not exists or is not readable","%s は存在しないか読み込めません。"
 "-- Please Select --","-- 選択してください --"
 "Adapter must be an instance of Mage_ImportExport_Model_Import_Adapter_Abstract","アダプターは Mage_ImportExport_Model_Import_Adapter_Abstract のインスタンスであるである必要があります"
-"Adapter object must be an instance of %s","Adapter object must be an instance of %s"
+"Adapter object must be an instance of %s","アダプターオブジェクトは %s のインスタンスである必要があります"
 "Adapter type must be a non empty string","アダプター種別が空文字列です"
-"Append Complex Data",追記モード
-"Attribute Code",属性コード
-"Attribute Label",属性ラベル
-"Attribute does not has options, so filtering is impossible",属性にオプションが登録されていません。フィルタできません。
-"Begin data validation",データ検証開始
-"Begin export of %s",%sをエクスポート開始
+"Append Complex Data","追記モード"
+"Attribute Code","属性コード"
+"Attribute Label","属性ラベル"
+"Attribute does not has options, so filtering is impossible","属性にオプションが登録されていません。フィルタできません。"
+"Begin data validation","データ検証開始"
+"Begin export of %s","%sをエクスポート開始"
 "Begin import of ""%s"" with ""%s"" behavior","""%s""のインポートを""%s""として開始"
 "CSV","CSV"
 "Can not determine attribute filter type","フィルター種別を特定できません"
-"Can not find required columns: ","必須カラムが見つかりません: "
 "Can not find required columns: %s","必須列が見つかりません: %s"
-"Cannot get autoincrement value",オートインクリメント値を取得できません
-"Can not get autoincrement value","オートインクリメント値を取得できません"
+"Cannot get autoincrement value","オートインクリメント値を取得できません"
 "Check Data","データチェック"
 "Checked rows: %d, checked entities: %d, invalid rows: %d, total errors: %d","チェック済み行: %d, チェック済みエンティティ: %d, 不正な列: %d, 合計エラー件数: %d"
 "Column names have duplicates","カラム名が重複しています"
 "Column names is empty or is not an array","カラム名が空白か配列ではありません"
 "Column names: ""%s"" are invalid","カラム名: ""%s"" は不正です"
-"Continue","続ける"
-Customers,顧客
+"Customers","顧客"
 "Data is invalid or file is not uploaded","データが不正であるかファイルがアップロードされていません"
-"Delete Entities",エンティティ削除
+"Delete Entities","エンティティ削除"
 "Destination directory is not writable","保存先ディレクトリに書き込み権限がありません"
 "Destination file is not writable","保存先ファイルに書き込み権限がありません"
 "Destination file path must be a string","保存先ファイルパスは文字列でなければなりません"
-"Entity Attributes","エンティティ属性"
-"Entity adapter object must be an instance of Mage_ImportExport_Model_Import_Entity_Abstract","エンティティアダプタは Mage_ImportExport_Model_Import_Entity_Abstract のインスタンスである必要があります"
-"Done import data validation",インポートデータ検証完了
+"Done import data validation","インポートデータ検証完了"
 "Duplicate Unique Attribute for '%s'","ユニーク属性 '%s' の重複"
-"Entity Type",エンティティタイプ
+"Entity Type","エンティティタイプ"
 "Entity adapter obejct must be an instance of Mage_ImportExport_Model_Export_Entity_Abstract","エンティティアダプタオブジェクトは Mage_ImportExport_Model_Export_Entity_Abstract のインスタンスである必要があります。"
-"Entity adapter object must be an instance of Mage_ImportExport_Model_Import_Entity_Abstract","Entity adapter object must be an instance of Mage_ImportExport_Model_Import_Entity_Abstract"
+"Entity adapter object must be an instance of Mage_ImportExport_Model_Import_Entity_Abstract","エンティティアダプタオブジェクトは Mage_ImportExport_Model_Import_Entity_Abstract のインスタンスである必要があります。"
 "Entity is unknown","エンティティが不明です"
 "Entity type model must be an instance of Mage_ImportExport_Model_Export_Entity_Product_Type_Abstract","エンティティ種別は Mage_ImportExport_Model_Export_Entity_Product_Type_Abstract のインスタンスである必要があります"
 "Entity type model must be an instance of Mage_ImportExport_Model_Import_Entity_Product_Type_Abstract","エンティティ種別モデルは Mage_ImportExport_Model_Import_Entity_Product_Type_Abstract のインスタンスである必要があります"
@@ -43,7 +37,6 @@ Customers,顧客
 "Error in data structure: entity codes are mixed","データ構造エラー: エンティティコードが不正確です"
 "Export","エクスポート"
 "Export FAQ","エクスポートFAQ"
-"FAQ","FAQ"
 "Export File Format",エクスポートファイルフォーマット
 "Export Settings",エクスポート設定
 "Export has been done.",エクスポート完了しました。
@@ -56,52 +49,45 @@ Customers,顧客
 "File is valid! To start import process press ""Import"" button","ファイルは正常です。インポートを開始するには ""インポート"" ボタンをクリックしてください。"
 "File is valid, but import is not possible","ファイルは正常ですがインポートできません。"
 "File was not uploaded",ファイルがアップロードされていません
-Filter,フィルタ
-From,開始
+"Filter","フィルタ"
+"From","開始"
 "Header column names already set","ヘッダ列が既にセットされています"
 "Import","インポート"
-"Import / Export FAQ (Frequently Asked Questions)","インポート / エクスポート FAQ (よくある質問と回答)"
-"Import FAQ","インポート FAQ"
-"Import successfully done.","インポートが成功しました。"
-"Import/Export","インポート/エクスポート"
-"Import Behavior",インポートの振る舞い
-"Import Settings",インポート設定
-"Import has been done successfuly.",インポートが完了しました。
+"Import Behavior","インポートの振る舞い"
+"Import Settings","インポート設定"
+"Import has been done successfuly.","インポートが完了しました。"
 "Import successfully done.","インポートが成功しました。"
 "Import/Export","インポート/エクスポート"
 "Input entity code is not equal to entity adapter code","入力エンティティコードがエンティティアダプタコードと一致しません"
 "Invalid entity","不正なエンティティ"
-"Invalid entity model",不正なエンティティモデル
+"Invalid entity model","不正なエンティティモデル"
 "Invalid file format","不正なファイルフォーマット"
 "Invalid parameters","不正なパラメータ"
-"Invalid seek position",不正な走査位置
-"Invalid value for '%s'",'%s'の不正な値
-"Invalid value for '%s' column",'%s'列の不正な値
-"No filter data provided",フィルタデータがありません
-"No source specified",ソースが未指定です
-"No valid data sent",正しいでたが送信されませんでした
-"No writer specified",書き込みオブジェクトが未指定です
-"Node does not has model token tag",ノードがモデルのトークンタグを持っていません
-"Not implemented yet",未実装です
-"Please fix errors and re-upload file",エラーを修正してファイルをアップロードしなおしてください
+"Invalid seek position","不正な走査位置"
+"Invalid value for '%s'","'%s'の不正な値"
+"Invalid value for '%s' column","'%s'列の不正な値"
+"No filter data provided","フィルタデータがありません"
+"No source specified","ソースが未指定です"
+"No valid data sent","正しいデータが送信されませんでした"
+"No writer specified","書き込みオブジェクトが未指定です"
+"Node does not has model token tag","ノードがモデルのトークンタグを持っていません"
+"Not implemented yet","未実装です"
+"Please fix errors and re-upload file","エラーを修正してファイルをアップロードしなおしてください"
 "Please fix errors and re-upload file or simply press ""Import"" button to skip rows with errors","エラーを修正してファイルをアップロードしなおし、""インポート""をクリックしてください"
-Products,商品
-"Replace Existing Complex Data",上書き
-"Select File to Import",インポートするファイルを選択
-Skip,好きスキップ
-"Some other FAQ",そのほかのFAQ
-"Source file moving failed",元ファイルの移動に失敗しました
-"Source file path must be a string",元ファイルのパスは文字列でなければなりません
-"Source is not set",元ファイルが未指定です
-Status,ステータス
-"System busy",システムビジー
-"There are no product types available for export",エクスポートできる商品種別がありません
-"There is no data for export",エクスポートできるデータがありません
-To,終了
+"Products","商品"
+"Replace Existing Complex Data","上書き"
+"Select File to Import","インポートするファイルを選択"
+"Skip","スキップ"
+"Source file moving failed","元ファイルの移動に失敗しました"
+"Source file path must be a string","元ファイルのパスは文字列でなければなりません"
+"Source is not set","元ファイルが未指定です"
+"Status","ステータス"
+"There are no product types available for export","エクスポートできる商品種別がありません"
+"There is no data for export","エクスポートできるデータがありません"
+"To","終了"
 "Total size of uploadable files must not exceed %s","アップロードできるファイルサイズは %s を超えてはいけません"
-"Unknown attribute filter type",不明な属性フィルタタイプ
-"Uploaded file has no extension",アップロードしたファイルに拡張子がありません
-"Validation Results",チェック結果
-"Validation finished successfully",チェック完了
+"Unknown attribute filter type","不明な属性フィルタタイプ"
+"Uploaded file has no extension","アップロードしたファイルに拡張子がありません"
+"Validation finished successfully","チェック完了"
 "in rows","行"
 "in rows:","行:"

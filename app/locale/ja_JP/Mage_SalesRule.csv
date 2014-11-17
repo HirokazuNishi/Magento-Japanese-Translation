@@ -121,6 +121,7 @@
 "Update prices using the following information","商品の価格を以下の条件で更新する"
 "Update product's %s %s: %s","商品を更新 %s %s: %s"
 "Update the Product","商品を更新"
+"Usage limit enforced for logged in customers only","使用数制限はログインしている顧客にのみ適用されます"
 "Use Auto Generation","自動生成を使用する"
 "Used","使用済"
 "Uses per Coupon","クーポンごとの使用可能数"
