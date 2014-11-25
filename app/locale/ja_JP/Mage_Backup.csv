@@ -33,7 +33,7 @@
 "Please either unselect the ""Put store on the maintenance mode"" checkbox or update your permissions to proceed with the backup.""","""ストアをメンテナンス中にする"" チェックボックを未選択にするか、バックアップを実行するために必要な権限を更新してください。"
 "Please either unselect the ""Put store on the maintenance mode"" checkbox or update your permissions to proceed with the rollback.""","""ストアをメンテナンス中にする"" チェックボックを未選択にするか、ロールバックを実行するために必要な権限を更新してください。"
 "Put store on the maintenance mode while backup's creation","バックアップ作成中はストアをメンテナンス中にする"
-"Rollback","Rollback"
+"Rollback","ロールバック"
 "Scheduled Backup Settings","定期バックアップ設定"
 "Size, Bytes","サイズ, バイト数"
 "Start Time","開始時間"
