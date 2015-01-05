@@ -1,0 +1,550 @@
+"Are you sure?",よろしいですか?
+Close,閉じる
+Cancel,キャンセル
+"Invalid Form Key. Please refresh the page.",不正なフォームキーです。ページを再読み込みしてください。
+"You entered an invalid Secret Key. Please refresh the page.",不正なシークレットキーです。ページを再読み込みしてください。
+"Cache Storage Management",キャッシュストレージ管理
+"Flush Magento Cache",Magentoのキャッシュを更新
+"Cache storage may contain additional data. Are you sure that you want flush it?",キャッシュストレージには様々なデータが含まれています続けてもよろしいですか？
+"Flush Cache Storage",キャッシュストレージを更新
+Invalidated,期限切れ
+Orders,注文
+Amounts,金額
+Bestsellers,ベストセラー
+"Most Viewed Products",よく見られている商品
+"New Customers",新規顧客
+Customers,顧客
+Customer,顧客
+Guest,ゲスト
+Items,アイテム
+"Grand Total",合計
+"Lifetime Sales",売上高
+"Average Orders",平均注文金額
+Average,平均
+Total,合計
+Product,商品
+Price,Price
+"Order Quantity",注文点数
+Views,Views
+Revenue,収益
+Tax,税
+Shipping,配送
+Quantity,数量
+"Images (.gif, .jpg, .png)","画像 (.gif, .jpg, .png)"
+"Media (.avi, .flv, .swf)","メディア (.avi, .flv, .swf)"
+"All Files",すべてのファイル
+"Interface Language",表示言語
+"Reset to Default",デフォルトに戻す
+"All Store Views",全てのストアビュー
+"What is this?",これは何ですか？
+"Save Account",アカウントを保存
+"My Account",マイ・アカウント
+"Account Information",アカウント情報
+"User Name",ユーザー名
+"First Name",名
+"Last Name",姓
+Email,メールアドレス
+"User Email",メールアドレス
+"New Password",新しいパスワード
+"Password Confirmation",パスワード確認
+"Interface Locale",表示言語
+"Current User Identity Verification",ユーザー確認
+"Your Password",パスワード
+"Save Cache Settings",キャッシュ設定を保存
+"Catalog Rewrites",カタログ書換え
+Refresh,更新
+"Images Cache",画像キャッシュ
+Clear,クリア
+"Search Index",検索インデックス
+Rebuild,再構築
+"Inventory Stock Status",在庫ステータス
+"Rebuild Catalog Index",商品インデックス再構築
+"Rebuild Flat Catalog Category",フラットカタログカテゴリ再構築
+"Rebuild Flat Catalog Product",フラットカタログ商品再構築
+"Cache Control",キャッシュ管理
+"All Cache",全てのキャッシュ
+"No change",変更なし
+Disable,無効
+Enable,有効
+"Default Config",標準設定
+"Save Config",設定保存
+[GLOBAL],[グローバル]
+[WEBSITE],[ウェブサイト]
+"[STORE VIEW]",[ストアビュー]
+"Use Default",デフォルトを使用
+"Use Website",ウェブサイトを使用
+Add,追加
+"Delete File",ファイル削除
+"Search String",検索文字列
+"Design Theme",デザインテーマ
+"Add \Exception",例外を追加
+"-- No Theme --","-- テーマを選択してください --"
+Synchronize,同期
+Configuration,設定
+"Add Design Change",デザイン変更追加
+Back,戻る
+Delete,削除
+Save,保存
+"Edit Design Change",デザインを編集
+"New Store Design Change",新しいストアデザイン
+"General Settings",全般設定
+Store,Store
+"-- Please Select --","-- 選択してください --"
+"Custom Design",カスタムデザイン
+"Date From",開始日
+"Date To",終了日
+"Design Change",デザイン変更
+General,全般
+"Delete %1 '%2'","%1 の '%2' を差k序"
+"Delete %1","%1 を削除"
+"Block Information",ブロック情報
+"Backup Options",バックアップオプション
+"Create DB Backup",DBバックアップを作成
+Yes,Yes
+No,No
+"Delete Store",ストアを削除
+"Delete Web Site",ウェブサイトを削除
+"Save Web Site",ウェブサイトを保存
+"Save Store",ストアを保存
+"Save Store View",ストアビューを保存
+"Delete Store View",ストアビューを削除
+"Edit Web Site",ウェブサイトを編集
+"New Web Site",新しいウェブサイト
+"Edit Store",ストアを編集
+"New Store",新しいストア
+"Edit Store View",ストアビューを編集
+"New Store View",新しいストアビュー
+"Store Information",ストア情報
+"Web Site",ウェブサイト
+Name,Name
+"Root Category",ルートカテゴリ
+"Default Store View",デフォルトストアビュー
+"Store View Information",ストアビュー情報
+Code,コード
+Status,ステータス
+Disabled,無効
+Enabled,有効
+"Sort Order",表示順
+"Web Site Information",ウェブサイト情報
+"Default Store",デフォルトストア
+"Set as Default",デフォルトにする
+Stores,Stores
+"Create Website",ウェブサイト作成
+"Create Store",ストア作成
+"Create Store View",ストアビュー作成
+"Custom Variables",カスタム変数
+"Add New Variable",カスタム変数を追加
+"Save and Continue Edit",保存して編集を続ける
+"Custom Variable ""%1""","カスタム変数 ""%1"""
+"New Custom Variable",カスタム変数
+Variable,変数
+"Variable Code",変数コード
+"Variable Name",変数名
+"Use Default Variable Values",デフォルトの変数の値を使用する
+"Variable HTML Value",HTML版の変数値
+"Variable Plain Value",テキスト版の変数値
+"Global Attribute",全体属性
+"This attribute shares the same value in all stores.",この属性はすべてのストアで同じ値を共有します。
+Home,ホーム
+Reset,リセット
+"Are you sure you want to do this?",実行してもよろしいですか?
+"Add New Image",新しい画像を追加
+"Reset Filter",フィルタをリセット
+Search,検索
+Any,全て
+"All Countries",全ての国
+From,From
+To,To
+"Date selector",日付選択
+"[ deleted ]","[ 削除済 ]"
+"Select All",全て選択
+" [deleted]"," [削除済]"
+"We couldn't find any records.",データが見つかりませんでした。
+"Add New",新規作成
+Export,エクスポート
+"Please correct the column format and try again.",列の形式を修正してやり直してください。
+"Please select items.",商品を選択してください。
+Submit,送信
+"Please correct the tab configuration and try again.",タブの設定を修正してやり直してください。
+"You have logged out.",ログアウトしました。
+"Specified cache type(s) don't exist: ","指定されたキャッシュタイプがありません: "
+"The image cache was cleaned.",画像キャッシュはクリアされました。
+"An error occurred while clearing the image cache.",画像キャッシュの消去中にエラーが発生しました。
+"The JavaScript/CSS cache has been cleaned.",JavaScript/CSSキャッシュを消去しました。
+"An error occurred while clearing the JavaScript/CSS cache.",JavaScript/CSSキャッシュの消去中にエラーが発生しました。
+"You flushed the cache storage.",キャッシュストレージを消去しました。
+"The Magento cache storage has been flushed.",Magentoのキャッシュストレージ消去しました。
+"Cache Management",キャッシュ管理
+"%1 cache type(s) disabled.","%1 件のキャッシュを無効にしました。"
+"An error occurred while disabling cache.",キャッシュの無効化中にエラーが発生しました。
+"%1 cache type(s) enabled.","%1 件のキャッシュを有効にしました。"
+"An error occurred while enabling cache.",キャッシュの有効化中にエラーが発生しました。
+"%1 cache type(s) refreshed.","%1 件のキャッシュを更新しました。"
+"An error occurred while refreshing cache.",キャッシュの更新中にエラーが発生しました。
+Dashboard,ダッシュボード
+"invalid request",不正なリクエスト
+"see error log for details",詳細はエラーログを参照してください
+"Service unavailable: %1","サービスが利用できません: %1"
+Error,エラー
+"Access Denied",アクセス禁止
+"You need more permissions to do this.",この操作を行うための権限が不足しています。
+"No search modules were registered",利用できる検索モジュールがありません
+"Please make sure that all global admin search modules are installed and activated.",全ての管理画面用検索モジュールがインストール済みで有効化済みであることを確認して下さい。
+"You have entered an invalid password for current user.",現在のユーザーに対する不正なパスワードが入力されました。
+"The account has been saved.",アカウントを保存しました。
+"An error occurred while saving account.",アカウントの保存中にエラーが発生しました。
+System,System
+"You saved the configuration.",設定を保存しました。
+"An error occurred while saving this configuration:",以下の設定を保存中にエラーが発生姉妹sた:
+"Synchronizing %1 to %2","%1 と %2 を同期中です"
+Synchronizing...,同期中です...
+"The timeout limit for response from synchronize process was reached.",同期処理のレスポンスタイムリミットに達しました。
+"You deleted the design change.",デザイン変更を削除しました。
+"Cannot delete the design change.",デザイン変更を削除できません。
+"Store Design",ストアデザイン
+"Edit Store Design Change",ストアデザイン変更を編集
+"You saved the design change.",デザイン変更を保存しました。
+"Manage Stores",ストア管理
+"The database was backed up.",データベースをバックアップしました。
+"We couldn't create a backup right now. Please try again later.",バックアップを今作成できません。後でやり直してください。
+"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","%1 を削除する場合、 %1 に関連付けられている情報 (例: カテゴリ, 商品など) は削除されませんが、 %1 は復元できません。 %1 を削除する前にデータベースのバックアップを作成することをおすすめします。"
+"Unable to proceed. Please, try again.",処理できません。やり直してください。
+"This store cannot be deleted.",このストアは削除できません。
+"The store has been deleted.",このストアは削除されました。
+"Unable to delete store. Please, try again later.",ストアを削除できません。後でやり直してください。
+"This store view cannot be deleted.",このストアビューは削除できません。
+"Store View",ストアビュー
+"Unable to proceed. Please, try again",処理できません。後でやり直してください。
+"The store view has been deleted.",ストアビューを削除しました。
+"Unable to delete store view. Please, try again later.",ストアビューを削除できません。後でやり直してください。
+"This website cannot be deleted.",ウェブサイトを削除できません。
+"The website has been deleted.",ウェブサイトを削除しました。
+"Unable to delete website. Please, try again later.",ウェブサイトを削除できません。後でやり直してください。
+"The website does not exist.",ウェブサイトがありません。
+"Before modifying the website code please make sure that it is not used in index.php.","ウェブサイトコードをを変更する前に、そのコードが index.php で使われていないかどうか確認してください。"
+"The store does not exist",ストアがありません
+"Store view doesn't exist",ストアビューがありません
+"Before modifying the store view code please make sure that it is not used in index.php.","ストアビューコードをを変更する前に、そのコードが index.php で使われていないかどうか確認してください。"
+"New ","新規 "
+"The website has been saved.",ウェブサイトを保存しました。
+"The store has been saved.",ストアを保存しました。
+"The store view has been saved",ストアビューを保存しました。
+"An error occurred while saving. Please review the error log.",保存中にエラーが発生しました。エラーログを確認してください。
+"You deleted the custom variable.",カスタム変数を削除しました。
+"You saved the custom variable.",カスタム変数を保存しました。
+"Last 24 Hours",直近24時間
+"Last 7 Days",直近7日
+"Current Month",今月
+YTD,1年間
+2YTD,2年間
+"Please correct the user name or password.",ユーザー名又はパスワードを訂正してください。
+"Authentication error occurred.",認証エラーが起きました。
+"Please specify the admin custom URL.",管理画面カスタムURLを指定してください。
+"Invalid %1. %2","不正な %1 です。 %2"
+"Value must be a URL or one of placeholders: %1","値はURLまたは1つ以上のプレースホルダでなければなりません: %1"
+"Specify a URL or path that starts with placeholder(s): %1, and ends with ""/"".","プレースホルダで始まるURLまたはパスを指定してください: %1, 末尾の文字は ""/"" です。"
+"%1 An empty value is allowed as well.","%1 には空の値も許可されています。"
+"Specify a fully qualified URL.",完全なURLを指定してください。
+"Invalid domain name: ","不正なドメイン名です: "
+"Invalid cookie lifetime: ","不正なCookie有効期限です: "
+"Invalid cookie path",不正なCookieパスです
+"Selected allowed currency ""%1"" is not available in installed currencies.","選択された許可通貨 ""%1"" はインストールされている通貨の中にありません。"
+"Default display currency ""%1"" is not available in allowed currencies.","標準通貨 ""%1"" はインストールされている通貨の中にありません。"
+"Sorry, we haven't installed the base currency you selected.",申し訳ありません、選択された基本通貨はインストールされていません。
+"We can't save the Cron expression.",Cronスケジュールを保存できません。
+"Sorry, we haven't installed the default display currency you selected.",申し訳ありません、選択された標準通貨はインストールされていません。
+"Sorry, the default display currency you selected in not available in allowed currencies.",申し訳ありません、選択された標準通貨は許可通貨の中にありません。
+"Please correct the email address: ""%1"".","メールアドレスを訂正してください: ""%1""."
+"The sender name ""%1"" is not valid. Please use only visible characters and spaces.","送信者名 ""%1"" が不正です。正しい文字列とスペースを使用してください。"
+"Maximum sender name length is 255. Please correct your settings.","送信者名の長さは最大 255 文字です。訂正してください。"
+"The file you're uploading exceeds the server size limit of %1 kilobytes.","アップロードされたファイルのサイズが、サーバーの設定値を超過しています。 %1 キロバイトまでに調整してください。"
+"The base directory to upload file is not specified.",ファイルをアップロードするためのベースディレクトリが未指定です。
+"The specified image adapter cannot be used because of: ","次の理由で指定された画像処理アダプタが利用できません: "
+"Default scope",デフォルト
+"Base currency",基本通貨
+"Display default currency",標準通貨
+"website(%1) scope","ウェブサイト(%1) スコープ"
+"store(%1) scope","ストア(%1) スコープ"
+"Currency ""%1"" is used as %2 in %3.","通貨 ""%1"" は %3 で %2 として使用されています。"
+"Please correct the timezone.",タイムゾーンを訂正してください。
+"Always (during development)","常に (開発中は)"
+"Only Once (version upgrade)","1度だけ (バージョンアップ時)"
+"Never (production)","行わない (本番環境)"
+Bcc,Bcc
+"Separate Email",個別メール
+"%1 (Default)","%1 (デフォルト)"
+title,タイトル
+Optional,オプション
+Required,必須
+Website,ウェブサイト
+"File System",ファイルシステム
+Database,データベース
+"HTTP (unsecure)","HTTP (非セキュア)"
+"HTTPS (SSL)","HTTPS (SSL)"
+"Yes (302 Found)","Yes (302 Found)"
+"Yes (301 Moved Permanently)","Yes (301 Moved Permanently)"
+Specified,特定
+Order,注文
+"Order #%1",注文番号%1
+"Order #%1 (%2)","注文番号%1 (%2)"
+"Access denied",アクセス拒否
+"Please try to log out and sign in again.",一旦ログアウトしてログインしなおしてみてください
+"If you continue to receive this message, please contact the store owner.",このメッセージを受信し続けるには、ストアオーナーに連絡してください。
+"Access denied.",アクセス拒否。
+"Magento Admin Panel",Magento管理画面
+Welcome,ようこそ
+"User Name:",ユーザー名:
+"user name",ユーザー名
+Password:,パスワード:
+password,パスワード
+"Log in",ログイン
+"Select Range:",範囲選択:
+"No Data Found",データがありません
+"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","チャートは無効です。有効にするには、 <a href=""%1"">こちら</a> をクリックしてください。"
+"Last 5 Orders",直近5件の注文
+"Last 5 Search Terms",直近5件の検索キーワード
+"Top 5 Search Terms",上位5件の検索キーワード
+"There are no search keywords.",まだ検索キーワードはありません。
+"View Statistics For:",次の統計を表示:
+"All Websites",全てのウェブサイト
+"Browse Files...",ファイルを表示...
+"Magento is an eBay Inc. company. Copyright&copy; %1 Magento, Inc. All rights reserved.","Magento は eBay Inc. の企業です。 Copyright&copy; %1 Magento, Inc. All rights reserved."
+"Magento ver. %1","Magento ver. %1"
+"Help Us Keep Magento Healthy - Report All Bugs","Magentoを安全に保つためにご協力ください - 不具合をお知らせください"
+"Account Setting",アカウント設定
+"Customer View",顧客表示
+"Sign Out",ログアウト
+"About the calendar",カレンダーについて
+"Go Today",今日に移動
+Previous,前へ
+Next,次へ
+WK,WK
+Time,時間
+Hour,時
+Minute,分
+"Please select an option.",オプションを選択してください。
+"This is a required field.",これは必須項目だ。
+"Please enter a valid number in this field.",正しい数字をこの項目に入力してください。
+"Please enter only numbers (1-9) into this field. Do not use spaces, commas, or any other characters.",半角数字(1-9)のみをこの項目に入力してください。スペースやコンマなどの文字は使用しないでください。
+"Please enter only letters (a-z) into this field.",半角アルファベットのみをこの項目に入力してください。
+"Please enter only numbers (0-9) or letters (a-z) into this field.",半角英数字のみをこの項目に入力してください。
+"Please enter only numbers or letters into this field. Do not use spaces, commas, or any other characters.",半角英数字のみをこの項目に入力してください。スペースやコンマなどの文字は使用しないでください。
+"Please enter only letters (a-z), numbers (0-9), spaces and the ""#"" character into this field.","半角英数字または半角スペース、""#"" のみをこの項目に入力してください。"
+"Please enter a valid phone number (for example, (123) 456-7890 or 123-456-7890).","正しい形式の電話番号を入力してください。 (例:(012)-345-6789 or 012-345-6789)"
+"Please enter a valid date.",正しい日付を入力してください。
+"Please enter a valid email address(for example johndoe@domain.com.).","正しいメールアドレスを入力してください。(例: johndoe@domain.com.)"
+"Please enter 6 or more characters.",6文字以上で入力してください。
+"Please make sure your passwords match.",パスワードを一致させてください。
+"Please enter a valid URL (for example, the URL must begin with ""http://"").","正しいURLを入力してください。(例: URLは ""http://"" で始まります。)"
+"Please enter a valid URL (for examples, http://www.example.com or www.example.com).","正しいURLを入力してください。(例: http://www.example.com または www.example.com)"
+"Please enter a valid social security number (for example, 123-45-6789).","正しい社会保障番号を入力してください。(例: 123-45-6789)"
+"Please enter a valid zip code (for example, 90602 or 90602-1234).","正しい郵便番号を入力してください。 (例: 123-4567 または 1234567)"
+"Please enter a valid zip code.",正しい郵便番号を入力してください。
+"Please use this date format: dd/mm/yyyy. For example, enter ""17/03/2006"" to represent March 17, 2006.","次のような日付の形式で入力してください: dd/mm/yyyy。例: ""17/03/2006"" は 2006年3月17日を意味します。"
+"Please enter a valid dollar amount (for example, $100.00).","正しい金額の表記で入力してください。 (例: $100.00)"
+"Please select one of these options.",1つ以上のオプションを選択してください。
+"Please select State/Province.",都道府県を選択してください。
+"Please enter a valid password.",正しいパスワードを入力してください。
+"Please enter a number greater than 0 in this field.",0より大きい数字をこの項目に入力してください。
+"Please enter a valid credit card number.",正しいクレジットカード番号を入力してください。
+"Please wait, loading...",お待ちください、読み込んでいます...
+"JavaScript may be disabled in your browser.",JavaScriptはお使いのブラウザで無効になっている可能性があります。
+"To use this website you must first enable JavaScript in your browser.","To use this website you must first enable JavaScript in your browser."
+"This is only a demo store. You can browse and place orders, but nothing will be processed.","This is only a demo store. You can browse and place orders, but nothing will be processed."
+Scope:,Scope:
+"Stores Configuration","Stores Configuration"
+"Please confirm scope switching. All data that hasn't been saved will be lost.","Please confirm scope switching. All data that hasn't been saved will be lost."
+"Additional Cache Management","Additional Cache Management"
+"Flush Catalog Images Cache","Flush Catalog Images Cache"
+"Pregenerated product images files","Pregenerated product images files"
+"Flush JavaScript/CSS Cache","Flush JavaScript/CSS Cache"
+"Themes JavaScript and CSS files combined to one file.","Themes JavaScript and CSS files combined to one file."
+Catalog,Catalog
+JavaScript/CSS,JavaScript/CSS
+"JavaScript/CSS Cache","JavaScript/CSS Cache"
+"Add after","Add after"
+"Current Configuration Scope:","Current Configuration Scope:"
+"Personal Information","Personal Information"
+"No records found.","No records found."
+Images,Images
+"Big Image","Big Image"
+Thumbnail,Thumbnail
+"Additional Settings","Additional Settings"
+"Total %1 records found","Total %1 records found"
+View,View
+"per page","per page"
+Page,Page
+"Previous page","Previous page"
+"of %1","of %1"
+"Next page","Next page"
+"Export to:","Export to:"
+Actions,Actions
+"Mass Actions","Mass Actions"
+"Unselect All","Unselect All"
+"Select Visible","Select Visible"
+"Unselect Visible","Unselect Visible"
+"items selected","items selected"
+"The information in this tab has been changed.","The information in this tab has been changed."
+"This tab contains invalid data. Please solve the problem before saving.","This tab contains invalid data. Please solve the problem before saving."
+Loading...,Loading...
+Description,Description
+Country,Country
+City,City
+"VAT Number","VAT Number"
+"Street Address","Street Address"
+Design,Design
+"Media Storage","Media Storage"
+Admin,Admin
+Advanced,Advanced
+"Transactional Emails","Transactional Emails"
+"Store Name","Store Name"
+"Store Phone Number","Store Phone Number"
+Region/State,Region/State
+"Sender Name","Sender Name"
+"Sender Email","Sender Email"
+"File extension not known or unsupported type.","File extension not known or unsupported type."
+Services,Services
+"Disable Modules Output","Disable Modules Output"
+"Store Email Addresses","Store Email Addresses"
+"Custom Email 1","Custom Email 1"
+"Custom Email 2","Custom Email 2"
+"General Contact","General Contact"
+"Sales Representative","Sales Representative"
+"Customer Support","Customer Support"
+"User-Agent Exceptions","User-Agent Exceptions"
+"
+                        Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>
+                    ","
+                        Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>
+                    "
+"Find a string in client user-agent header and switch to specific design theme for that browser.","Find a string in client user-agent header and switch to specific design theme for that browser."
+Pagination,Pagination
+"Pagination Frame","Pagination Frame"
+"How many links to display at once.","How many links to display at once."
+"Pagination Frame Skip","Pagination Frame Skip"
+"If the current frame position does not cover utmost pages, will render link to current position plus/minus this value.","If the current frame position does not cover utmost pages, will render link to current position plus/minus this value."
+"Anchor Text for Previous","Anchor Text for Previous"
+"Alternative text for previous link in pagination menu. If empty, default arrow image will used.","Alternative text for previous link in pagination menu. If empty, default arrow image will used."
+"Anchor Text for Next","Anchor Text for Next"
+"Alternative text for next link in pagination menu. If empty, default arrow image will used.","Alternative text for next link in pagination menu. If empty, default arrow image will used."
+"Logo Image","Logo Image"
+"Logo Image Alt","Logo Image Alt"
+Developer,Developer
+"Developer Client Restrictions","Developer Client Restrictions"
+"Allowed IPs (comma separated)","Allowed IPs (comma separated)"
+"Leave empty for access from any location.","Leave empty for access from any location."
+Debug,Debug
+"Template Path Hints","Template Path Hints"
+"Add Block Names to Hints","Add Block Names to Hints"
+"Template Settings","Template Settings"
+"Allow Symlinks","Allow Symlinks"
+"Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk."
+"Translate Inline","Translate Inline"
+"Enabled for Frontend","Enabled for Frontend"
+"Enabled for Admin","Enabled for Admin"
+"Translate, blocks and other output caches should be disabled for both frontend and admin inline translations.","Translate, blocks and other output caches should be disabled for both frontend and admin inline translations."
+"Log Settings","Log Settings"
+"System Log File Name","System Log File Name"
+"Logging from \Magento\Framework\Logger. File is located in {{base_dir}}/var/log","Logging from \Magento\Framework\Logger. File is located in {{base_dir}}/var/log"
+"Exceptions Log File Name","Exceptions Log File Name"
+"JavaScript Settings","JavaScript Settings"
+"Merge JavaScript Files","Merge JavaScript Files"
+"Minify JavaScript Files","Minify JavaScript Files"
+"CSS Settings","CSS Settings"
+"Merge CSS Files","Merge CSS Files"
+"Image Processing Settings","Image Processing Settings"
+"Image Adapter","Image Adapter"
+"Static Files Settings","Static Files Settings"
+"Sign Static Files","Sign Static Files"
+"Country Options","Country Options"
+"Allow Countries","Allow Countries"
+"Default Country","Default Country"
+"European Union Countries","European Union Countries"
+"Locale Options","Locale Options"
+Timezone,Timezone
+Locale,Locale
+"First Day of Week","First Day of Week"
+"Weekend Days","Weekend Days"
+"ZIP/Postal Code","ZIP/Postal Code"
+"Street Address Line 2","Street Address Line 2"
+"Single-Store Mode","Single-Store Mode"
+"Enable Single-Store Mode","Enable Single-Store Mode"
+"This setting will not be taken into account if system has more than one store view.","This setting will not be taken into account if system has more than one store view."
+"Mail Sending Settings","Mail Sending Settings"
+"Disable Email Communications","Disable Email Communications"
+Host,Host
+"Port (25)","Port (25)"
+"Set Return-Path","Set Return-Path"
+"Return-Path Email","Return-Path Email"
+"Storage Configuration for Media","Storage Configuration for Media"
+"Select Media Database","Select Media Database"
+"After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.","After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete."
+"Environment Update Time","Environment Update Time"
+"Admin User Emails","Admin User Emails"
+"Forgot Password Email Template","Forgot Password Email Template"
+"Forgot and Reset Email Sender","Forgot and Reset Email Sender"
+"Recovery Link Expiration Period (days)","Recovery Link Expiration Period (days)"
+"Please enter a number 1 or greater in this field.","Please enter a number 1 or greater in this field."
+"Startup Page","Startup Page"
+"Admin Base URL","Admin Base URL"
+"Use Custom Admin URL","Use Custom Admin URL"
+"Custom Admin URL","Custom Admin URL"
+"Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/"
+"Use Custom Admin Path","Use Custom Admin Path"
+"Custom Admin Path","Custom Admin Path"
+"You will have to log in after you save your custom admin path.","You will have to log in after you save your custom admin path."
+Security,Security
+"Add Secret Key to URLs","Add Secret Key to URLs"
+"Login is Case Sensitive","Login is Case Sensitive"
+"Admin Session Lifetime (seconds)","Admin Session Lifetime (seconds)"
+"Values less than 60 are ignored.","Values less than 60 are ignored."
+"Enable Charts","Enable Charts"
+Web,Web
+"Url Options","Url Options"
+"Add Store Code to Urls","Add Store Code to Urls"
+"
+                        <strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).
+                    ","
+                        <strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).
+                    "
+"Auto-redirect to Base URL","Auto-redirect to Base URL"
+"Search Engine Optimization","Search Engine Optimization"
+"Use Web Server Rewrites","Use Web Server Rewrites"
+"Base URLs","Base URLs"
+"Base URL","Base URL"
+"Specify URL or {{base_url}} placeholder.","Specify URL or {{base_url}} placeholder."
+"Base Link URL","Base Link URL"
+"Base URL for Static View Files","Base URL for Static View Files"
+"May be empty or start with {{unsecure_base_url}} placeholder.","May be empty or start with {{unsecure_base_url}} placeholder."
+"Base URL for User Media Files","Base URL for User Media Files"
+"Base URLs (Secure)","Base URLs (Secure)"
+"Secure Base URL","Secure Base URL"
+"Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder."
+"Secure Base Link URL","Secure Base Link URL"
+"Secure Base URL for Static View Files","Secure Base URL for Static View Files"
+"May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder."
+"Secure Base URL for User Media Files","Secure Base URL for User Media Files"
+"Use Secure URLs in Frontend","Use Secure URLs in Frontend"
+"Use Secure URLs in Admin","Use Secure URLs in Admin"
+"Offloader header","Offloader header"
+"Default Pages","Default Pages"
+"Default Web URL","Default Web URL"
+"Default No-route URL","Default No-route URL"
+"Default Cookie Settings","Default Cookie Settings"
+"Cookie Lifetime","Cookie Lifetime"
+"Cookie Path","Cookie Path"
+"Cookie Domain","Cookie Domain"
+"Use HTTP Only","Use HTTP Only"
+"Cookie Restriction Mode","Cookie Restriction Mode"
+"Session Validation Settings","Session Validation Settings"
+"Validate REMOTE_ADDR","Validate REMOTE_ADDR"
+"Validate HTTP_VIA","Validate HTTP_VIA"
+"Validate HTTP_X_FORWARDED_FOR","Validate HTTP_X_FORWARDED_FOR"
+"Validate HTTP_USER_AGENT","Validate HTTP_USER_AGENT"
+"Use SID on Frontend","Use SID on Frontend"
+"Allows customers to stay logged in when switching between different stores.","Allows customers to stay logged in when switching between different stores."
+"Cache Type","Cache Type"
+Tags,Tags
+"<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>"
+"Variable ID","Variable ID"
+"Community Edition","Community Edition"

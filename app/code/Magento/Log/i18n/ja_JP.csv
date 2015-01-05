@@ -1,9 +1,34 @@
-"Enable Log Cleaning","ログクリーニングを有効にする"
-"Error Email Recipient","エラーメール受信者"
-"Error Email Sender","エラーメール送信者"
-"Error Email Template","エラーメールテンプレート"
-"Frequency","頻度"
-"Log Cleaning","ログクリーニング"
-"Log cleanup Warnings","警告ログをクリーニングする。"
-"Save Log, Days","ログ保存期間"
-"Start Time","開始時間"
+Customers,顧客
+Customer,顧客
+"First Name",名
+"Last Name",姓
+Email,メールアドレス
+ID,ID
+Type,Type
+All,All
+Visitor,Visitor
+Never,Never
+Offline,Offline
+Online,Online
+"Customers Only","Customers Only"
+"Visitors Only","Visitors Only"
+"Customers Now Online","Customers Now Online"
+"Online Customers","Online Customers"
+"Last Logged In:","Last Logged In:"
+"Last Logged In (%1):","Last Logged In (%1):"
+"IP Address","IP Address"
+"Start Time","Start Time"
+Frequency,Frequency
+"Error Email Recipient","Error Email Recipient"
+"Error Email Sender","Error Email Sender"
+"Error Email Template","Error Email Template"
+"Online Customers Options","Online Customers Options"
+"Online Minutes Interval","Online Minutes Interval"
+"Leave empty for default (15 minutes).","Leave empty for default (15 minutes)."
+"Log Cleaning","Log Cleaning"
+"Save Log, Days","Save Log, Days"
+"Enable Log Cleaning","Enable Log Cleaning"
+n/a,n/a
+"Session Start Time","Session Start Time"
+"Last Activity","Last Activity"
+"Last URL","Last URL"

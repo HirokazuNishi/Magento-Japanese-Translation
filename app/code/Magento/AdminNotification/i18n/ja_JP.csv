@@ -1,31 +1,50 @@
-"Actions","アクション"
-"An error occurred while marking notification as read.","メッセージの既読化中にエラーが発生しました。"
-"An error occurred while marking the messages as read.","メッセージの既読化中にエラーが発生しました。"
-"An error occurred while removing messages.","メッセージの削除中にエラーが発生しました。"
-"An error occurred while removing the message.","メッセージの削除中にエラーが発生しました。"
-"Are you sure?","よろしいですか？"
-"Date Added","登録日"
-"Last Update","最終更新"
-"Mark as Read","既読にする"
-"Mark as read","既読にする"
-"Message","メッセージ"
-"Messages Inbox","受信箱"
-"Notifications","お知らせ"
-"Please select messages.","メッセージを選択してください。"
-"Read Details","詳細を読む"
-"Remove","削除"
-"Severity","重要度"
-"Show List","リストを表示"
-"Show Toolbar","ツールバーを表示"
-"The message has been marked as read.","メッセージを既読にしました。"
-"The message has been removed.","メッセージを削除しました。"
-"Total of %d record(s) have been marked as read.","合計 %d 件を既読にしました。"
-"Total of %d record(s) have been removed.","合計 %d 件を削除しました。"
-"Unable to proceed. Please, try again.","エラーが発生しました。やり直してください。"
-"Update Frequency","更新間隔"
-"Use HTTPS to Get Feed","フィードの取得にHTTPSを使用する"
-"critical","重要"
-"major","メジャー"
-"minor","マイナー"
-"notice","お知らせ"
-"Wrong message type","不正なメッセージ種別"
+"Read Details",詳細を読む
+"Mark as Read",既読にする
+"Are you sure?",よろしいですか?
+Remove,削除
+"Messages Inbox",受信箱
+"You have %1 new system messages","%1 件の新しいメッセージがあります"
+"You have %1 new system message","%1 件の新しいメッセージがあります"
+"Incoming Message",受信メッセージ
+close,閉じる
+"Read details",詳細を読む
+Notifications,お知らせ
+"The message has been marked as Read.",メッセージを既読にしました。
+"We couldn't mark the notification as Read because of an error.",エラーが発生したため、メッセージを既読にできませんでした。
+"Please select messages.",メッセージを選択してください。
+"A total of %1 record(s) have been marked as Read.","合計 %1 件のレコードを既読にしました。"
+"Total of %1 record(s) have been removed.","合計 %1 件のレコードを削除しました。"
+"We couldn't remove the messages because of an error.",エラーが発生したため、メッセージを削除できませんでした。
+"The message has been removed.",メッセージを削除しました。
+"1 Hour",1時間
+"2 Hours",2時間
+"6 Hours",6時間
+"12 Hours",12時間
+"24 Hours",24時間
+critical,緊急
+major,重要
+minor,一般
+notice,お知らせ
+"Wrong message type",不正なメッセージタイプ
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. It is highly recommended to change this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} は本番環境のベースURLとセキュアベースURLとしての利用が推奨されていません。お使いの Magento <a href=""%1"">設定</a> で変更することを強くおすすめします。"
+"One or more of the Cache Types are invalidated: %1. ","1つ以上のキャッシュが期限切れです: %1. "
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","<a href=""%1"">キャッシュ管理</a> でキャッシュをリフレッシュしてください。"
+"One or more media files failed to be synchronized during the media storages synchronization process. Refer to the log file for details.",1つ以上のメディアファイルの同期処理が失敗しました。ログファイルを参照して詳細を確認してください。
+"Synchronization of media storages has been completed.",メディアストレージの同期が完了しました。
+"Your web server is configured incorrectly. As a result, configuration files with sensitive information are accessible from the outside. Please contact your hosting provider.",お使いのWebサーバーの設定が正しくないようです。設定ファイルは重要なファイルのため、システム外部からアクセスできるべきではありません。サーバー管理者にご相談ください。
+"Close popup",ポップアップを閉じる
+Close,閉じる
+"Critical System Messages",緊急システムメッセージ
+"Major System Messages",重要システムメッセージ
+"System messages",システムメッセージ
+Notification,通知
+Cancel,キャンセル
+Acknowledge,了解
+"See All (%1 unread)","すべて表示 (%1件未読)"
+Actions,Actions
+Message,Message
+"Use HTTPS to Get Feed","Use HTTPS to Get Feed"
+"Update Frequency","Update Frequency"
+"Last Update","Last Update"
+Severity,Severity
+"Date Added","Date Added"

@@ -1,20 +1,28 @@
-"All Websites","全てのウェブサイト"
-"Apply Discounts To FPT","FPTに値引きを適用する"
-"Apply Tax To FPT","FPTに課税する"
-"Display Prices In Emails","メールにFPT額を記載する"
-"Display Prices In Product Lists","商品一覧にFPT額を表示する"
-"Display Prices In Sales Modules","SalesモジュールでFPT額を表示する"
-"Display Prices On Product View Page","商品画面でFPT額を表示する"
-"Enable FPT","FPTを有効にする"
-"Excluding FPT","商品定額税を除外する"
-"Excluding FPT, FPT description, final price","FPT抜価格, FPT概要, 合計金額"
-"Fixed Product Tax","商品固定税"
-"Fixed Product Taxes","商品固定税"
-"Include FPT In Subtotal","小計にFPTを含める"
-"Including FPT and FPT description","FPT込とFPT概要"
-"Including FPT and FPT description [incl. FPT VAT]","FPT込価格とFPT概要 [FPT 付加価値税を含む]"
-"Including FPT only","FPT込価格のみ"
-"Total","合計"
-"Total Incl. Tax","税込合計"
-"Total incl. tax","税込合計"
-"Total excl. tax","税抜き合計"
+Total,合計
+Price,Price
+Tax,税
+Website,ウェブサイト
+"All Websites",全てのウェブサイト
+Action,Action
+"Excl. Tax","Excl. Tax"
+"Incl. Tax","Incl. Tax"
+"Add Tax","Add Tax"
+"Delete Tax","Delete Tax"
+FPT,FPT
+"We found a duplicate of website, country and state fields for a fixed product tax","We found a duplicate of website, country and state fields for a fixed product tax"
+"Including FPT only","Including FPT only"
+"Including FPT and FPT description","Including FPT and FPT description"
+"Excluding FPT, FPT description, final price","Excluding FPT, FPT description, final price"
+"Excluding FPT","Excluding FPT"
+"Fixed Product Tax","Fixed Product Tax"
+"Total incl. tax","Total incl. tax"
+Country/State,Country/State
+"Final Price","Final Price"
+"Fixed Product Taxes","Fixed Product Taxes"
+"Enable FPT",FPTを使う
+"Display Prices In Product Lists",商品リストでの価格
+"Display Prices On Product View Page",商品ページでの価格
+"Display Prices In Sales Modules",Salesモジュール上の価格
+"Display Prices In Emails",メール上の価格
+"Apply Tax To FPT",FPTに課税する
+"Include FPT In Subtotal",小計にFPTを含める

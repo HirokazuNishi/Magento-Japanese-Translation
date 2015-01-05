@@ -1,0 +1,19 @@
+SKU,SKU
+"In stock","In stock"
+"Out of stock","Out of stock"
+Title,Title
+"Add to Cart","Add to Cart"
+"Add to Wishlist","Add to Wishlist"
+"Add to Compare","Add to Compare"
+Conditions,Conditions
+"Conditions Combination","Conditions Combination"
+"Product Attribute","Product Attribute"
+Template,Template
+"Display Page Control","Display Page Control"
+"Number of Products per Page","Number of Products per Page"
+"Number of Products to Display","Number of Products to Display"
+"Cache Lifetime (Seconds)","Cache Lifetime (Seconds)"
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache."
+"Catalog Products List","Catalog Products List"
+"List of Products","List of Products"
+"Products Grid Template","Products Grid Template"

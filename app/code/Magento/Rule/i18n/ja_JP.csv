@@ -1,30 +1,33 @@
-"ALL","全て"
-"ANY","いずれか"
-"Add","追加"
-"Apply","反映"
-"Conditions Combination","条件の組み合わせ"
-"Customer Groups must be specified.","顧客グループを指定してください。"
-"End Date must be greater than Start Date.","終了日は開始日より未来の日付を指定してください。"
-"FALSE","FALSE"
-"If %s of these conditions are %s:","もし %s が %s であるなら:"
-"Invalid discount amount.","不正な割引き額です。"
-"Open Chooser","選択を開く"
-"Perform following actions","次のアクションを評価する"
-"Please choose a condition to add...","追加する条件を選択してください。"
-"Please choose an action to add...","追加するアクションを選択してください。"
-"Remove","削除"
-"TRUE","TRUE"
-"There is no information about associated entity type ""%s"".","関連するエンティティ種別 ""%s"" の情報がありません。"
-"Websites must be specified.","ウェブサイトを指定してください。"
-"by","より"
-"contains","含む"
-"does not contain","含まない"
-"equals or greater than","等しいかそれより大きい"
-"equals or less than","等しいかそれより小さい"
-"greater than","より大きい"
-"is","と等しい"
-"is not","と等しくない"
-"is not one of","のひとつではない"
-"is one of","のひとつ"
-"less than","より小さい"
-"to","終了"
+Remove,削除
+Add,追加
+"Please wait, loading...",お待ちください、読み込んでいます...
+"Attribute Set","Attribute Set"
+Category,Category
+Apply,Apply
+"Conditions Combination","Conditions Combination"
+"Invalid discount amount.","Invalid discount amount."
+"End Date must follow Start Date.","End Date must follow Start Date."
+"Websites must be specified.","Websites must be specified."
+"Customer Groups must be specified.","Customer Groups must be specified."
+to,to
+by,by
+"Please choose an action to add.","Please choose an action to add."
+"Perform following actions","Perform following actions"
+is,is
+"is not","is not"
+"equals or greater than","equals or greater than"
+"equals or less than","equals or less than"
+"greater than","greater than"
+"less than","less than"
+contains,contains
+"does not contain","does not contain"
+"is one of","is one of"
+"is not one of","is not one of"
+"Please choose a condition to add.","Please choose a condition to add."
+ALL,ALL
+ANY,ANY
+TRUE,TRUE
+FALSE,FALSE
+"If %1 of these conditions are %2:","If %1 of these conditions are %2:"
+"Open Chooser","Open Chooser"
+"There is no information about associated entity type ""%1"".","There is no information about associated entity type ""%1""."

@@ -1,0 +1,104 @@
+"Account Information",アカウント情報
+"User Name",ユーザー名
+"First Name",名
+"Last Name",姓
+Email,メールアドレス
+"User Email",メールアドレス
+"New Password",新しいパスワード
+"Password Confirmation",パスワード確認
+"Interface Locale",表示言語
+"Current User Identity Verification",ユーザー確認
+"Your Password",パスワード
+Back,戻る
+Status,ステータス
+Reset,リセット
+"Are you sure you want to do this?",実行してもよろしいですか?
+"You have entered an invalid password for current user.",現在のユーザーに対する不正なパスワードが入力されました。
+System,System
+"Access denied.",アクセス拒否。
+"Magento Admin Panel",Magento管理画面
+ID,ID
+All,All
+Role,Role
+Active,Active
+Inactive,Inactive
+Password,Password
+"Reset Password","Reset Password"
+"Force Sign-In","Force Sign-In"
+"Your password reset link has expired.","Your password reset link has expired."
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","If there is an account associated with %1 you will receive an email with a link to reset your password."
+"Your password has been updated.","Your password has been updated."
+"The first name cannot be empty.","The first name cannot be empty."
+"The last name cannot be empty.","The last name cannot be empty."
+"Please correct this email address: ""%1"".","Please correct this email address: ""%1""."
+"Back to Login","Back to Login"
+"Confirm New Password","Confirm New Password"
+"Reset a Password","Reset a Password"
+Custom,Custom
+"Delete Role","Delete Role"
+"Save Role","Save Role"
+Roles,Roles
+"Add New Role","Add New Role"
+"Role Information","Role Information"
+"Role Users","Role Users"
+"User ID","User ID"
+"Role Resources","Role Resources"
+"Role Info","Role Info"
+"Role Name","Role Name"
+"Add New User","Add New User"
+Users,Users
+"Save User","Save User"
+"Delete User","Delete User"
+"Are you sure you want to revoke the user's tokens?","Are you sure you want to revoke the user's tokens?"
+"Edit User '%1'","Edit User '%1'"
+"New User","New User"
+"This account is","This account is"
+"Account Status","Account Status"
+"User Roles Information","User Roles Information"
+Assigned,Assigned
+"User Information","User Information"
+"User Info","User Info"
+"User Role","User Role"
+"Please correct the password reset token.","Please correct the password reset token."
+"Please specify the correct account and try again.","Please specify the correct account and try again."
+"Please correct this email address:","Please correct this email address:"
+"The email address is empty.","The email address is empty."
+Permissions,Permissions
+"You cannot delete your own account.","You cannot delete your own account."
+"You deleted the user.","You deleted the user."
+"We can't find a user to delete.","We can't find a user to delete."
+"This user no longer exists.","This user no longer exists."
+"Edit User","Edit User"
+"You have revoked the user's tokens.","You have revoked the user's tokens."
+"We can't find a user to revoke.","We can't find a user to revoke."
+"You cannot delete self-assigned roles.","You cannot delete self-assigned roles."
+"You deleted the role.","You deleted the role."
+"An error occurred while deleting this role.","An error occurred while deleting this role."
+"Edit Role","Edit Role"
+"New Role","New Role"
+"This role no longer exists.","This role no longer exists."
+"You saved the role.","You saved the role."
+"An error occurred while saving this role.","An error occurred while saving this role."
+"You saved the user.","You saved the user."
+"A user with the same user name or email already exists.","A user with the same user name or email already exists."
+"User Name is a required field.","User Name is a required field."
+"First Name is a required field.","First Name is a required field."
+"Last Name is a required field.","Last Name is a required field."
+"Please enter a valid email.","Please enter a valid email."
+"The user name cannot be empty.","The user name cannot be empty."
+"Password is required field.","Password is required field."
+"Your password must be at least %1 characters.","Your password must be at least %1 characters."
+"Your password must include both numeric and alphabetic characters.","Your password must include both numeric and alphabetic characters."
+"Your password confirmation must match your password.","Your password confirmation must match your password."
+"This account is inactive.","This account is inactive."
+"Log into Magento Admin Page","Log into Magento Admin Page"
+"Forgot your user name or password?","Forgot your user name or password?"
+"Email Address:","Email Address:"
+"Retrieve Password","Retrieve Password"
+"Forgot your password?","Forgot your password?"
+"Roles Resources","Roles Resources"
+"Resource Access","Resource Access"
+Resources,Resources
+"Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?"
+"Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?"
+"Reset Password Template","Reset Password Template"

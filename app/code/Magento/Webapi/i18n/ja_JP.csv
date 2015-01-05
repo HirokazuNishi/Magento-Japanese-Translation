@@ -1,0 +1,33 @@
+All,All
+Custom,Custom
+"Resource Access","Resource Access"
+Resources,Resources
+API,API
+"Internal Error. Details are available in Magento log file. Report ID: %1","Internal Error. Details are available in Magento log file. Report ID: %1"
+"Server internal error. See details in report api/%1","Server internal error. See details in report api/%1"
+"Operation allowed only in HTTPS","Operation allowed only in HTTPS"
+"Content-Type header is empty.","Content-Type header is empty."
+"Content-Type header is invalid.","Content-Type header is invalid."
+"UTF-8 is the only supported charset.","UTF-8 is the only supported charset."
+"Request method is invalid.","Request method is invalid."
+"Decoding error.","Decoding error."
+"Decoding error: %1%2%3%4","Decoding error: %1%2%3%4"
+"Server cannot understand Accept HTTP header media type.","Server cannot understand Accept HTTP header media type."
+"Request does not match any route.","Request does not match any route."
+"Not allowed parameters: %1. Please use only %2 and %3.","Not allowed parameters: %1. Please use only %2 and %3."
+"Incorrect format of WSDL request URI or Requested services are missing.","Incorrect format of WSDL request URI or Requested services are missing."
+"Operation ""%1"" not found.","Operation ""%1"" not found."
+"Requested service is not available: ""%1""","Requested service is not available: ""%1"""
+"Invalid XML","Invalid XML"
+"Invalid XML: Detected use of illegal DOCTYPE","Invalid XML: Detected use of illegal DOCTYPE"
+"No permissions requested","No permissions requested"
+"Available APIs","Available APIs"
+"Magento Web API","Magento Web API"
+"SOAP Settings",SOAP設定
+"Default Response Charset",デフォルト文字コード
+"If empty, UTF-8 will be used.",空欄の場合はUTF-8を使用します。
+"Enable WSDL Cache",WSDLキャッシュ有効
+"Web Services Configuration",Webサービス設定
+"REST and SOAP configurations, generated WSDL file.",RESTとSOAPの設定で生成されたWSDLファイル。
+"Integrations API Configuration",連携API設定
+"Integrations API configuration file.",API連携設定ファイル
