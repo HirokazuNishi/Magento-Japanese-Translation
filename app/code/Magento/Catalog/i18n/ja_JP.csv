@@ -36,17 +36,17 @@ Website,ウェブサイト
 "All Websites",全てのウェブサイト
 Next,次へ
 "Please enter a valid number in this field.",正しい数字をこの項目に入力してください。
-Catalog,Catalog
-Images,Images
-"per page","per page"
-"Mass Actions","Mass Actions"
-"Unselect All","Unselect All"
-"Select Visible","Select Visible"
-"Unselect Visible","Unselect Visible"
-"items selected","items selected"
-"The information in this tab has been changed.","The information in this tab has been changed."
-"This tab contains invalid data. Please solve the problem before saving.","This tab contains invalid data. Please solve the problem before saving."
-Loading...,Loading...
+Catalog,カタログ
+Images,画像
+"per page",1ページあたり
+"Mass Actions",一括操作
+"Unselect All",全て未選択
+"Select Visible",表示中を選択
+"Unselect Visible",表示中を未選択
+"items selected",件選択
+"The information in this tab has been changed.",このタブの情報が変更されています。
+"This tab contains invalid data. Please solve the problem before saving.",このタブには不正な情報が含まれています。保存する前に修正してください。
+Loading...,読み込み中...
 OK,OK
 Fixed,Fixed
 ID,ID

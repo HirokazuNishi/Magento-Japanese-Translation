@@ -350,43 +350,43 @@ Minute,分
 "Please wait, loading...",お待ちください、読み込んでいます...
 "JavaScript may be disabled in your browser.",JavaScriptはお使いのブラウザで無効になっている可能性があります。
 "To use this website you must first enable JavaScript in your browser.",このウェブサイトをご利用頂くには、お使いのブラウザでJavaScriptを有効にして頂く必要があります。
-"This is only a demo store. You can browse and place orders, but nothing will be processed.","This is only a demo store. You can browse and place orders, but nothing will be processed."
-Scope:,Scope:
-"Stores Configuration","Stores Configuration"
-"Please confirm scope switching. All data that hasn't been saved will be lost.","Please confirm scope switching. All data that hasn't been saved will be lost."
-"Additional Cache Management","Additional Cache Management"
-"Flush Catalog Images Cache","Flush Catalog Images Cache"
-"Pregenerated product images files","Pregenerated product images files"
-"Flush JavaScript/CSS Cache","Flush JavaScript/CSS Cache"
-"Themes JavaScript and CSS files combined to one file.","Themes JavaScript and CSS files combined to one file."
-Catalog,Catalog
+"This is only a demo store. You can browse and place orders, but nothing will be processed.",このサイトはでもサイトです。商品をご覧頂いて、ご注文頂くことはできますが、実際に請求されたり、商品が届けられることはありません。
+Scope:,スコープ:
+"Stores Configuration",ストア設定
+"Please confirm scope switching. All data that hasn't been saved will be lost.",スコープの切替えを確認して下さい。保存されていないデータは失われます。
+"Additional Cache Management",追加キャッシュ管理
+"Flush Catalog Images Cache",カタログ画像キャッシュをフラッシュ
+"Pregenerated product images files",事前作成した商品画像ファイル
+"Flush JavaScript/CSS Cache",JavaScript/CSSキャッシュをフラッシュ
+"Themes JavaScript and CSS files combined to one file.",テーマのJavaScriptとCSSファイルを1つのファイルに結合
+Catalog,カタログ
 JavaScript/CSS,JavaScript/CSS
-"JavaScript/CSS Cache","JavaScript/CSS Cache"
-"Add after","Add after"
-"Current Configuration Scope:","Current Configuration Scope:"
-"Personal Information","Personal Information"
-"No records found.","No records found."
-Images,Images
-"Big Image","Big Image"
-Thumbnail,Thumbnail
-"Additional Settings","Additional Settings"
-"Total %1 records found","Total %1 records found"
-View,View
-"per page","per page"
-Page,Page
-"Previous page","Previous page"
-"of %1","of %1"
-"Next page","Next page"
-"Export to:","Export to:"
-Actions,Actions
-"Mass Actions","Mass Actions"
-"Unselect All","Unselect All"
-"Select Visible","Select Visible"
-"Unselect Visible","Unselect Visible"
-"items selected","items selected"
-"The information in this tab has been changed.","The information in this tab has been changed."
-"This tab contains invalid data. Please solve the problem before saving.","This tab contains invalid data. Please solve the problem before saving."
-Loading...,Loading...
+"JavaScript/CSS Cache",JavaScript/CSSキャッシュ
+"Add after",後に追加
+"Current Configuration Scope:",現在の設定スコープ:
+"Personal Information",個人情報
+"No records found.",レコードが見つかりません。
+Images,画像
+"Big Image",大きい画像
+Thumbnail,サムネイル
+"Additional Settings",追加設定
+"Total %1 records found","合計 %1 レコード見つかりました"
+View,表示
+"per page",1ページあたり
+Page,ページ
+"Previous page",前のページ
+"of %1","%1 件中"
+"Next page",次のページ
+"Export to:",エクスポート先:
+Actions,アクション
+"Mass Actions",一括操作
+"Unselect All",全て未選択
+"Select Visible",表示中を選択
+"Unselect Visible",表示中を未選択
+"items selected",件選択
+"The information in this tab has been changed.",このタブの情報が変更されています。
+"This tab contains invalid data. Please solve the problem before saving.",このタブには不正な情報が含まれています。保存する前に修正してください。
+Loading...,読み込み中...
 Description,Description
 Country,Country
 City,City

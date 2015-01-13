@@ -5,7 +5,7 @@ System,System
 "We can't save the Cron expression.",Cronスケジュールを保存できません。
 Database,データベース
 Time,時間
-"System Backup","System Backup"
+"System Backup",システムバックアップ
 "Database and Media Backup","Database and Media Backup"
 "Database Backup","Database Backup"
 "The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems."
