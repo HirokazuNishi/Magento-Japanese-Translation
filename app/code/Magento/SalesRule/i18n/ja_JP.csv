@@ -7,8 +7,8 @@ Status,ステータス
 Catalog,カタログ
 Actions,アクション
 ID,ID
-Subtotal,Subtotal
-"Discount Amount","Discount Amount"
+Subtotal,小計
+"Discount Amount",値引き額
 Websites,Websites
 "Special Price","Special Price"
 "Add New Rule","Add New Rule"

@@ -10,8 +10,8 @@ SKU,SKU
 N/A,N/A
 Percent,パーセント
 Qty,個数
-"Product Name","Product Name"
-"Qty Shipped","Qty Shipped"
+"Product Name",商品名
+"Qty Shipped",出荷済個数
 "Close Window","Close Window"
 Type,Type
 Title,Title

@@ -32,10 +32,10 @@ Refunded,返金済
 Canceled,キャンセル済
 "In stock",在庫あり
 "Out of stock",在庫切れ
-Subtotal,Subtotal
-Day,Day
-Month,Month
-Year,Year
+Subtotal,小計
+Day,日
+Month,月
+Year,年
 Products,Products
 Title,Title
 Action,Action

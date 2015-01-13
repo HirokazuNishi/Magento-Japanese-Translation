@@ -4,8 +4,8 @@ No,No
 System,System
 Required,必須
 None,None
-label,label
-"Attribute Code","Attribute Code"
+label,ラベル
+"Attribute Code",属性コード
 "For internal use. Must be unique with no spaces. Maximum length of attribute code must be less than %1 symbols","For internal use. Must be unique with no spaces. Maximum length of attribute code must be less than %1 symbols"
 "Default Value","Default Value"
 "Unique Value","Unique Value"

@@ -8,8 +8,8 @@ Availability,在庫状況
 "Out of stock",在庫切れ
 Availability:,Availability:
 Qty,個数
-"No options of this product are available.","No options of this product are available."
-"Product Name","Product Name"
+"No options of this product are available.",この商品でご利用いただけるオプションはありません。
+"Product Name",商品名
 "Associated Products","Associated Products"
 "Grouped Products","Grouped Products"
 "We cannot process the item.","We cannot process the item."

@@ -18,15 +18,15 @@ Availability,在庫状況
 "In stock",在庫あり
 "Out of stock",在庫切れ
 Qty,個数
-"Gift Message","Gift Message"
-From:,From:
-To:,To:
-Message:,Message:
-"Product Name","Product Name"
-Subtotal,Subtotal
-"Discount Amount","Discount Amount"
-"Row Total","Row Total"
-"Qty Invoiced","Qty Invoiced"
+"Gift Message",ギフトメッセージ
+From:,開始:
+To:,終了:
+Message:,メッセージ:
+"Product Name",商品名
+Subtotal,小計
+"Discount Amount",値引き額
+"Row Total",行合計
+"Qty Invoiced",領収済個数
 "Add New Row","Add New Row"
 Edit,Edit
 Title,Title

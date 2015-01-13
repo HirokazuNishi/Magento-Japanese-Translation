@@ -3,8 +3,8 @@ Status,ステータス
 From,From
 To,To
 Export,エクスポート
-label,label
-"Attribute Code","Attribute Code"
+label,ラベル
+"Attribute Code",属性コード
 Import,Import
 Continue,Continue
 "Attribute Label","Attribute Label"

@@ -11,8 +11,8 @@ Code,コード
 Reset,リセット
 "Are you sure you want to do this?",実行してもよろしいですか?
 None,None
-Subtotal,Subtotal
-"Row Total","Row Total"
+Subtotal,小計
+"Row Total",行合計
 "Invalid attribute %1","Invalid attribute %1"
 "New Rule","New Rule"
 Priority,Priority

@@ -1,11 +1,11 @@
-Always,Always
-"After number of attempts to login","After number of attempts to login"
-"Incorrect CAPTCHA","Incorrect CAPTCHA"
-"Incorrect CAPTCHA.","Incorrect CAPTCHA."
-"Please enter the letters from the image:","Please enter the letters from the image:"
-"Reload captcha","Reload captcha"
-"<strong>Attention</strong>: Captcha is case sensitive.","<strong>Attention</strong>: Captcha is case sensitive."
-"Please type the letters below","Please type the letters below"
+Always,常に
+"After number of attempts to login",所定回数のログインが試みられた後
+"Incorrect CAPTCHA",不正なCAPTCHA
+"Incorrect CAPTCHA.",不正なCAPTCHA。
+"Please enter the letters from the image:",画像に表示された文字を入力してください:
+"Reload captcha",CAPTCHAを再読み込み
+"<strong>Attention</strong>: Captcha is case sensitive.","<strong>注意</strong>: CAPTCHAは大文字小文字を区別します。"
+"Please type the letters below",以下の文字を入力してください
 CAPTCHA,CAPTCHA
 "Enable CAPTCHA in Admin","Enable CAPTCHA in Admin"
 Font,Font

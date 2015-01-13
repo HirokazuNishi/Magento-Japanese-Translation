@@ -64,17 +64,17 @@ Summary,サマリ
 Availability:,Availability:
 Qty,個数
 "Customize %1","%1 をカスタマイズ"
-"No options of this product are available.","No options of this product are available."
-"Gift Message","Gift Message"
-From:,From:
-To:,To:
-Message:,Message:
-"Product Name","Product Name"
-Subtotal,Subtotal
-"Discount Amount","Discount Amount"
-"Row Total","Row Total"
-"Qty Invoiced","Qty Invoiced"
-"Qty Shipped","Qty Shipped"
+"No options of this product are available.",この商品でご利用いただけるオプションはありません。
+"Gift Message",ギフトメッセージ
+From:,開始:
+To:,終了:
+Message:,メッセージ:
+"Product Name",商品名
+Subtotal,小計
+"Discount Amount",値引き額
+"Row Total",行合計
+"Qty Invoiced",領収済個数
+"Qty Shipped",出荷済個数
 "Add Products to New Option","Add Products to New Option"
 "Add Products to Option ""%1""","Add Products to Option ""%1"""
 "Add Selected Products","Add Selected Products"

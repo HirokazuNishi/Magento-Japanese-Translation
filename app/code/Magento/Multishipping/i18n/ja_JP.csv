@@ -4,8 +4,8 @@ Product,商品
 Price,Price
 Actions,アクション
 Qty,個数
-"Product Name","Product Name"
-Subtotal,Subtotal
+"Product Name",商品名
+Subtotal,小計
 Change,Change
 Edit,Edit
 "Billing Information","Billing Information"

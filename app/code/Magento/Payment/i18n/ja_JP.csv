@@ -3,8 +3,8 @@ Shipping,配送
 Yes,Yes
 No,No
 N/A,N/A
-Month,Month
-Year,Year
+Month,月
+Year,年
 "--Please Select--","--Please Select--"
 "We cannot retrieve the payment method model object.","We cannot retrieve the payment method model object."
 "We cannot retrieve the payment info model object.","We cannot retrieve the payment info model object."

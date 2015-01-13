@@ -67,36 +67,36 @@ Availability,在庫状況
 "In stock",在庫あり
 "Out of stock",在庫切れ
 Qty,個数
-Root,Root
-"Save Category","Save Category"
-"Delete Category","Delete Category"
-"New Subcategory","New Subcategory"
-"New Root Category","New Root Category"
-"Set Root Category for Store","Set Root Category for Store"
-"Use Config Settings","Use Config Settings"
-"Use All Available Attributes","Use All Available Attributes"
-"Category Data","Category Data"
-"Category Products","Category Products"
-"Add Subcategory","Add Subcategory"
-"Add Root Category","Add Root Category"
-Day,Day
-Month,Month
-Year,Year
-"<label class=""label""><span>from</span></label>","<label class=""label""><span>from</span></label>"
-"<label class=""label""><span>to</span></label>","<label class=""label""><span>to</span></label>"
-"WYSIWYG Editor","WYSIWYG Editor"
-"Add Product","Add Product"
-label,label
-"Product Attributes","Product Attributes"
-"Add New Attribute","Add New Attribute"
-"Save in New Attribute Set","Save in New Attribute Set"
-"Enter Name for New Attribute Set","Enter Name for New Attribute Set"
-"Save Attribute","Save Attribute"
-"Delete Attribute","Delete Attribute"
-"Edit Product Attribute ""%1""","Edit Product Attribute ""%1"""
-"New Product Attribute","New Product Attribute"
-"Advanced Attribute Properties","Advanced Attribute Properties"
-"Attribute Code","Attribute Code"
+Root,ルート
+"Save Category",カテゴリを保存
+"Delete Category",カテゴリを削除
+"New Subcategory",新規サブカテゴリ
+"New Root Category",新規ルートカテゴリ
+"Set Root Category for Store",ストアにルートカテゴリを割り当て
+"Use Config Settings",標準設定を使用
+"Use All Available Attributes",利用可能なすべての属性を使用
+"Category Data",カテゴリデータ
+"Category Products",カテゴリ商品
+"Add Subcategory",サブカテゴリ追加
+"Add Root Category",ルートカテゴリ追加
+Day,日
+Month,月
+Year,年
+"<label class=""label""><span>from</span></label>","<label class=""label""><span>開始</span></label>"
+"<label class=""label""><span>to</span></label>","<label class=""label""><span>終了</span></label>"
+"WYSIWYG Editor",WYSIWYGエディタ
+"Add Product",商品追加
+label,ラベル
+"Product Attributes",商品属性
+"Add New Attribute",新規属性追加
+"Save in New Attribute Set",新しい属性セットで保存
+"Enter Name for New Attribute Set",新しい属性セットの名前を入力してください
+"Save Attribute",属性を保存
+"Delete Attribute",属性を削除
+"Edit Product Attribute ""%1""","商品属性 ""%1"" を編集"
+"New Product Attribute",新規商品属性
+"Advanced Attribute Properties",拡張属性プロパティ
+"Attribute Code",属性コード
 "For internal use. Must be unique with no spaces. Maximum length of attribute code must be less than %1 symbols","For internal use. Must be unique with no spaces. Maximum length of attribute code must be less than %1 symbols"
 "Default Value","Default Value"
 "Unique Value","Unique Value"
