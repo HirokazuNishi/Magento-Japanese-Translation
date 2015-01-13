@@ -6,12 +6,12 @@ Required,必須
 None,None
 label,ラベル
 "Attribute Code",属性コード
-"For internal use. Must be unique with no spaces. Maximum length of attribute code must be less than %1 symbols","For internal use. Must be unique with no spaces. Maximum length of attribute code must be less than %1 symbols"
-"Default Value","Default Value"
-"Unique Value","Unique Value"
-"Unique Value (not shared with other products)","Unique Value (not shared with other products)"
-"Not shared with other products","Not shared with other products"
-"Input Validation for Store Owner","Input Validation for Store Owner"
+"For internal use. Must be unique with no spaces. Maximum length of attribute code must be less than %1 symbols","システム内部で使用します。スペースを含まないユニークな文字列を指定してください。属性コードの最大文字数は %1 です。"
+"Default Value",デフォルト値
+"Unique Value",ユニーク値
+"Unique Value (not shared with other products)","ユニーク値 (他の商品と共有しない)"
+"Not shared with other products",他の商品と共有しない
+"Input Validation for Store Owner",ストアオーナーによる値チェックを行う
 "The value of attribute ""%1"" must be set","The value of attribute ""%1"" must be set"
 "Multiple Select","Multiple Select"
 Dropdown,Dropdown

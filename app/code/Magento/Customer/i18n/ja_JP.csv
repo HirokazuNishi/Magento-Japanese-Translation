@@ -38,7 +38,7 @@ SKU,SKU
 "* Required Fields","* 必須項目"
 Qty,個数
 label,ラベル
-Global,Global
+Global,グローバル
 Change,Change
 Edit,Edit
 "A total of %1 record(s) were updated.","A total of %1 record(s) were updated."

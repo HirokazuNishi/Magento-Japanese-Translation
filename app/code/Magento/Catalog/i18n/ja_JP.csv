@@ -97,45 +97,45 @@ label,ラベル
 "New Product Attribute",新規商品属性
 "Advanced Attribute Properties",拡張属性プロパティ
 "Attribute Code",属性コード
-"For internal use. Must be unique with no spaces. Maximum length of attribute code must be less than %1 symbols","For internal use. Must be unique with no spaces. Maximum length of attribute code must be less than %1 symbols"
-"Default Value","Default Value"
-"Unique Value","Unique Value"
-"Unique Value (not shared with other products)","Unique Value (not shared with other products)"
-"Not shared with other products","Not shared with other products"
-"Input Validation for Store Owner","Input Validation for Store Owner"
-Global,Global
-Scope,Scope
-"Declare attribute value saving scope","Declare attribute value saving scope"
-"Frontend Properties","Frontend Properties"
-"Use in Search","Use in Search"
-"Visible in Advanced Search","Visible in Advanced Search"
-"Comparable on Frontend","Comparable on Frontend"
-"Use for Promo Rule Conditions","Use for Promo Rule Conditions"
-"Enable WYSIWYG","Enable WYSIWYG"
-"Allow HTML Tags on Frontend","Allow HTML Tags on Frontend"
-"Visible on Catalog Pages on Frontend","Visible on Catalog Pages on Frontend"
-"Used in Product Listing","Used in Product Listing"
-"Depends on design theme","Depends on design theme"
-"Used for Sorting in Product Listing","Used for Sorting in Product Listing"
-"Media Image","Media Image"
-Gallery,Gallery
-"System Properties","System Properties"
-"Data Type for Saving in Database","Data Type for Saving in Database"
-Text,Text
-Varchar,Varchar
-Static,Static
-Datetime,Datetime
-Decimal,Decimal
-Integer,Integer
-"Globally Editable","Globally Editable"
-"Attribute Information","Attribute Information"
-Properties,Properties
-"Manage Labels","Manage Labels"
-Visible,Visible
-Searchable,Searchable
-Comparable,Comparable
-"Delete Selected Group","Delete Selected Group"
-"Delete Attribute Set","Delete Attribute Set"
+"For internal use. Must be unique with no spaces. Maximum length of attribute code must be less than %1 symbols","システム内部で使用します。スペースを含まないユニークな文字列を指定してください。属性コードの最大文字数は %1 です。"
+"Default Value",デフォルト値
+"Unique Value",ユニーク値
+"Unique Value (not shared with other products)","ユニーク値 (他の商品と共有しない)"
+"Not shared with other products",他の商品と共有しない
+"Input Validation for Store Owner",ストアオーナーによる値チェックを行う
+Global,グローバル
+Scope,スコープ
+"Declare attribute value saving scope",属性の値を保存するスコープを定義
+"Frontend Properties",フロントエンドプロパティ
+"Use in Search",検索で使用
+"Visible in Advanced Search",拡張検索で使用する
+"Comparable on Frontend",フロントエンドで比較可能
+"Use for Promo Rule Conditions",プロモーションルールの条件で使用
+"Enable WYSIWYG",WYSIWYGエディタを有効にする
+"Allow HTML Tags on Frontend",フロントエンドでHTMLタグを許可
+"Visible on Catalog Pages on Frontend",フロントエンドのカタログページで表示する
+"Used in Product Listing",商品一覧で使用する
+"Depends on design theme",デザインテーマ依存
+"Used for Sorting in Product Listing",商品一覧のソート条件で使用する
+"Media Image",メティアイメージ
+Gallery,ギャラリー
+"System Properties",システムプロパティ
+"Data Type for Saving in Database",データベースに保存するデータタイプ
+Text,テキスト
+Varchar,可変長文字列
+Static,固定文字列
+Datetime,日付と時間
+Decimal,10進数
+Integer,整数
+"Globally Editable",グローバルで編集可能
+"Attribute Information",属性情報
+Properties,プロパティ
+"Manage Labels",ラベル管理
+Visible,表示性
+Searchable,検索可能
+Comparable,比較可能
+"Delete Selected Group",選択したグループを削除
+"Delete Attribute Set",属性セットを削除
 "You are about to delete all products in this set. ' 'Are you sure you want to delete this attribute set?","You are about to delete all products in this set. ' 'Are you sure you want to delete this attribute set?"
 "Save Attribute Set","Save Attribute Set"
 "New Set Name","New Set Name"
