@@ -7,63 +7,63 @@ Name,Name
 From,From
 To,To
 Required,必須
-"Percent Discount","Percent Discount"
-"-- Select --","-- Select --"
-Dynamic,Dynamic
-Fixed,Fixed
-"Create New Option","Create New Option"
-"Bundle Items","Bundle Items"
-"Add Products to Option","Add Products to Option"
-"Delete Option","Delete Option"
-"Please enter search conditions to view products.","Please enter search conditions to view products."
+"Percent Discount",割引率
+"-- Select --","-- 選択 --"
+Dynamic,ダイナミック
+Fixed,固定
+"Create New Option",新しいオプションを作成
+"Bundle Items",セット品
+"Add Products to Option",商品をオプションに追加
+"Delete Option",オプションを削除
+"Please enter search conditions to view products.",表示する商品を検索する条件を入力してください。
 ID,ID
 SKU,SKU
-"Use Default Value","Use Default Value"
-"There is no defined renderer for ""%1"" option type.","There is no defined renderer for ""%1"" option type."
-"As Low as","As Low as"
-"Price Range","Price Range"
-"Please specify product option(s).","Please specify product option(s)."
-"Please select all required options.","Please select all required options."
-"The required options you selected are not available.","The required options you selected are not available."
-"We cannot add this item to your shopping cart.","We cannot add this item to your shopping cart."
+"Use Default Value",デフォルト値を使用
+"There is no defined renderer for ""%1"" option type.","オプションタイプ ""%1"" に定義されているレンダラーがありません。"
+"As Low as",以下
+"Price Range",価格レンジ
+"Please specify product option(s).",商品オプションを指定してください。
+"Please select all required options.",全ての必須項目を選択してください。
+"The required options you selected are not available.",選択された必須オプションはご利用いただけません。
+"We cannot add this item to your shopping cart.",この商品をショッピングカートに追加できません。
 N/A,N/A
-Percent,Percent
+Percent,パーセント
 None,None
-Qty:,Qty:
-"Choose a selection...","Choose a selection..."
-"Ship Bundle Items","Ship Bundle Items"
-Separately,Separately
-Together,Together
-"Option Title","Option Title"
-"Store View Title","Store View Title"
-"Input Type","Input Type"
-Position,Position
-"There are no products in this option.","There are no products in this option."
-"New Option","New Option"
-Default,Default
-"Price Type","Price Type"
-"Default Quantity","Default Quantity"
-"User Defined","User Defined"
-Ordered,Ordered
-Invoiced,Invoiced
-Shipped,Shipped
-Refunded,Refunded
-Canceled,Canceled
-"As low as","As low as"
-"Regular Price","Regular Price"
-"Buy %1 with %2 discount each","Buy %1 with %2 discount each"
-"Go back to product details","Go back to product details"
-"Customize and Add to Cart","Customize and Add to Cart"
-"* Required Fields","* Required Fields"
-"Your Customization","Your Customization"
-Availability,Availability
-"In stock","In stock"
-"Out of stock","Out of stock"
-Summary,Summary
+Qty:,個数:
+"Choose a selection...",選択してください...
+"Ship Bundle Items",セット品の出荷
+Separately,分割して出荷
+Together,まとめて出荷
+"Option Title",オプションタイトル
+"Store View Title",ストアビュータイトル
+"Input Type",入力形式
+Position,表示位置
+"There are no products in this option.",このオプションには商品がありません。
+"New Option",新規オプション
+Default,デフォルト
+"Price Type",価格種別
+"Default Quantity",デフォルト個数
+"User Defined",ユーザー定義
+Ordered,注文済
+Invoiced,領収済
+Shipped,出荷済
+Refunded,返金済
+Canceled,キャンセル済
+"As low as",以下
+"Regular Price",通常価格
+"Buy %1 with %2 discount each","%1 点購入いただくと1点あたり %2 お値引き"
+"Go back to product details",商品詳細に戻る
+"Customize and Add to Cart",カスタマイズしてカートに追加
+"* Required Fields","* 必須項目"
+"Your Customization",あなたのカスタマイズ内容
+Availability,在庫状況
+"In stock",在庫あり
+"Out of stock",在庫切れ
+Summary,サマリ
 "%1 x %2","%1 x %2"
 Availability:,Availability:
-Qty,Qty
-"Customize %1","Customize %1"
+Qty,個数
+"Customize %1","%1 をカスタマイズ"
 "No options of this product are available.","No options of this product are available."
 "Gift Message","Gift Message"
 From:,From:

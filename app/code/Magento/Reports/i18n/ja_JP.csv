@@ -27,11 +27,11 @@ Dashboard,ダッシュボード
 "All Websites",全てのウェブサイト
 ID,ID
 SKU,SKU
-Invoiced,Invoiced
-Refunded,Refunded
-Canceled,Canceled
-"In stock","In stock"
-"Out of stock","Out of stock"
+Invoiced,領収済
+Refunded,返金済
+Canceled,キャンセル済
+"In stock",在庫あり
+"Out of stock",在庫切れ
 Subtotal,Subtotal
 Day,Day
 Month,Month

@@ -48,25 +48,25 @@ Images,画像
 "This tab contains invalid data. Please solve the problem before saving.",このタブには不正な情報が含まれています。保存する前に修正してください。
 Loading...,読み込み中...
 OK,OK
-Fixed,Fixed
+Fixed,固定
 ID,ID
 SKU,SKU
-"Use Default Value","Use Default Value"
+"Use Default Value",デフォルト値を使用
 N/A,N/A
-Percent,Percent
+Percent,パーセント
 None,None
-"Option Title","Option Title"
-"Input Type","Input Type"
-Position,Position
-"New Option","New Option"
-"Price Type","Price Type"
-"As low as","As low as"
-"Regular Price","Regular Price"
-"* Required Fields","* Required Fields"
-Availability,Availability
-"In stock","In stock"
-"Out of stock","Out of stock"
-Qty,Qty
+"Option Title",オプションタイトル
+"Input Type",入力形式
+Position,表示位置
+"New Option",新規オプション
+"Price Type",価格種別
+"As low as",以下
+"Regular Price",通常価格
+"* Required Fields","* 必須項目"
+Availability,在庫状況
+"In stock",在庫あり
+"Out of stock",在庫切れ
+Qty,個数
 Root,Root
 "Save Category","Save Category"
 "Delete Category","Delete Category"

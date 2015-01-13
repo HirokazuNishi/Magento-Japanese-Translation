@@ -35,8 +35,8 @@ Order,注文
 View,表示
 ID,ID
 SKU,SKU
-"* Required Fields","* Required Fields"
-Qty,Qty
+"* Required Fields","* 必須項目"
+Qty,個数
 label,label
 Global,Global
 Change,Change

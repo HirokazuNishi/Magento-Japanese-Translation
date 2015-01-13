@@ -8,16 +8,16 @@ Status,ステータス
 "Sort Order",表示順
 "Browse Files...",ファイルを表示...
 SKU,SKU
-"Use Default Value","Use Default Value"
-Ordered,Ordered
-Invoiced,Invoiced
-Shipped,Shipped
-Refunded,Refunded
-Canceled,Canceled
-Availability,Availability
-"In stock","In stock"
-"Out of stock","Out of stock"
-Qty,Qty
+"Use Default Value",デフォルト値を使用
+Ordered,注文済
+Invoiced,領収済
+Shipped,出荷済
+Refunded,返金済
+Canceled,キャンセル済
+Availability,在庫状況
+"In stock",在庫あり
+"Out of stock",在庫切れ
+Qty,個数
 "Gift Message","Gift Message"
 From:,From:
 To:,To:

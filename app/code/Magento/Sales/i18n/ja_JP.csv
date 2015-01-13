@@ -38,14 +38,14 @@ View,表示
 Actions,アクション
 ID,ID
 SKU,SKU
-"We cannot add this item to your shopping cart.","We cannot add this item to your shopping cart."
+"We cannot add this item to your shopping cart.",この商品をショッピングカートに追加できません。
 N/A,N/A
-Ordered,Ordered
-Invoiced,Invoiced
-Shipped,Shipped
-Refunded,Refunded
-Canceled,Canceled
-Qty,Qty
+Ordered,注文済
+Invoiced,領収済
+Shipped,出荷済
+Refunded,返金済
+Canceled,キャンセル済
+Qty,個数
 "Gift Message","Gift Message"
 From:,From:
 To:,To:

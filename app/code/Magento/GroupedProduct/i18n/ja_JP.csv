@@ -3,11 +3,11 @@ Price,Price
 Name,Name
 ID,ID
 SKU,SKU
-Availability,Availability
-"In stock","In stock"
-"Out of stock","Out of stock"
+Availability,在庫状況
+"In stock",在庫あり
+"Out of stock",在庫切れ
 Availability:,Availability:
-Qty,Qty
+Qty,個数
 "No options of this product are available.","No options of this product are available."
 "Product Name","Product Name"
 "Associated Products","Associated Products"
