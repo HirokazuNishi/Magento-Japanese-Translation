@@ -2,33 +2,33 @@ Customers,顧客
 Customer,顧客
 "First Name",名
 "Last Name",姓
-Email,メールアドレス
+Email,Eメール
 ID,ID
-Type,Type
-All,All
-Visitor,Visitor
-Never,Never
-Offline,Offline
-Online,Online
-"Customers Only","Customers Only"
-"Visitors Only","Visitors Only"
+Type,タイプ
+All,全て
+Visitor,訪問者
+Never,まだ
+Offline,オフライン
+Online,オンライン
+"Customers Only",顧客のみ
+"Visitors Only",訪問者のみ
 "Customers Now Online","Customers Now Online"
-"Online Customers","Online Customers"
-"Last Logged In:","Last Logged In:"
+"Online Customers",接続中の顧客
+"Last Logged In:",最終ログイン日:
 "Last Logged In (%1):","Last Logged In (%1):"
-"IP Address","IP Address"
-"Start Time","Start Time"
-Frequency,Frequency
-"Error Email Recipient","Error Email Recipient"
-"Error Email Sender","Error Email Sender"
-"Error Email Template","Error Email Template"
-"Online Customers Options","Online Customers Options"
-"Online Minutes Interval","Online Minutes Interval"
-"Leave empty for default (15 minutes).","Leave empty for default (15 minutes)."
-"Log Cleaning","Log Cleaning"
-"Save Log, Days","Save Log, Days"
-"Enable Log Cleaning","Enable Log Cleaning"
-n/a,n/a
-"Session Start Time","Session Start Time"
-"Last Activity","Last Activity"
-"Last URL","Last URL"
+"IP Address",IPアドレス
+"Start Time",開始時間
+Frequency,頻度
+"Error Email Recipient",メールの受信エラー
+"Error Email Sender",エラーメール送信者
+"Error Email Template",エラーメールテンプレート
+"Online Customers Options",オンライン顧客オプション
+"Online Minutes Interval",オンライン分間隔
+"Leave empty for default (15 minutes).",空白の場合は、初期値(15分)になります。
+"Log Cleaning",ログクリーニング
+"Save Log, Days",ログ保存期間
+"Enable Log Cleaning",ログクリーニングを有効にする
+n/a,該当無し
+"Session Start Time",セッション開始時間
+"Last Activity",最近の行動
+"Last URL",最終URL

@@ -1,6 +1,6 @@
 "Read Details",詳細を読む
 "Mark as Read",既読にする
-"Are you sure?",よろしいですか?
+"Are you sure?",よろしいですか？
 Remove,削除
 "Messages Inbox",受信箱
 "You have %1 new system messages","%1 件の新しいメッセージがあります"
@@ -21,17 +21,18 @@ Notifications,お知らせ
 "6 Hours",6時間
 "12 Hours",12時間
 "24 Hours",24時間
-critical,緊急
-major,重要
-minor,一般
+critical,重要
+major,メジャー
+minor,マイナー
 notice,お知らせ
-"Wrong message type",不正なメッセージタイプ
+"Wrong message type",不正なメッセージ種別
+"Wrong notification ID specified.",不正な通知IDが指定されました。
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. It is highly recommended to change this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} は本番環境のベースURLとセキュアベースURLとしての利用が推奨されていません。お使いの Magento <a href=""%1"">設定</a> で変更することを強くおすすめします。"
 "One or more of the Cache Types are invalidated: %1. ","1つ以上のキャッシュが期限切れです: %1. "
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","<a href=""%1"">キャッシュ管理</a> でキャッシュをリフレッシュしてください。"
 "One or more media files failed to be synchronized during the media storages synchronization process. Refer to the log file for details.",1つ以上のメディアファイルの同期処理が失敗しました。ログファイルを参照して詳細を確認してください。
 "Synchronization of media storages has been completed.",メディアストレージの同期が完了しました。
-"Your web server is configured incorrectly. As a result, configuration files with sensitive information are accessible from the outside. Please contact your hosting provider.",お使いのWebサーバーの設定が正しくないようです。設定ファイルは重要なファイルのため、システム外部からアクセスできるべきではありません。サーバー管理者にご相談ください。
+"Your web server is configured incorrectly. As a result, configuration files with sensitive information are accessible from the outside. Please contact your hosting provider.",お使いのサーバは正しく設定されていません。そのため設定ファイルの機密情報が外部からアクセスされてしまいます。サーバ管理者にご連絡ください。
 "Close popup",ポップアップを閉じる
 Close,閉じる
 "Critical System Messages",緊急システムメッセージ
@@ -42,9 +43,9 @@ Cancel,キャンセル
 Acknowledge,了解
 "See All (%1 unread)","すべて表示 (%1件未読)"
 Actions,アクション
-Message,Message
-"Use HTTPS to Get Feed","Use HTTPS to Get Feed"
-"Update Frequency","Update Frequency"
-"Last Update","Last Update"
-Severity,Severity
-"Date Added","Date Added"
+Message,メッセージ
+"Use HTTPS to Get Feed",フィードの取得にHTTPSを使用する
+"Update Frequency",更新間隔
+"Last Update",最終更新
+Severity,重要度
+"Date Added",登録日

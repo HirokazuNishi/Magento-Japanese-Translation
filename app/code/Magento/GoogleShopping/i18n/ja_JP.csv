@@ -1,47 +1,47 @@
-"Are you sure?",よろしいですか?
+"Are you sure?",よろしいですか？
 Remove,削除
-Items,アイテム
+Items,商品
 Product,商品
-Price,Price
-Synchronize,同期
+Price,価格
 Delete,削除
 Yes,Yes
 No,No
-Required,必須
 Catalog,カタログ
 ID,ID
-SKU,SKU
-Default,デフォルト
-"Add New Attribute",新規属性追加
-Type,Type
-"Attribute Set","Attribute Set"
-Title,Title
-Action,Action
-Description,Description
-Condition,Condition
-Confirm,Confirm
-Gender,Gender
+SKU,商品番号
+Required,必須
+Default,標準
+"Add New Attribute",新規属性の追加
+Type,タイプ
+"Attribute Set",属性セット
+Title,タイトル
+Action,アクション
+Description,概要
+Condition,条件
+Synchronize,同期
+Confirm,承認
+Gender,性別
 Adult,Adult
-Expires,Expires
+Expires,期限切れ
 "This action will update items' attributes and remove items that are not available in Google Content. If an attribute was deleted from the mapping, it will also be deleted from Google. Do you want to continue?","This action will update items' attributes and remove items that are not available in Google Content. If an attribute was deleted from the mapping, it will also be deleted from Google. Do you want to continue?"
 "Add to Google Content","Add to Google Content"
 "View Item in Google Content","View Item in Google Content"
-"Add Attribute Mapping","Add Attribute Mapping"
-"Manage Attribute Mapping","Manage Attribute Mapping"
-"Save Mapping","Save Mapping"
-"Delete Mapping","Delete Mapping"
+"Add Attribute Mapping",マッピング属性追加
+"Manage Attribute Mapping",マッピング属性の管理
+"Save Mapping",マッピングの保存
+"Delete Mapping",マッピングの削除
 "Edit attribute set mapping","Edit attribute set mapping"
-"New attribute set mapping","New attribute set mapping"
-"Custom attribute, no mapping","Custom attribute, no mapping"
+"New attribute set mapping",新しい属性セットマッピング
+"Custom attribute, no mapping",カスタム属性、マッピング不可
 "Attribute set mapping","Attribute set mapping"
-"Target Country","Target Country"
+"Target Country",対象国
 "Google Product Category","Google Product Category"
-"Attributes Mapping","Attributes Mapping"
+"Attributes Mapping",属性マッピング
 "Unable to select a Store View","Unable to select a Store View"
-"Captcha has been confirmed.","Captcha has been confirmed."
+"Captcha has been confirmed.",Captchaを確認しました。
 "There was a Captcha confirmation error: %1","There was a Captcha confirmation error: %1"
 "Something went wrong during Captcha confirmation.","Something went wrong during Captcha confirmation."
-"Google Content","Google Content"
+"Google Content",Googleコンテンツ
 "Google Content Items","Google Content Items"
 "The store's currency should be set to %1 for %2 in system configuration. Otherwise item prices won't be correct in Google Content.","The store's currency should be set to %1 for %2 in system configuration. Otherwise item prices won't be correct in Google Content."
 "An error has occurred while adding products to google shopping account.","An error has occurred while adding products to google shopping account."
@@ -87,23 +87,23 @@ Expires,Expires
 "One or more google shopping synchronization operations failed because of timeout.","One or more google shopping synchronization operations failed because of timeout."
 "Sorry, but we can't connect to Google Content. Please check the account settings in your store configuration.","Sorry, but we can't connect to Google Content. Please check the account settings in your store configuration."
 "Error: %1","Error: %1"
-"Hosted or Google","Hosted or Google"
+"Hosted or Google",Googleでホストされています
 Google,Google
-Hosted,Hosted
+Hosted,ホスト
 AuthSub,AuthSub
-ClientLogin,ClientLogin
+ClientLogin,クライアントログイン
 Excluded,Excluded
-"Available Products","Available Products"
+"Available Products",商品利用
 "Google Shopping synchronization process is running","Google Shopping synchronization process is running"
-"Please, select Attribute Set and Google Item Type to load attributes","Please, select Attribute Set and Google Item Type to load attributes"
-"Current Mapping will be reloaded. Continue?","Current Mapping will be reloaded. Continue?"
-Attribute,Attribute
+"Please, select Attribute Set and Google Item Type to load attributes",選択した属性セットとGoogleアイテムタイプをロード属性にしてください
+"Current Mapping will be reloaded. Continue?","今のマッピングは再読込されます。 続けますか？"
+Attribute,属性
 "Google Content Attribute","Google Content Attribute"
 "Please, select Attribute Set to load attributes","Please, select Attribute Set to load attributes"
-Labels,Labels
-Size,Size
-Debug,Debug
-"Account ID","Account ID"
+Labels,ラベル
+Size,サイズ
+Debug,デバッグ
+"Account ID",アカウントID
 "Google Shopping","Google Shopping"
 "Account Login","Account Login"
 "Account Password","Account Password"
@@ -130,9 +130,9 @@ Netherlands,Netherlands
 Spain,Spain
 Switzerland,Switzerland
 "Swiss Franc","Swiss Franc"
-"United Kingdom","United Kingdom"
+"United Kingdom",イギリス
 "British Pound Sterling","British Pound Sterling"
-"United States","United States"
+"United States",アメリカ
 "US Dollar","US Dollar"
 "Expiration date","Expiration date"
 "Sale Price","Sale Price"
@@ -151,7 +151,7 @@ GTIN,GTIN
 Material,Material
 Pattern/Graphic,Pattern/Graphic
 Grouping,Grouping
-Redirect,Redirect
+Redirect,リダイレクト
 "Query Param","Query Param"
-"Attributes Set","Attributes Set"
+"Attributes Set",属性セット
 "Total Qty Content Items","Total Qty Content Items"

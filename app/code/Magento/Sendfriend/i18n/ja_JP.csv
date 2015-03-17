@@ -1,35 +1,36 @@
 Remove,削除
-Email,メールアドレス
+Email,Eメール
 Back,戻る
-Name,Name
+Name,名前
 Enabled,有効
 "* Required Fields","* 必須項目"
-"Email Templates","Email Templates"
-Message,Message
-Sender,Sender
-"IP Address","IP Address"
-"Send Email","Send Email"
+"Email Templates",メールテンプレート
+Message,メッセージ
+Sender,発送人
+"IP Address",IPアドレス
+"Send Email",メール送信
 "You can't send messages more than %1 times an hour.","You can't send messages more than %1 times an hour."
-"The link to a friend was sent.","The link to a friend was sent."
+"The link to a friend was sent.",リンクを友達に送信しました。
 "We found some problems with the data.","We found some problems with the data."
-"Some emails were not sent.","Some emails were not sent."
+"Some emails were not sent.",何件かのメールが送信できませんでした。
 "You've met your limit of %1 sends in an hour.","You've met your limit of %1 sends in an hour."
-"The sender name cannot be empty.","The sender name cannot be empty."
+"The sender name cannot be empty.",送信者名を入力してください。
 "Invalid Sender Email","Invalid Sender Email"
-"The message cannot be empty.","The message cannot be empty."
-"At least one recipient must be specified.","At least one recipient must be specified."
+"The message cannot be empty.",メッセージを入力してください。
+"At least one recipient must be specified.",1件以上の宛先を指定してください。
 "Please enter a correct recipient email address.","Please enter a correct recipient email address."
 "No more than %1 emails can be sent at a time.","No more than %1 emails can be sent at a time."
-"Please define a correct Product instance.","Please define a correct Product instance."
-"Invalid Sender Information","Invalid Sender Information"
-"Please define the correct Sender information.","Please define the correct Sender information."
-"Cookie (unsafe)","Cookie (unsafe)"
+"Please define a correct Product instance.",商品を正しく指定してください。
+"Invalid Sender Information",不正な送信者情報です。
+"Please define the correct Sender information.",送信者情報を正しく指定してください。
+"Cookie (unsafe)","Cookie (安全ではない)"
+"Remove Recipent","Remove Recipent"
 Recipient,Recipient
 "Maximum %1 email addresses allowed.","Maximum %1 email addresses allowed."
-"Add Recipient","Add Recipient"
-"Email to a Friend","Email to a Friend"
-"Select Email Template","Select Email Template"
-"Allow for Guests","Allow for Guests"
-"Max Recipients","Max Recipients"
-"Max Products Sent in 1 Hour","Max Products Sent in 1 Hour"
-"Limit Sending By","Limit Sending By"
+"Add Recipient",新規受け取り先の追加
+"Email to a Friend",友達にメールを送る
+"Select Email Template",メールテンプレートを選択
+"Allow for Guests",ゲストに許可する
+"Max Recipients",最大受信者数
+"Max Products Sent in 1 Hour",1時間あたりの最大送信件数
+"Limit Sending By",送信制限

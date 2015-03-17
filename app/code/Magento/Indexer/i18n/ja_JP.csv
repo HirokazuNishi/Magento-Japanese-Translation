@@ -1,13 +1,13 @@
-Status,ステータス
-Description,Description
+Status,状態
+Description,概要
 "Indexer Management","Indexer Management"
 "Update by Schedule","Update by Schedule"
-"Update on Save","Update on Save"
+"Update on Save",逐次更新
 "Reindex required","Reindex required"
 Ready,Ready
-Processing,Processing
-Never,Never
-"Index Management","Index Management"
+Processing,処理中
+Never,まだ
+"Index Management",インデックス管理
 "Please select indexers.","Please select indexers."
 "A total of %1 indexer(s) have been turned Update by Schedule mode on.","A total of %1 indexer(s) have been turned Update by Schedule mode on."
 "We couldn't change indexer(s)' mode because of an error.","We couldn't change indexer(s)' mode because of an error."
@@ -16,4 +16,4 @@ Never,Never
 "State for the same view","State for the same view"
 Updated,Updated
 Indexer,Indexer
-Mode,Mode
+Mode,モード

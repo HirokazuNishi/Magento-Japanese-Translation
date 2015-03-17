@@ -1,35 +1,35 @@
 Remove,削除
 Close,閉じる
-"Delete File",ファイル削除
 "-- Please Select --","-- 選択してください --"
 General,全般
-"Save and Continue Edit",保存して編集を続ける
 "About the calendar",カレンダーについて
-"Go Today",今日に移動
+"Go Today",今日へ
 Previous,前へ
-Next,次へ
-WK,WK
+Next,次
+WK,週
 Time,時間
 Hour,時
 Minute,分
-"per page",1ページあたり
+"per page",件表示
 Page,ページ
 label,ラベル
-Empty,Empty
-"%1 Item","%1 Item"
-Show,Show
-"Media Storage","Media Storage"
-"Delete Folder","Delete Folder"
-"Insert File","Insert File"
-"New Folder Name:","New Folder Name:"
+"Save and Continue Edit",保存して編集を続ける
+Empty,空
+"%1 Item","%1 アイテム"
+Show,表示
+"Media Storage",メディアストレージ
+"Delete Folder",フォルダを削除
+"Delete File",ファイルを削除
+"Insert File",ファイル挿入
+"New Folder Name:",新しいフォルダ名:
 "Are you sure you want to delete this folder?","Are you sure you want to delete this folder?"
 "Are you sure you want to delete this file?","Are you sure you want to delete this file?"
-"Storage Root","Storage Root"
+"Storage Root",ストレージルート
 "We cannot upload the file.","We cannot upload the file."
 "We cannot delete root directory %1.","We cannot delete root directory %1."
 "Custom CSS","Custom CSS"
 "Select JS Files to Upload","Select JS Files to Upload"
-Header,Header
+Header,ヘッダー
 "Are you sure you want to delete this theme?","Are you sure you want to delete this theme?"
 "Sorry, there was an unknown error.","Sorry, there was an unknown error."
 "We cannot upload the CSS file.","We cannot upload the CSS file."
@@ -37,7 +37,7 @@ Header,Header
 "Browse Files","Browse Files"
 "Create Folder","Create Folder"
 "Welcome, %1!","Welcome, %1!"
-Themes,Themes
+Themes,テーマ
 "Theme: %1","Theme: %1"
 "New Theme","New Theme"
 "Theme CSS","Theme CSS"
@@ -45,7 +45,7 @@ Themes,Themes
 "Select CSS File to Upload","Select CSS File to Upload"
 "Upload CSS File","Upload CSS File"
 "Download CSS File","Download CSS File"
-Manage,Manage
+Manage,管理
 "Upload Images","Upload Images"
 "Images Assets","Images Assets"
 "Upload Fonts","Upload Fonts"
@@ -59,8 +59,6 @@ Manage,Manage
 "Theme Settings","Theme Settings"
 "Parent Theme","Parent Theme"
 "Theme Path","Theme Path"
-"Theme Version","Theme Version"
-"Example: 0.0.0.1 or 123.1.0.25-alpha1","Example: 0.0.0.1 or 123.1.0.25-alpha1"
 "Theme Title","Theme Title"
 "Theme Preview Image","Theme Preview Image"
 "Copy of %1","Copy of %1"
@@ -79,59 +77,63 @@ Theme,Theme
 "Theme isn't editable.","Theme isn't editable."
 "You saved the theme.","You saved the theme."
 "We cannot find a theme with id ""%1"".","We cannot find a theme with id ""%1""."
+"Invalid regular expression: ""%1"".","Invalid regular expression: ""%1""."
+"Theme isn't deletable.","Theme isn't deletable."
+"Start date cannot be greater than end date.",開始日は終了日より前の日付を指定してください。
+"Your design change for the specified store intersects with another one, please specify another
+                    date range.","Your design change for the specified store intersects with another one, please specify another
+                    date range."
+Copy,Copy
+"Circular-reference in theme inheritance detected for ""%1""","Circular-reference in theme inheritance detected for ""%1"""
 "The CSS file must be less than %1M.","The CSS file must be less than %1M."
 "The JS file must be less than %1M.","The JS file must be less than %1M."
 "Use only standard alphanumeric, dashes and underscores.","Use only standard alphanumeric, dashes and underscores."
 "We found a directory with the same name.","We found a directory with the same name."
 "We cannot find a directory with this name.","We cannot find a directory with this name."
 "We found no files.","We found no files."
-"Help Us to Keep Magento Healthy","Help Us to Keep Magento Healthy"
-"Report All Bugs","Report All Bugs"
+"Help Us to Keep Magento Healthy",Magentoを安全に保つためにご協力ください
+"Report All Bugs",バグを報告する
 "(ver. %1)","(ver. %1)"
 "Toggle Nav","Toggle Nav"
-"JavaScript seems to be disabled in your browser.","JavaScript seems to be disabled in your browser."
+"JavaScript seems to be disabled in your browser.",JavaScriptがお使いのブラウザで無効になっているようです。
 "Enable JavaScript in your browser to get the best experience on our website!","Enable JavaScript in your browser to get the best experience on our website!"
 "Local Storage seems to be disabled in your browser.","Local Storage seems to be disabled in your browser."
 "Enable Local Storage in your browser to get the best experience on our website!","Enable Local Storage in your browser to get the best experience on our website!"
 "This is demo store. All orders will not be transferred.","This is demo store. All orders will not be transferred."
-"We use cookies to make your experience better.","We use cookies to make your experience better."
-"To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies."
-"<a href=""%1"">Learn more</a>.","<a href=""%1"">Learn more</a>."
-"Allow Cookies","Allow Cookies"
 "Items %1 to %2 of %3 total","Items %1 to %2 of %3 total"
-"%1 Item(s)","%1 Item(s)"
+"%1 Item(s)","%1 アイテム"
 "You're currently reading page","You're currently reading page"
+"We could not detect a size.",サイズを検出できません。
 "We don't recognize this file extension.","We don't recognize this file extension."
-"We cannot detect a size.","We cannot detect a size."
-"Logo Image","Logo Image"
-"Logo Image Alt","Logo Image Alt"
-"HTML Head","HTML Head"
-"Favicon Icon","Favicon Icon"
-"Allowed file types: ICO, PNG, GIF, JPG, JPEG, APNG, SVG. Not all browsers support all these formats!","Allowed file types: ICO, PNG, GIF, JPG, JPEG, APNG, SVG. Not all browsers support all these formats!"
-"Default Title","Default Title"
-"Title Prefix","Title Prefix"
-"Title Suffix","Title Suffix"
-"Default Description","Default Description"
-"Default Keywords","Default Keywords"
-"Miscellaneous Scripts","Miscellaneous Scripts"
-"This will be included before head closing tag in page HTML.","This will be included before head closing tag in page HTML."
-"Display Demo Store Notice","Display Demo Store Notice"
+"Logo Image",ロゴ画像
+"Logo Image Alt",ロゴイメージAlt
+"HTML Head","HTML ヘッダ"
+"Favicon Icon",ファビコン
+"Allowed file types: ICO, PNG, GIF, JPG, JPEG, APNG, SVG. Not all browsers support all these formats!","使用できるファイル形式： ICO, PNG, GIF, JPG, JPEG, APNG, SVG。すべてのブラウザがすべてのフォーマットをサポートしているわけではないことに注意してください！"
+"Default Title",標準タイトル
+"Title Prefix",タイトルプレフィックス
+"Title Suffix",タイトルサフィックス
+"Default Description",標準の説明
+"Default Keywords",初期キーワード
+"Miscellaneous Scripts",各種スクリプト
+"This will be included before head closing tag in page HTML.",ページのHTMLのheadタグ終了前に追記されます。
+"Display Demo Store Notice",デモストア通知の表示
 "Search Engine Robots","Search Engine Robots"
-"Default Robots","Default Robots"
+"Default Robots",標準のrobots.txt
 "Edit custom instruction of robots.txt File","Edit custom instruction of robots.txt File"
 "Reset to Defaults","Reset to Defaults"
 "This action will delete your custom instructions and reset robots.txt file to system's default settings.","This action will delete your custom instructions and reset robots.txt file to system's default settings."
-"Welcome Text","Welcome Text"
-Footer,Footer
-Copyright,Copyright
-"Miscellaneous HTML","Miscellaneous HTML"
-"This will be displayed just before body closing tag.","This will be displayed just before body closing tag."
-"Default welcome msg!","Default welcome msg!"
+"Welcome Text",ウェルカムメッセージ
+Footer,フッター
+Copyright,コピーライト
+"Miscellaneous HTML","色々な HTML"
+"This will be displayed just before body closing tag.",bodyタグの終了直前に出力されます。
+"Default welcome msg!",標準のウェルカムメッセージ!
 "&copy; 2014 Magento Demo Store. All Rights Reserved.","&copy; 2014 Magento Demo Store. All Rights Reserved."
 "Admin empty","Admin empty"
 "Admin 1column","Admin 1column"
-"Skip to content","Skip to content"
-"1 column","1 column"
-"2 columns with left bar","2 columns with left bar"
-"2 columns with right bar","2 columns with right bar"
-"3 columns","3 columns"
+"Skip to Content","Skip to Content"
+"1 column",1カラム
+"2 columns with left bar",2カラム左ナビ付き
+"2 columns with right bar",2カラム右ナビ付き
+"3 columns",3カラム

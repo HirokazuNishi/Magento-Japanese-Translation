@@ -2,61 +2,61 @@ Enabled,有効
 "Store View",ストアビュー
 Catalog,カタログ
 ID,ID
-None,None
+None,なし
 Always,常に
-All,All
-Action,Action
-Priority,Priority
-Daily,Daily
-Weekly,Weekly
-Monthly,Monthly
-Never,Never
-Generate,Generate
-"Save & Generate","Save & Generate"
-"Edit Sitemap","Edit Sitemap"
-"New Sitemap","New Sitemap"
-"Sitemap Information","Sitemap Information"
-Sitemap,Sitemap
-Filename,Filename
-"example: sitemap.xml","example: sitemap.xml"
-Path,Path
+All,全て
+Action,アクション
+Priority,優先度
+Daily,毎日
+Weekly,週ごと
+Monthly,月ごと
+Never,まだ
+Generate,生成
+"Save & Generate",保存して生成
+"Edit Sitemap",サイトマップ編集
+"New Sitemap",新しいサイトマップ
+"Sitemap Information",サイトマップ情報
+Sitemap,サイトマップ
+Filename,ファイル名
+"example: sitemap.xml","例: sitemap.xml"
+Path,パス
 "example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","example: ""/sitemap/"" or ""/"" for base path (path must be writeable)"
 "XML Sitemap","XML Sitemap"
-"Add Sitemap","Add Sitemap"
-"The sitemap has been deleted.","The sitemap has been deleted."
+"Add Sitemap",サイトマップを追加
+"The sitemap has been deleted.",サイトマップは削除されました。
 "We can't find a sitemap to delete.","We can't find a sitemap to delete."
-"This sitemap no longer exists.","This sitemap no longer exists."
-"Site Map","Site Map"
+"This sitemap no longer exists.",サイトマップは存在していません。
+"Site Map",サイトマップ
 "New Site Map","New Site Map"
 "The sitemap ""%1"" has been generated.","The sitemap ""%1"" has been generated."
 "Something went wrong generating the sitemap.","Something went wrong generating the sitemap."
 "We can't find a sitemap to generate.","We can't find a sitemap to generate."
-"The sitemap has been saved.","The sitemap has been saved."
-"The priority must be between 0 and 1.","The priority must be between 0 and 1."
-Hourly,Hourly
-Yearly,Yearly
+"The sitemap has been saved.",サイトマップを保存しました。
+"The priority must be between 0 and 1.",優先順位は0から1の間で指定してください。
+Hourly,1時間ごと
+Yearly,年ごと
 "File handler unreachable","File handler unreachable"
 "Please define a correct path.","Please define a correct path."
 "Please create the specified folder ""%1"" before saving the sitemap.","Please create the specified folder ""%1"" before saving the sitemap."
 "Please make sure that ""%1"" is writable by the web-server.","Please make sure that ""%1"" is writable by the web-server."
 "Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in the filename. No spaces or other characters are allowed.","Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in the filename. No spaces or other characters are allowed."
 "Base Only","Base Only"
-"Start Time","Start Time"
-Frequency,Frequency
-"Error Email Recipient","Error Email Recipient"
-"Error Email Sender","Error Email Sender"
-"Error Email Template","Error Email Template"
-"Categories Options","Categories Options"
+"Start Time",開始時間
+Frequency,頻度
+"Error Email Recipient",メールの受信エラー
+"Error Email Sender",エラーメール送信者
+"Error Email Template",エラーメールテンプレート
+"Categories Options",カテゴリオプション
 "Valid values range from 0.0 to 1.0.","Valid values range from 0.0 to 1.0."
-"Products Options","Products Options"
+"Products Options",商品オプション
 "Add Images into Sitemap","Add Images into Sitemap"
-"CMS Pages Options","CMS Pages Options"
-"Generation Settings","Generation Settings"
+"CMS Pages Options",CMSページオプション
+"Generation Settings",生成設定
 "Sitemap File Limits","Sitemap File Limits"
 "Maximum No of URLs Per File","Maximum No of URLs Per File"
 "Maximum File Size","Maximum File Size"
 "File size in bytes.","File size in bytes."
 "Search Engine Submission Settings","Search Engine Submission Settings"
 "Enable Submission to Robots.txt","Enable Submission to Robots.txt"
-"Link for Google","Link for Google"
+"Link for Google",Googleへリンク
 "Last Generated","Last Generated"

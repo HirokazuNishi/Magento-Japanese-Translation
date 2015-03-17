@@ -2,69 +2,69 @@ Product,商品
 Yes,Yes
 No,No
 "Web Site",ウェブサイト
-Status,ステータス
-"Save and Continue Edit",保存して編集を続ける
+Status,状態
 Catalog,カタログ
 Actions,アクション
 ID,ID
-SKU,SKU
-"Discount Amount",値引き額
-Websites,Websites
-Type,Type
-"Attribute Set","Attribute Set"
+SKU,商品番号
+"Discount Amount",割引価格
+"Save and Continue Edit",保存して編集を続ける
+Websites,ウェブサイト
+Type,タイプ
+"Attribute Set",属性セット
 "Could not rebuild index for undefined product","Could not rebuild index for undefined product"
 "Could not rebuild index for empty products array","Could not rebuild index for empty products array"
-"Catalog Price Rules","Catalog Price Rules"
-"Add New Rule","Add New Rule"
-"Apply Rules","Apply Rules"
-"Save and Apply","Save and Apply"
+"Catalog Price Rules",カタログ価格ルール
+"Add New Rule",新規クーポンの追加
+"Apply Rules",ルールの反映
+"Save and Apply",保存と適用
 "Edit Rule '%1'","Edit Rule '%1'"
-"New Rule","New Rule"
-"Rule Information","Rule Information"
-"Update Prices Using the Following Information","Update Prices Using the Following Information"
-Apply,Apply
-"By Percentage of the Original Price","By Percentage of the Original Price"
-"By Fixed Amount","By Fixed Amount"
-"To Percentage of the Original Price","To Percentage of the Original Price"
-"To Fixed Amount","To Fixed Amount"
-"Enable Discount to Subproducts","Enable Discount to Subproducts"
-"Stop Further Rules Processing","Stop Further Rules Processing"
-Conditions,Conditions
-"Conditions (leave blank for all products)","Conditions (leave blank for all products)"
-"General Information","General Information"
-"Rule Name","Rule Name"
-Description,Description
-Active,Active
-Inactive,Inactive
-"Customer Groups","Customer Groups"
-"From Date","From Date"
-"To Date","To Date"
-Priority,Priority
-"Catalog Price Rule","Catalog Price Rule"
-Promotions,Promotions
-"There are rules that have been changed but were not applied. Please, click Apply Rules in order to see immediate effect in the catalog.","There are rules that have been changed but were not applied. Please, click Apply Rules in order to see immediate effect in the catalog."
-"Unable to apply rules.","Unable to apply rules."
-"The rule has been deleted.","The rule has been deleted."
-"An error occurred while deleting the rule. Please review the log and try again.","An error occurred while deleting the rule. Please review the log and try again."
-"Unable to find a rule to delete.","Unable to find a rule to delete."
-"This rule no longer exists.","This rule no longer exists."
+"New Rule",新しいルール
+"Rule Information",クーポン情報
+"Update Prices Using the Following Information",以下の情報に基づいて価格を更新する
+Apply,反映
+"By Percentage of the Original Price",元の価格に指定した割引率を値引き
+"By Fixed Amount",指定額を割引
+"To Percentage of the Original Price",元の価格を指定した割引率の価格に値引き
+"To Fixed Amount",指定額へ割引
+"Enable Discount to Subproducts",子商品への値引きを許可する
+"Stop Further Rules Processing",他のクーポンの適用を行わない
+Conditions,条件
+"Conditions (leave blank for all products)",状態(すべての商品では空白に)
+"General Information",総合情報
+"Rule Name",クーポン名
+Description,概要
+Active,アクティブ
+Inactive,非アクティブ
+"Customer Groups",顧客グループ
+"From Date",開始日
+"To Date",終了日
+Priority,優先度
+"Catalog Price Rule",カタログ価格ルール
+Promotions,プロモーション
+"There are rules that have been changed but were not applied. Please, click Apply Rules in order to see immediate effect in the catalog.","ルールは変更されましたが未適用です。 カタログにすぐに結果を反映したい場合はルールを適用してください。"
+"Unable to apply rules.",ルールを適用できません。
+"The rule has been deleted.",クーポンを削除しました。
+"An error occurred while deleting the rule. Please review the log and try again.",ルールの削除中にエラーが発生しました。ログを確認の上、やり直してください。
+"Unable to find a rule to delete.",削除するクーポンが見つかりません。
+"This rule no longer exists.",このルールは存在していません。
 "New Catalog Price Rule","New Catalog Price Rule"
-"Edit Rule","Edit Rule"
-"Wrong rule specified.","Wrong rule specified."
-"The rule has been saved.","The rule has been saved."
-"An error occurred while saving the rule data. Please review the log and try again.","An error occurred while saving the rule data. Please review the log and try again."
-Promo,Promo
-"Update the Product","Update the Product"
-"Rule price","Rule price"
-"To Fixed Value","To Fixed Value"
-"To Percentage","To Percentage"
-"By Fixed value","By Fixed value"
-"By Percentage","By Percentage"
+"Edit Rule",ルールの編集
+"Wrong rule specified.",不正なクーポンが指定されました
+"The rule has been saved.",クーポンを保存しました。
+"An error occurred while saving the rule data. Please review the log and try again.",ルールの保存中にエラーが発生しました。ログを確認の上、やり直してください。
+Promo,プロモーション
+"Update the Product",商品を更新
+"Rule price",値引き
+"To Fixed Value",固定値
+"To Percentage",割合
+"By Fixed value",固定値
+"By Percentage",固定率
 "Update product's %1 %2: %3","Update product's %1 %2: %3"
-"Conditions Combination","Conditions Combination"
-"Product Attribute","Product Attribute"
+"Conditions Combination",条件の組み合わせ
+"Product Attribute",商品属性
 "Updated rules applied.","Updated rules applied."
-"%1 Catalog Price Rules based on ""%2"" attribute have been disabled.","%1 Catalog Price Rules based on ""%2"" attribute have been disabled."
+"%1 Catalog Price Rules based on ""%2"" attribute have been disabled.","""%2"" 属性に依存している、%1 件のクーポンが無効になりました。"
 Rule,Rule
 "Start on","Start on"
 "End on","End on"

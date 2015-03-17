@@ -1,28 +1,29 @@
 Remove,削除
 Total,合計
-Price,Price
-Email,メールアドレス
+Price,価格
+Email,Eメール
 Back,戻る
 "* Required Fields","* 必須項目"
+"Out of stock",在庫切れ
 Qty,個数
 "Product Name",商品名
 Subtotal,小計
-Change,Change
-Edit,Edit
-"Shopping Cart","Shopping Cart"
+Change,変更
+Edit,編集
+"Shopping Cart",ショッピングカート
 "Invalid method: %1","Invalid method: %1"
 "My Cart (1 item)","My Cart (1 item)"
 "My Cart (%1 items)","My Cart (%1 items)"
-"My Cart","My Cart"
-"New Address","New Address"
-Country,Country
-State/Province,State/Province
-"Billing Information","Billing Information"
-"Checkout Method","Checkout Method"
-"Payment Information","Payment Information"
-"Order Review","Order Review"
-"Shipping Information","Shipping Information"
-"Shipping Method","Shipping Method"
+"My Cart",マイカート
+"New Address",新規住所
+Country,国
+State/Province,都道府県
+"Billing Information",請求先情報
+"Checkout Method",購入方法
+"Payment Information",お支払情報
+"Order Review",ご注文の確認
+"Shipping Information",配送情報
+"Shipping Method",発送方法
 "You added %1 to your shopping cart.","You added %1 to your shopping cart."
 "We cannot add this item to your shopping cart","We cannot add this item to your shopping cart"
 "We can't find the quote item.","We can't find the quote item."
@@ -36,21 +37,21 @@ State/Province,State/Province
 "%1 was updated in your shopping cart.","%1 was updated in your shopping cart."
 "We cannot update the item.","We cannot update the item."
 "We cannot update the shopping cart.","We cannot update the shopping cart."
-"The onepage checkout is disabled.","The onepage checkout is disabled."
-Checkout,Checkout
-"Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order."
+"The onepage checkout is disabled.",ワンページチェックアウトは無効です。
+Checkout,レジに進む
+"Please agree to all the terms and conditions before placing the order.",ご注文前にすべての契約条件にご同意ください。
 "Something went wrong processing your order. Please try again later.","Something went wrong processing your order. Please try again later."
 "Unable to set Payment Method","Unable to set Payment Method"
 "We can't find the product.","We can't find the product."
-"The product does not exist.","The product does not exist."
+"The product does not exist.",商品が見つかりません。
 "We don't have some of the products you want.","We don't have some of the products you want."
 "We don't have as many of some products as you want.","We don't have as many of some products as you want."
 "Quantity was recalculated from %1 to %2","Quantity was recalculated from %1 to %2"
 "Some products quantities were recalculated because of quantity increment mismatch.","Some products quantities were recalculated because of quantity increment mismatch."
 "This quote item does not exist.","This quote item does not exist."
-"Display number of items in cart","Display number of items in cart"
-"Display item quantities","Display item quantities"
-"Load customer quote error","Load customer quote error"
+"Display number of items in cart",カート内の商品数を表示
+"Display item quantities",商品の見積もりを表示
+"Load customer quote error",顧客の見積もり読み込みエラー
 "Invalid data","Invalid data"
 "The customer address is not valid.","The customer address is not valid."
 "Address does not exist.","Address does not exist."
@@ -61,114 +62,113 @@ Checkout,Checkout
 "Sorry, guest checkout is not enabled.","Sorry, guest checkout is not enabled."
 "Account confirmation is required. Please, check your e-mail for confirmation link. To resend confirmation email please <a href=""%1"">click here</a>.","Account confirmation is required. Please, check your e-mail for confirmation link. To resend confirmation email please <a href=""%1"">click here</a>."
 "<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>"
-"Discount Codes","Discount Codes"
+"Discount Codes",クーポンコード
 "Enter your code","Enter your code"
-"Apply Coupon","Apply Coupon"
-"Cancel Coupon","Cancel Coupon"
+"Apply Coupon",クーポンを適用
+"Cancel Coupon",クーポンをキャンセルする
 "Shopping Cart Items","Shopping Cart Items"
-Item,Item
-"Continue Shopping","Continue Shopping"
-"Update Shopping Cart","Update Shopping Cart"
-"Clear Shopping Cart","Clear Shopping Cart"
-"Update Cart","Update Cart"
-"See price before order confirmation.","See price before order confirmation."
-"What's this?","What's this?"
-"Move to Wishlist","Move to Wishlist"
-"Edit item parameters","Edit item parameters"
-"Remove item","Remove item"
-item,item
-items,items
-"Items in Cart","Items in Cart"
+Item,商品
+"Continue Shopping",お買い物を続ける
+"Clear Shopping Cart",ショッピングカートをクリア
+"Update Shopping Cart",ショッピングカートを更新
+"Update Cart",カートを更新
+"See price before order confirmation.",注文確定前に価格を表示する。
+"What's this?",これは何ですか？
+"Move to Wishlist",欲しい物リストへ移動
+"Edit item parameters",商品パラメータを編集
+"Remove item",商品を削除
+item,アイテム
+items,アイテム
+"Items in Cart",カートの中の商品
 "1 item ","1 item "
-"%1 items ","%1 items "
+"%1 items ","%1 アイテム "
 "Go to Checkout","Go to Checkout"
 "Go to Shopping Cart","Go to Shopping Cart"
-"Recently added item(s)","Recently added item(s)"
-"You have no items in your shopping cart.","You have no items in your shopping cart."
-"Are you sure you would like to remove this item from the shopping cart?","Are you sure you would like to remove this item from the shopping cart?"
+"Recently added item(s)",最近追加した商品
+"You have no items in your shopping cart.",カートの中には何もありません。
+"Are you sure you would like to remove this item from the shopping cart?",このアイテムをショッピングカートから削除してもよろしいですか？
 "Click <a href=""%1"">here</a> to continue shopping.","Click <a href=""%1"">here</a> to continue shopping."
-"Estimate Shipping and Tax","Estimate Shipping and Tax"
-"Enter your destination to get a shipping estimate.","Enter your destination to get a shipping estimate."
-"Please select region, state or province","Please select region, state or province"
-City,City
-"Zip/Postal Code","Zip/Postal Code"
-"Get a Quote","Get a Quote"
-"Update Total","Update Total"
-"View Details","View Details"
-"Options Details","Options Details"
-"Edit item","Edit item"
+"Estimate Shipping and Tax",送料と税金の計算
+"Enter your destination to get a shipping estimate.",配送料の見積もりを表示するには配送先を入力してください。
+"Please select region, state or province",都道府県を選択してください
+City,市区町村
+"Zip/Postal Code",郵便番号
+"Get a Quote",見積もる
+"Update Total",合計更新
+"View Details",詳細を表示
+"Options Details",オプションの概要
+"Edit item",商品の編集
 "Cart Subtotal","Cart Subtotal"
-"Excl. Tax","Excl. Tax"
-"Select a billing address from your address book or enter a new address.","Select a billing address from your address book or enter a new address."
-Company,Company
-"VAT Number","VAT Number"
-Address,Address
-"Street Address","Street Address"
+"Excl. Tax",税別
+"Select a billing address from your address book or enter a new address.",アドレスブックから請求先の住所を選択するか、新しい住所を入力してください。
+Company,会社名
+"VAT Number",VAT番号
+Address,住所
+"Street Address",番地
 "Street Address %1","Street Address %1"
-"Phone Number","Phone Number"
-Telephone,Telephone
-Fax,Fax
-Password,Password
-"Confirm Password","Confirm Password"
-"Save in address book","Save in address book"
-"Ship to this address","Ship to this address"
-"Ship to different address","Ship to different address"
-Continue,Continue
-"Order #","Order #"
-"Proceed to Checkout","Proceed to Checkout"
-"Checkout as a Guest or Register","Checkout as a Guest or Register"
-"Checkout as a Guest","Checkout as a Guest"
-"Register to Create an Account","Register to Create an Account"
-"Register and save time!","Register and save time!"
-"Register with us for future convenience:","Register with us for future convenience:"
-"Fast and easy check out","Fast and easy check out"
-"Easy access to your order history and status","Easy access to your order history and status"
-"Checkout as Guest","Checkout as Guest"
-Register,Register
-Login,Login
-"Already registered?","Already registered?"
-"Please log in below:","Please log in below:"
-"Forgot Your Password?","Forgot Your Password?"
-"No Payment Methods","No Payment Methods"
-"Your Checkout Progress","Your Checkout Progress"
-"Billing Address","Billing Address"
-"Shipping Address","Shipping Address"
-"Shipping method has not been selected yet","Shipping method has not been selected yet"
-"Payment Method","Payment Method"
-"Place Order","Place Order"
-"Forgot an Item?","Forgot an Item?"
-"Edit Your Cart","Edit Your Cart"
-"Incl. Tax","Incl. Tax"
-"Your credit card will be charged for","Your credit card will be charged for"
-"Select a shipping address from your address book or enter a new address.","Select a shipping address from your address book or enter a new address."
-"Use Billing Address","Use Billing Address"
-"Sorry, no quotes are available for this order at this time.","Sorry, no quotes are available for this order at this time."
+"Phone Number",電話番号
+Telephone,電話番号
+Fax,FAX番号
+Password,パスワード
+"Confirm Password",パスワード再確認
+"Save in address book",アドレス帳に保存
+"Ship to this address",この住所へ送る
+"Ship to different address",別の住所へ送る
+Continue,続ける
+"Order #",ご注文番号
+"Proceed to Checkout",レジに進む
+"Checkout as a Guest or Register",ゲストまたは会員として購入
+"Checkout as a Guest",ゲストとして購入
+"Register to Create an Account",アカウントを作成するために会員登録をお願いいたします。
+"Register and save time!",登録すると手続きが簡単に!
+"Register with us for future convenience:",登録のメリット
+"Fast and easy check out",早く，簡単に支払い手続きができます．
+"Easy access to your order history and status",簡単にご注文の履歴，状態が確認できます．
+"Checkout as Guest",ゲストとして購入
+Register,新規登録
+Login,ログイン
+"Already registered?",登録はお済みですか？
+"Please log in below:",こちらからログインしてください:
+"Forgot Your Password?",パスワードをお忘れですか？
+"No Payment Methods",支払方法なし
+"Your Checkout Progress",進行状況
+"Billing Address",請求先住所
+"Shipping Address",配送先
+"Shipping method has not been selected yet",配送方法が選択されていません
+"Payment Method",お支払方法
+"Place Order",注文を確定する
+"Forgot an Item?",上記の注文でよろしいですか？
+"Edit Your Cart",カートの中身を編集
+"Incl. Tax",税込
+"Your credit card will be charged for",クレジットカードでお支払いいただく金額
+"Select a shipping address from your address book or enter a new address.",配送先をアドレスブックから選択するか、新しい住所を入力してください。
+"Use Billing Address",請求先の住所を使う
+"Sorry, no quotes are available for this order at this time.",申し訳ありません、現在この注文でお見積もりはご利用できません。
 "Your order number is: %1.","Your order number is: %1."
 "Your order # is: <span>%1</span>.","Your order # is: <span>%1</span>."
-"You will receive an order confirmation email with details of your order and a link to track its progress.","You will receive an order confirmation email with details of your order and a link to track its progress."
-"Thank you for your purchase!","Thank you for your purchase!"
-"Please specify a shipping method.","Please specify a shipping method."
+"You will receive an order confirmation email with details of your order and a link to track its progress.",注文の確認メールをお送りしました。メールには注文状況を確認するURLがあります。
+"Thank you for your purchase!",ご購入ありがとうございました！
+"Please specify a shipping method.",配送方法を指定してください。
 "Please choose to register or to checkout as a guest.","Please choose to register or to checkout as a guest."
 "We are not able to ship to the selected shipping address. Please choose another address or edit the current address.","We are not able to ship to the selected shipping address. Please choose another address or edit the current address."
-"Please specify payment method.","Please specify payment method."
-"Please agree to all Terms and Conditions before placing the orders.","Please agree to all Terms and Conditions before placing the orders."
+"Please specify payment method.",支払方法を選択してください。
 "We can't complete your order because you don't have a payment method available.","We can't complete your order because you don't have a payment method available."
-"Checkout Options","Checkout Options"
-"Enable Onepage Checkout","Enable Onepage Checkout"
-"Allow Guest Checkout","Allow Guest Checkout"
-"Require Customer To Be Logged In To Checkout","Require Customer To Be Logged In To Checkout"
-"Quote Lifetime (days)","Quote Lifetime (days)"
-"After Adding a Product Redirect to Shopping Cart","After Adding a Product Redirect to Shopping Cart"
-"My Cart Link","My Cart Link"
-"Display Cart Summary","Display Cart Summary"
-"Shopping Cart Sidebar","Shopping Cart Sidebar"
-"Display Shopping Cart Sidebar","Display Shopping Cart Sidebar"
-"Maximum Display Recently Added Item(s)","Maximum Display Recently Added Item(s)"
-"Payment Failed Emails","Payment Failed Emails"
-"Payment Failed Email Sender","Payment Failed Email Sender"
+"Checkout Options",購入オプション
+"Enable Onepage Checkout",ワンページチェックアウトを有効にする
+"Allow Guest Checkout",ゲストチェックアウトを有効
+"Require Customer To Be Logged In To Checkout",チェックアウト時にログインを要求する
+"Quote Lifetime (days)",見積もりの有効期間(日)
+"After Adding a Product Redirect to Shopping Cart",商品を追加後にショッピングカート画面にリダイレクトする
+"My Cart Link",マイカートリンク
+"Display Cart Summary",カートの概要を表示
+"Shopping Cart Sidebar",サイドバーショッピングカート
+"Display Shopping Cart Sidebar",ショッピングカートサイドバーを表示する
+"Maximum Display Recently Added Item(s)",最近カートに入れた商品の表示件数
+"Payment Failed Emails",支払失敗時のメール
+"Payment Failed Email Sender",支払失敗時のメール送信元
 "Payment Failed Email Receiver","Payment Failed Email Receiver"
-"Payment Failed Template","Payment Failed Template"
-"Send Payment Failed Email Copy To","Send Payment Failed Email Copy To"
-"Separate by "","".","Separate by "",""."
-"Send Payment Failed Email Copy Method","Send Payment Failed Email Copy Method"
-"Your order has been received.","Your order has been received."
+"Payment Failed Template",支払失敗時のテンプレート
+"Send Payment Failed Email Copy To",支払失敗コピーメール送信先
+"Separate by "","".",""",""で区切られた"
+"Send Payment Failed Email Copy Method",支払失敗コピーメール送信方法
+"Your order has been received.",ご注文をお受けしました。

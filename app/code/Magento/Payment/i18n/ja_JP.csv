@@ -1,20 +1,20 @@
-Shipping,配送
+Shipping,配送料
 "What is this?",これは何ですか？
 Yes,Yes
 No,No
-N/A,N/A
+N/A,該当無し
 Month,月
 Year,年
-"--Please Select--","--Please Select--"
+"--Please Select--",--選択してください--
 "We cannot retrieve the payment method model object.","We cannot retrieve the payment method model object."
 "We cannot retrieve the payment info model object.","We cannot retrieve the payment info model object."
-"Credit Card Type","Credit Card Type"
-"Credit Card Number","Credit Card Number"
-"Switch/Solo/Maestro Issue Number","Switch/Solo/Maestro Issue Number"
-"Switch/Solo/Maestro Start Date","Switch/Solo/Maestro Start Date"
-Discount,Discount
-"All Allowed Countries","All Allowed Countries"
-"Specific Countries","Specific Countries"
+"Credit Card Type",クレジットカード会社
+"Credit Card Number",クレジットカード番号
+"Switch/Solo/Maestro Issue Number",Switch/Solo/Maestro発行番号
+"Switch/Solo/Maestro Start Date",Switch/Solo/Maestro開始日
+Discount,割引価格
+"All Allowed Countries",全ての許可された国
+"Specific Countries",選択された国のみ
 "The payment method you requested is not available.","The payment method you requested is not available."
 "The payment disallows storing objects.","The payment disallows storing objects."
 "We cannot retrieve the payment method code.","We cannot retrieve the payment method code."
@@ -24,18 +24,18 @@ Discount,Discount
 "The authorize action is not available.","The authorize action is not available."
 "The capture action is not available.","The capture action is not available."
 "The refund action is not available.","The refund action is not available."
-"Void action is not available.","Void action is not available."
-"The payment review action is unavailable.","The payment review action is unavailable."
-"Credit card number mismatch with credit card type.","Credit card number mismatch with credit card type."
-"Invalid Credit Card Number","Invalid Credit Card Number"
-"Credit card type is not allowed for this payment method.","Credit card type is not allowed for this payment method."
-"Please enter a valid credit card verification number.","Please enter a valid credit card verification number."
+"Void action is not available.",取り消しアクションは利用できません。
+"The payment review action is unavailable.",支払レビューは利用できません。
+"Credit card number mismatch with credit card type.",クレジットカード番号がカード会社と一致していません。
+"Invalid Credit Card Number",不正なクレジットカード番号
+"Credit card type is not allowed for this payment method.",クレジットカード会社が支払方法で許可されていません。
+"Please enter a valid credit card verification number.",正しいカード確認番号を入力してください
 "We found an incorrect credit card expiration date.","We found an incorrect credit card expiration date."
-"Expiration Date","Expiration Date"
-"Card Verification Number","Card Verification Number"
-"Switch/Solo/Maestro Only","Switch/Solo/Maestro Only"
-"Issue Number","Issue Number"
-"Start Date","Start Date"
-"%1 is not available. You still can process offline actions.","%1 is not available. You still can process offline actions."
-"Card Verification Number Visual Reference","Card Verification Number Visual Reference"
-"Payment Methods","Payment Methods"
+"Expiration Date",有効期限
+"Card Verification Number",カード確認番号
+"Switch/Solo/Maestro Only",Switch/Solo/Maestroのみ
+"Issue Number",取引番号
+"Start Date",開始日
+"%1 is not available. You still can process offline actions.","%1 は利用できません。 オフライン処理でのみ処理できます。"
+"Card Verification Number Visual Reference",カード確認番号の参考画像
+"Payment Methods",支払方法

@@ -1,55 +1,55 @@
 Close,閉じる
 Cancel,キャンセル
 Product,商品
-Price,Price
+Price,価格
 Delete,削除
-Name,Name
-From,From
-To,To
-Required,必須
+Name,名前
+From,開始
+To,終了
 "Percent Discount",割引率
-"-- Select --","-- 選択 --"
-Dynamic,ダイナミック
+"-- Select --",--選択してください--
+Dynamic,可変
 Fixed,固定
 "Create New Option",新しいオプションを作成
-"Bundle Items",セット品
+"Bundle Items",セット商品
 "Add Products to Option",商品をオプションに追加
-"Delete Option",オプションを削除
-"Please enter search conditions to view products.",表示する商品を検索する条件を入力してください。
+"Delete Option",オプションの削除
+"Please enter search conditions to view products.",商品を表示させるための検索条件を指定してください。
 ID,ID
-SKU,SKU
-"Use Default Value",デフォルト値を使用
+SKU,商品番号
+"Use Default Value",標準の値を使用
 "There is no defined renderer for ""%1"" option type.","オプションタイプ ""%1"" に定義されているレンダラーがありません。"
-"As Low as",以下
-"Price Range",価格レンジ
+"As Low as",同じかそれ以下
+"Price Range",価格範囲
 "Please specify product option(s).",商品オプションを指定してください。
 "Please select all required options.",全ての必須項目を選択してください。
 "The required options you selected are not available.",選択された必須オプションはご利用いただけません。
 "We cannot add this item to your shopping cart.",この商品をショッピングカートに追加できません。
-N/A,N/A
+N/A,該当無し
 Percent,パーセント
-None,None
+None,なし
 Qty:,個数:
 "Choose a selection...",選択してください...
-"Ship Bundle Items",セット品の出荷
-Separately,分割して出荷
-Together,まとめて出荷
-"Option Title",オプションタイトル
-"Store View Title",ストアビュータイトル
+"Ship Bundle Items",セット商品の配送方法
+Separately,別々
+Together,まとめて
+"Option Title",オプションのタイトル
+"Store View Title",店舗名
 "Input Type",入力形式
-Position,表示位置
+Required,必須
+Position,おすすめ
 "There are no products in this option.",このオプションには商品がありません。
 "New Option",新規オプション
-Default,デフォルト
-"Price Type",価格種別
+Default,標準
+"Price Type",価格タイプ
 "Default Quantity",デフォルト個数
 "User Defined",ユーザー定義
 Ordered,注文済
-Invoiced,領収済
-Shipped,出荷済
-Refunded,返金済
+Invoiced,請求済
+Shipped,荷送り人
+Refunded,返金
 Canceled,キャンセル済
-"As low as",以下
+"As low as",同じかそれ以下
 "Regular Price",通常価格
 "Buy %1 with %2 discount each","%1 点購入いただくと1点あたり %2 お値引き"
 "Go back to product details",商品詳細に戻る
@@ -61,20 +61,20 @@ Availability,在庫状況
 "Out of stock",在庫切れ
 Summary,サマリ
 "%1 x %2","%1 x %2"
-Availability:,Availability:
+Availability:,在庫状況:
 Qty,個数
 "Customize %1","%1 をカスタマイズ"
-"No options of this product are available.",この商品でご利用いただけるオプションはありません。
+"No options of this product are available.",利用可能なオプションがありません。
 "Gift Message",ギフトメッセージ
 From:,開始:
 To:,終了:
 Message:,メッセージ:
 "Product Name",商品名
 Subtotal,小計
-"Discount Amount",値引き額
+"Discount Amount",割引価格
 "Row Total",行合計
-"Qty Invoiced",領収済個数
-"Qty Shipped",出荷済個数
+"Qty Invoiced",請求済個数
+"Qty Shipped",配送数
 "Add Products to New Option","Add Products to New Option"
 "Add Products to Option ""%1""","Add Products to Option ""%1"""
 "Add Selected Products","Add Selected Products"

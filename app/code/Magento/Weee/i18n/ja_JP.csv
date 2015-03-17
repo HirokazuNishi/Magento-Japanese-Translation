@@ -1,28 +1,28 @@
 Total,合計
-Price,Price
+Price,価格
 Tax,税
-Website,ウェブサイト
 "All Websites",全てのウェブサイト
-Action,Action
-"Excl. Tax","Excl. Tax"
-"Incl. Tax","Incl. Tax"
-"Add Tax","Add Tax"
+Website,ウェブサイト
+Action,アクション
+"Excl. Tax",税別
+"Incl. Tax",税込
+"Add Tax",税を追加
 "Delete Tax","Delete Tax"
 FPT,FPT
 "We found a duplicate of website, country and state fields for a fixed product tax","We found a duplicate of website, country and state fields for a fixed product tax"
-"Including FPT only","Including FPT only"
-"Including FPT and FPT description","Including FPT and FPT description"
-"Excluding FPT, FPT description, final price","Excluding FPT, FPT description, final price"
-"Excluding FPT","Excluding FPT"
-"Fixed Product Tax","Fixed Product Tax"
-"Total incl. tax","Total incl. tax"
-Country/State,Country/State
+"Including FPT only",FPT込価格のみ
+"Including FPT and FPT description",FPT込とFPT概要
+"Excluding FPT, FPT description, final price","FPT抜価格, FPT概要, 合計金額"
+"Excluding FPT",商品定額税を除外する
+"Fixed Product Tax",商品固定税
+"Total incl. tax",税込合計
+Country/State,都道府県
 "Final Price","Final Price"
-"Fixed Product Taxes","Fixed Product Taxes"
-"Enable FPT",FPTを使う
-"Display Prices In Product Lists",商品リストでの価格
-"Display Prices On Product View Page",商品ページでの価格
-"Display Prices In Sales Modules",Salesモジュール上の価格
-"Display Prices In Emails",メール上の価格
+"Fixed Product Taxes",商品固定税
+"Enable FPT",FPTを有効にする
+"Display Prices In Product Lists",商品一覧にFPT額を表示する
+"Display Prices On Product View Page",商品画面でFPT額を表示する
+"Display Prices In Sales Modules",SalesモジュールでFPT額を表示する
+"Display Prices In Emails",メールにFPT額を記載する
 "Apply Tax To FPT",FPTに課税する
 "Include FPT In Subtotal",小計にFPTを含める

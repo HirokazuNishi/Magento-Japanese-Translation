@@ -1,59 +1,59 @@
 Close,閉じる
-"Design Theme",デザインテーマ
 "-- Please Select --","-- 選択してください --"
-"Sort Order",表示順
-"Save and Continue Edit",保存して編集を続ける
+"Sort Order",並び順
 Page,ページ
 label,ラベル
+"Save and Continue Edit",保存して編集を続ける
 "Frontend Properties",フロントエンドプロパティ
-Type,Type
-Categories,Categories
-Products,Products
-All,All
-Apply,Apply
-name,name
-Continue,Continue
+Type,タイプ
+Categories,カテゴリ
+Products,商品
+All,全て
+Apply,反映
+name,名前
+Continue,続ける
 CMS,CMS
+"Design Theme",デザインテーマ
+Settings,設定
 %1,%1
-Settings,Settings
-Template,Template
-"Open Chooser","Open Chooser"
-"Widget Insertion","Widget Insertion"
-"Insert Widget","Insert Widget"
-Choose...,Choose...
-"Not Selected","Not Selected"
-Widget,Widget
-"Widget Type","Widget Type"
-"Manage Widget Instances","Manage Widget Instances"
-"Add New Widget Instance","Add New Widget Instance"
+Template,テンプレート
+"Open Chooser",選択を開く
+"Widget Insertion",ウィジェット挿入
+"Insert Widget",ウィジェット挿入
+Choose...,選択してください...
+"Not Selected",選択されていません
+Widget,ウィジェット
+"Widget Type",ウィジェットタイプ
+"Manage Widget Instances",ウィジェットインスタンス管理
+"Add New Widget Instance",新しいウィジェットインスタンスを追加する
 "Widget ""%1""","Widget ""%1"""
-"New Widget Instance","New Widget Instance"
+"New Widget Instance",新しいウィジェットインスタンス
 "Custom Layouts","Custom Layouts"
 "Page Layouts","Page Layouts"
 "Please Select Container First","Please Select Container First"
-"Design Package/Theme","Design Package/Theme"
-"Widget Instance Title","Widget Instance Title"
-"Assign to Store Views","Assign to Store Views"
+"Design Package/Theme",デザインパッケージ/テーマ
+"Widget Instance Title",ウィジェットインスタンスタイトル
+"Assign to Store Views",ストアビューにアサインする
 "Sort Order of widget instances in the same container","Sort Order of widget instances in the same container"
-"Layout Updates","Layout Updates"
-"Anchor Categories","Anchor Categories"
-"Non-Anchor Categories","Non-Anchor Categories"
-"All Product Types","All Product Types"
-"Generic Pages","Generic Pages"
-"All Pages","All Pages"
-"Specified Page","Specified Page"
-"Add Layout Update","Add Layout Update"
-"Remove Layout Update","Remove Layout Update"
-"Widget Options","Widget Options"
-"Widget Instance","Widget Instance"
+"Layout Updates",レイアウト更新
+"Anchor Categories",カテゴリのアンカー
+"Non-Anchor Categories",アンカーではないカテゴリ
+"All Product Types",全ての商品種別
+"Generic Pages",一般ページ
+"All Pages",全てのページ
+"Specified Page",特定のページ
+"Add Layout Update",レイアウト更新追加
+"Remove Layout Update",レイアウト更新削除
+"Widget Options",ウィジェットオプション
+"Widget Instance",ウィジェットインスタンス
 "Please specify a Widget Type.","Please specify a Widget Type."
 "Please specify a correct widget.","Please specify a correct widget."
-"The widget instance has been deleted.","The widget instance has been deleted."
+"The widget instance has been deleted.",ウィジェットを削除しました。
 "New Frontend App Instance","New Frontend App Instance"
 "Frontend Apps","Frontend Apps"
-"The widget instance has been saved.","The widget instance has been saved."
-description,description
+"The widget instance has been saved.",ウィジェットを保存しました。
+description,概要
 "We cannot create the widget instance because it is missing required information.","We cannot create the widget instance because it is missing required information."
-Container,Container
+Container,梱包
 "Specific %1","Specific %1"
 "Widget ID",ウィジェットID

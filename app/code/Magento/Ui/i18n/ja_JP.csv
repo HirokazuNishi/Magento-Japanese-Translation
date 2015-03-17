@@ -1,35 +1,35 @@
 "Add New",新規作成
 "New ","新規 "
 "Please select an option.",オプションを選択してください。
-"This is a required field.",これは必須項目だ。
-"Please enter a valid number in this field.",正しい数字をこの項目に入力してください。
+"This is a required field.",必須項目です
+"Please enter a valid number in this field.",正しい数字で入力してください。
 "Please enter a valid date.",正しい日付を入力してください。
 "Please enter a valid zip code.",正しい郵便番号を入力してください。
-"Please select State/Province.",都道府県を選択してください。
-"Please enter a number greater than 0 in this field.",0より大きい数字をこの項目に入力してください。
+"Please select State/Province.",地域を選択してください
+"Please enter a number greater than 0 in this field.",0以上の数を入力してください。
 "Please enter a valid credit card number.",正しいクレジットカード番号を入力してください。
-"Please enter a number 0 or greater in this field.","Please enter a number 0 or greater in this field."
-"The value is not within the specified range.","The value is not within the specified range."
-"Please use letters only (a-z or A-Z) in this field.","Please use letters only (a-z or A-Z) in this field."
-"Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter."
-"Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed.","Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed."
-"Please use only letters (a-z or A-Z) or numbers (0-9) or spaces and # only in this field.","Please use only letters (a-z or A-Z) or numbers (0-9) or spaces and # only in this field."
-"Please enter a valid fax number. For example (123) 456-7890 or 123-456-7890.","Please enter a valid fax number. For example (123) 456-7890 or 123-456-7890."
-"Please enter a valid email address. For example johndoe@domain.com.","Please enter a valid email address. For example johndoe@domain.com."
-"Please enter 6 or more characters. Leading or trailing spaces will be ignored.","Please enter 6 or more characters. Leading or trailing spaces will be ignored."
-"Please enter 7 or more characters. Password should contain both numeric and alphabetic characters.","Please enter 7 or more characters. Password should contain both numeric and alphabetic characters."
-"Please enter a valid URL Key. For example ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"".","Please enter a valid URL Key. For example ""example-page"", ""example-page.html"" or ""anotherlevel/example-page""."
-"Please enter a valid XML-identifier. For example something_1, block5, id-4.","Please enter a valid XML-identifier. For example something_1, block5, id-4."
-"Please enter a valid social security number. For example 123-45-6789.","Please enter a valid social security number. For example 123-45-6789."
-"Please enter a valid zip code. For example 90602 or 90602-1234.","Please enter a valid zip code. For example 90602 or 90602-1234."
-"Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.","Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006."
-"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter."
-"Please input a valid CSS-length. For example 100px or 77pt or 20em or .5ex or 50%.","Please input a valid CSS-length. For example 100px or 77pt or 20em or .5ex or 50%."
+"Please enter a number 0 or greater in this field.",0以上の数字を入力してください。
+"The value is not within the specified range.",値が指定された範囲にありません。
+"Please use letters only (a-z or A-Z) in this field.","この入力エリアには (a-z or A-Z) 文字のみが使用できます。"
+"Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.",コードは半角英数字で先頭は半角英字でなくてはなりません。
+"Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed.","このフィールドには半角英字 (a-z or A-Z) か数字 (0-9) を使用してください。スペースや他の文字は許可されていません。"
+"Please use only letters (a-z or A-Z) or numbers (0-9) or spaces and # only in this field.","このフィールドには半角英字 (a-z or A-Z) か数字 (0-9) もしくはスペースか # を使用してください。"
+"Please enter a valid fax number. For example (123) 456-7890 or 123-456-7890.","正しいFAX番号を入力してください。例：(03) 3456-7890 or 03-3456-7890."
+"Please enter a valid email address. For example johndoe@domain.com.",正しいメールアドレスを入力してください。（例：johndoe@domain.com）
+"Please enter 6 or more characters. Leading or trailing spaces will be ignored.",6文字以上を入力してください。先頭と最後の空白は無視されます。
+"Please enter 7 or more characters. Password should contain both numeric and alphabetic characters.",7文字以上を入力してください。パスワードは半角英数字を含んでいなければなりません。
+"Please enter a valid URL Key. For example ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"".","正しいURLキーを入力してください。例： ""example-page""、 ""example-page.html"" , ""anotherlevel/example-page""。"
+"Please enter a valid XML-identifier. For example something_1, block5, id-4.","正しいXML識別子を入力してください。 例：something_1, block5, id-4"
+"Please enter a valid social security number. For example 123-45-6789.",正しいソーシャルセキュリティナンバーを入力してください。（例：123-45-6789）
+"Please enter a valid zip code. For example 90602 or 90602-1234.",正しい郵便番号を入力してください。（例：123-4567）
+"Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.","日付の形式は右の通りです: dd/mm/yyyy. （例： 17/03/2006 は 2006年3月17日）。"
+"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","このフィールドには半角英字 (a-z or A-Z) か数字 (0-9) もしくはアンダースコア(_)を使用してください。1文字目は英文字を使用してください。"
+"Please input a valid CSS-length. For example 100px or 77pt or 20em or .5ex or 50%.","正しいCSSの長さを指定してください。 例：100px, 77pt, 20em, .5ex, 50%"
 "Please enter issue number or start date for switch/solo card type.","Please enter issue number or start date for switch/solo card type."
 "Remove ","Remove "
 "Are you sure you want to delete this item?","Are you sure you want to delete this item?"
 "Add New ","Add New "
-"""%1"" tab should implement TabInterface","""%1"" tab should implement TabInterface"
+"""%1"" tab should implement TabInterface","""%1"" は TabInterface を実装しなければなりません。"
 "Please, select...","Please, select..."
 "Please enter more or equal than {0} symbols.","Please enter more or equal than {0} symbols."
 "Please enter less or equal than {0} symbols.","Please enter less or equal than {0} symbols."
@@ -56,11 +56,11 @@
 "HTML tags are not allowed.","HTML tags are not allowed."
 "Empty Value.","Empty Value."
 "Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.","Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field."
-"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890."
+"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","正しい電話番号の形式で入力してください。（例：(123) 456-7890 or 123-456-7890）"
 "Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","Please enter a valid URL. Protocol is required (http://, https:// or ftp://)."
 "Please enter a valid URL. For example http://www.example.com or www.example.com.","Please enter a valid URL. For example http://www.example.com or www.example.com."
-"Please enter a valid $ amount. For example $100.00.","Please enter a valid $ amount. For example $100.00."
-"Please enter positive number in this field.","Please enter positive number in this field."
-"Please enter a valid value, ex: 10,20,30","Please enter a valid value, ex: 10,20,30"
+"Please enter a valid $ amount. For example $100.00.","正しい金額表示で入力してください。(例) $100.00."
+"Please enter positive number in this field.",このフィールドには使用可能な数字を入力してください。
+"Please enter a valid value, ex: 10,20,30","正しい値を入力してください。 例: 10,20,30"
 "Are you sure you want to delete these records?","Are you sure you want to delete these records?"
 "You haven't selected any items!","You haven't selected any items!"

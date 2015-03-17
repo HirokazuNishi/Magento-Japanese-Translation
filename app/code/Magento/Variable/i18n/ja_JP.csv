@@ -1,0 +1,21 @@
+Yes,Yes
+No,No
+Name,名前
+"Save and Continue Edit",保存して編集を続ける
+"Insert Variable...",変数の挿入...
+%1,%1
+Variable,変数
+"Custom Variables",カスタム変数
+"Add New Variable",新しい変数を追加
+"Custom Variable ""%1""","Custom Variable ""%1"""
+"New Custom Variable",新しいカスタム変数
+"Variable Code",変数コード
+"Variable Name",変数名
+"Use Default Variable Values",標準の値を使用
+"Variable HTML Value",任意HTMLの値
+"Variable Plain Value",変数のもとの値
+"You deleted the custom variable.","You deleted the custom variable."
+"You saved the custom variable.","You saved the custom variable."
+"Variable Code must be unique.",変数のコードはユニークである必要があります。
+"Validation has failed.",認証失敗
+"Variable ID",変数ID

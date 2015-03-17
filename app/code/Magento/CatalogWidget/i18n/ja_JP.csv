@@ -1,18 +1,18 @@
-SKU,SKU
+SKU,商品番号
 "In stock",在庫あり
 "Out of stock",在庫切れ
-Title,Title
-"Add to Cart","Add to Cart"
-"Add to Wishlist","Add to Wishlist"
-"Add to Compare","Add to Compare"
-Conditions,Conditions
-"Conditions Combination","Conditions Combination"
-"Product Attribute","Product Attribute"
-Template,Template
-"Display Page Control","Display Page Control"
-"Number of Products per Page","Number of Products per Page"
-"Number of Products to Display","Number of Products to Display"
-"Cache Lifetime (Seconds)","Cache Lifetime (Seconds)"
+Title,タイトル
+"Add to Cart",カートに入れる
+"Add to Wishlist",欲しい物リストに追加
+"Add to Compare",比較リストに追加
+Conditions,条件
+"Conditions Combination",条件の組み合わせ
+"Product Attribute",商品属性
+Template,テンプレート
+"Display Page Control",ページコントロールを表示
+"Number of Products per Page",1ページあたりの商品表示件数
+"Number of Products to Display",商品表示点数
+"Cache Lifetime (Seconds)","キャッシュ有効期間 (秒)"
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache."
 "Catalog Products List","Catalog Products List"
 "List of Products","List of Products"

@@ -1,135 +1,135 @@
-"Are you sure?",よろしいですか?
+"Are you sure?",よろしいですか？
 Cancel,キャンセル
 Customer,顧客
-Guest,ゲスト
+Guest,ゲスト様
 Product,商品
-Price,Price
+Price,価格
 Quantity,数量
 Back,戻る
 Delete,削除
-Name,Name
-Status,ステータス
-"Sort Order",表示順
-"Are you sure you want to do this?",実行してもよろしいですか?
+Name,名前
+Status,状態
+"Sort Order",並び順
+"Are you sure you want to do this?",実行してもよろしいですか？
 Previous,前へ
-Next,次へ
+Next,次
 Actions,アクション
 ID,ID
-SKU,SKU
+SKU,商品番号
 "* Required Fields","* 必須項目"
 Summary,サマリ
 "Product Name",商品名
-"Default Value",デフォルト値
-Websites,Websites
-Type,Type
-Visibility,Visibility
-Edit,Edit
+"Default Value",標準の値
+Websites,ウェブサイト
+Type,タイプ
+Visibility,表示
+Edit,編集
 "A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted."
 "A total of %1 record(s) have been updated.","A total of %1 record(s) have been updated."
-Title,Title
-Action,Action
-Active,Active
-Inactive,Inactive
-"View Details","View Details"
+Title,タイトル
+Action,アクション
+Active,アクティブ
+Inactive,非アクティブ
+"View Details",詳細を表示
 Created,Created
-Pending,Pending
-Review,Review
-Reviews,Reviews
-"Product Reviews","Product Reviews"
-"Save Review","Save Review"
-"Add New Review","Add New Review"
-"Review Details","Review Details"
-"Product Rating","Product Rating"
-"Visible In","Visible In"
-Nickname,Nickname
-"Summary of Review","Summary of Review"
+Pending,処理待ち
+Review,レビュー
+Reviews,レビュー
+"Product Reviews",商品レビュー
+"Save Review",レビューの保存
+"Add New Review",新規レビューの追加
+"Review Details",レビュー詳細
+"Product Rating",商品評価
+"Visible In",表示先
+Nickname,ニックネーム
+"Summary of Review",レビューのタイトル
 "Save and Previous","Save and Previous"
 "Save and Next","Save and Next"
-"Delete Review","Delete Review"
+"Delete Review",レビュー削除
 "Edit Review '%1'","Edit Review '%1'"
-"New Review","New Review"
+"New Review",新しいレビュー
 "<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>","<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>"
-Administrator,Administrator
-"Posted By","Posted By"
-"Summary Rating","Summary Rating"
-"Detailed Rating","Detailed Rating"
-"Update Status","Update Status"
+Administrator,管理者
+"Posted By",投稿者
+"Summary Rating",評価のタイトル
+"Detailed Rating",評価の詳細
+"Update Status",ステータスを更新
 "Pending Reviews of Customer `%1`","Pending Reviews of Customer `%1`"
-"Pending Reviews","Pending Reviews"
+"Pending Reviews",承認待ちのレビュー
 "All Reviews of Customer `%1`","All Reviews of Customer `%1`"
 "All Reviews of Product `%1`","All Reviews of Product `%1`"
-"All Reviews","All Reviews"
+"All Reviews",全てのレビュー
 "Product Store Name","Product Store Name"
-"Manage Ratings","Manage Ratings"
-"Add New Rating","Add New Rating"
-"Save Rating","Save Rating"
-"Delete Rating","Delete Rating"
+"Manage Ratings",評価管理
+"Add New Rating",新規評価の追加
+"Save Rating",評価の保存
+"Delete Rating",評価の削除
 "Edit Rating #%1","Edit Rating #%1"
-"New Rating","New Rating"
-"Rating Title","Rating Title"
-"Rating Visibility","Rating Visibility"
-"Is Active","Is Active"
-"Rating Information","Rating Information"
-"Pending product review(s)","Pending product review(s)"
+"New Rating",新しい評価
+"Rating Title",評価タイトル
+"Rating Visibility",評価の表示
+"Is Active",有効
+"Rating Information",評価情報
+"Pending product review(s)",保留中の商品レビュー
 "Product: <a href=""%1"" target=""_blank"">%2</a> <br/>","Product: <a href=""%1"" target=""_blank"">%2</a> <br/>"
 "Summary of review: %1 <br/>","Summary of review: %1 <br/>"
 "Review: %1 <br/>","Review: %1 <br/>"
 "Store: %1 <br/>","Store: %1 <br/>"
 "Click <a href=""%1"">here</a> to view the review.","Click <a href=""%1"">here</a> to view the review."
 "Product: ""%1"" reviewed by: %2","Product: ""%1"" reviewed by: %2"
-"Pending Reviews RSS","Pending Reviews RSS"
+"Pending Reviews RSS",承認待ちレビューRSS
 "Reviews %1","Reviews %1"
 "The review has been deleted.","The review has been deleted."
 "Something went wrong  deleting this review.","Something went wrong  deleting this review."
-"Customer Reviews","Customer Reviews"
-"Edit Review","Edit Review"
+"Customer Reviews",顧客レビュー
+"Edit Review",レビュー編集
 "We can't get the product ID.","We can't get the product ID."
-"Please select review(s).","Please select review(s)."
-"An error occurred while deleting record(s).","An error occurred while deleting record(s)."
-"An error occurred while updating the selected review(s).","An error occurred while updating the selected review(s)."
+"Please select review(s).",レビューを選択してください。
+"An error occurred while deleting record(s).",レコードの削除中にエラーが発生しました。
+"An error occurred while updating the selected review(s).",選択したレビューの更新中にエラーが発生しました。
 "You saved the review.","You saved the review."
-"An error occurred while saving review.","An error occurred while saving review."
-"The review was removed by another user or does not exist.","The review was removed by another user or does not exist."
+"An error occurred while saving review.",レビューの保存中にエラーが発生しました。
+"The review was removed by another user or does not exist.",レビューがほかのユーザーによって削除されたか、または存在していません。
 "Something went wrong while saving this review.","Something went wrong while saving this review."
 "You deleted the rating.","You deleted the rating."
 Ratings,Ratings
 "You saved the rating.","You saved the rating."
-"My Product Reviews","My Product Reviews"
-"Your review has been accepted for moderation.","Your review has been accepted for moderation."
+"My Product Reviews",商品レビュー
+"Your review has been accepted for moderation.",あなたのレビューは受付済みで、承認待ちです。
 "We cannot post the review.","We cannot post the review."
 "Storage key was not set","Storage key was not set"
-Approved,Approved
-"Not Approved","Not Approved"
+Approved,承認
+"Not Approved",未承認
 "The review summary field can't be empty.","The review summary field can't be empty."
 "The nickname field can't be empty.","The nickname field can't be empty."
 "The review field can't be empty.","The review field can't be empty."
-"Rating isn't Available","Rating isn't Available"
+"Rating isn't Available",評価することはできません
 "Please specify a rating title for a store, or we'll just use the default value.","Please specify a rating title for a store, or we'll just use the default value."
-"Assigned Options","Assigned Options"
-"Option Title:","Option Title:"
+"Assigned Options",割り当て済みのオプション
+"Option Title:",オプションのタイトル:
 Rating,Rating
-"You have submitted no reviews.","You have submitted no reviews."
-"My Recent Reviews","My Recent Reviews"
-"View All","View All"
-"Average Customer Rating:","Average Customer Rating:"
+"You have submitted no reviews.",まだレビューを書いていません。
+"My Recent Reviews",最近のレビュー
+"View All",全て表示
+"Average Customer Rating:",平均評価:
 "Your Review","Your Review"
 "Submitted on %1","Submitted on %1"
-"Back to My Reviews","Back to My Reviews"
+"Back to My Reviews",レビューに戻る
 "Ratings Review Summary","Ratings Review Summary"
-"Be the first to review this product","Be the first to review this product"
-"Write Your Own Review","Write Your Own Review"
-"You're reviewing:","You're reviewing:"
+"Be the first to review this product",この商品の最初のレビューを書く
+"Write Your Own Review",あなたのレビューを投稿する
+"You're reviewing:",レビュー中の商品:
 "Your Rating","Your Rating"
 "%1 %2","%1 %2"
-"Submit Review","Submit Review"
+"Submit Review",レビューを送信
 "Only registered users can write reviews. Please, <a href=""%1"">log in</a> or <a href=""%2"">register</a>","Only registered users can write reviews. Please, <a href=""%1"">log in</a> or <a href=""%2"">register</a>"
-"Add Your Review","Add Your Review"
-"%1 Review(s)","%1 Review(s)"
+"Add Your Review",レビューを追加
+"%1 Review(s)","%1 レビュー"
 "Review by","Review by"
 "Posted on","Posted on"
-"Back to Main Product Info","Back to Main Product Info"
-"Average Customer Rating","Average Customer Rating"
-"Product Rating:","Product Rating:"
+"Back to Main Product Info",商品メイン情報に戻る
+"Average Customer Rating",平均評価
+"Product Rating:",商品評価:
 "Product Review (submitted on %1):","Product Review (submitted on %1):"
-"Back to Product Reviews","Back to Product Reviews"
-"Allow Guests to Write Reviews","Allow Guests to Write Reviews"
+"Back to Product Reviews",商品レビューに戻る
+"Allow Guests to Write Reviews",ゲストのレビュー投稿を許可する

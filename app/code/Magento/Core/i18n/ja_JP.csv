@@ -1,44 +1,29 @@
 Configuration,設定
-"-- Please Select --","-- 選択してください --"
-"Custom Variables",カスタム変数
 "Requested resource not found","Requested resource not found"
 "File %1 does not exist","File %1 does not exist"
 "File %1 is not readable","File %1 is not readable"
-"Invalid regular expression: ""%1"".","Invalid regular expression: ""%1""."
-"database ""%1""","database ""%1"""
+"database ""%1""","データベース ""%1"""
 "Parent directory does not exist: %1","Parent directory does not exist: %1"
-"File system","File system"
+"File system",ファイルシステム
 "Unable to save file ""%1"" at ""%2""","Unable to save file ""%1"" at ""%2"""
-"Wrong file info format","Wrong file info format"
-"Path ""%value%"" is protected and cannot be used.","Path ""%value%"" is protected and cannot be used."
-"Path ""%value%"" is not available and cannot be used.","Path ""%value%"" is not available and cannot be used."
+"Wrong file info format",不正なファイル情報フォーマット
+"Path ""%value%"" is protected and cannot be used.","パス ""%value%"" は保護されていて使用できません。"
+"Path ""%value%"" is not available and cannot be used.","パス ""%value%"" は利用できません。"
 "Path ""%value%"" may not include parent directory traversal (""../"", ""..\").","Path ""%value%"" may not include parent directory traversal (""../"", ""..\")."
-"Please set available and/or protected paths list(s) before validation.","Please set available and/or protected paths list(s) before validation."
-"File with an extension ""%value%"" is protected and cannot be uploaded","File with an extension ""%value%"" is protected and cannot be uploaded"
-"Helper arguments should not be used in custom layout updates.","Helper arguments should not be used in custom layout updates."
-"Updater model should not be used in custom layout updates.","Updater model should not be used in custom layout updates."
-"Please correct the XML data and try again. %value%","Please correct the XML data and try again. %value%"
-"Start date cannot be greater than end date.","Start date cannot be greater than end date."
-"Your design change for the specified store intersects with another one, please specify another date range.","Your design change for the specified store intersects with another one, please specify another date range."
+"Please set available and/or protected paths list(s) before validation.",チェックの前に利用可能か保護されているパスをセットしてください。
+"File with an extension ""%value%"" is protected and cannot be uploaded","拡張子 ""%value%"" のファイルは保護されているためアップロードできません"
 "Unable to create directory: %1","Unable to create directory: %1"
 "Unable to save file: %1","Unable to save file: %1"
-Copy,Copy
-"Theme isn't deletable.","Theme isn't deletable."
-"Circular-reference in theme inheritance detected for ""%1""","Circular-reference in theme inheritance detected for ""%1"""
-"Variable Code must be unique.","Variable Code must be unique."
-"Validation has failed.","Validation has failed."
-%1,%1
-"Insert Variable...","Insert Variable..."
 "Various XML configurations that were collected across modules and merged.","Various XML configurations that were collected across modules and merged."
-Layouts,Layouts
-"Layout building instructions.","Layout building instructions."
-"Blocks HTML output","Blocks HTML output"
-"Page blocks HTML.","Page blocks HTML."
+Layouts,レイアウト
+"Layout building instructions.",レイアウト構成データ
+"Blocks HTML output",ブロックHTML出力
+"Page blocks HTML.",ブロックHTMLキャッシュ
 "View files fallback","View files fallback"
 "Paths to view files (e.g., PHTML templates, images, CSS, JS files).","Paths to view files (e.g., PHTML templates, images, CSS, JS files)."
 "View files pre-processing","View files pre-processing"
 "Paths to pre-processed view files (e.g, CSS files with fixed paths or generated from LESS files).","Paths to pre-processed view files (e.g, CSS files with fixed paths or generated from LESS files)."
-"Collections Data","Collections Data"
-"Collection data files.","Collection data files."
+"Collections Data",コレクションデータ
+"Collection data files.",コレクションデータファイル
 "Database DDL operations","Database DDL operations"
 "Results of DDL queries, such as describing tables or indexes.","Results of DDL queries, such as describing tables or indexes."

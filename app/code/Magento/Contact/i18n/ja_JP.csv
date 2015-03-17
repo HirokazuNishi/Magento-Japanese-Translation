@@ -1,17 +1,17 @@
-Email,メールアドレス
-Name,Name
+Email,Eメール
+Name,名前
 Submit,送信
 "* Required Fields","* 必須項目"
-"Phone Number","Phone Number"
+"Phone Number",電話番号
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Thanks for contacting us with your comments and questions. We'll respond to you very soon."
 "We can't process your request right now. Sorry, that's all we know.","We can't process your request right now. Sorry, that's all we know."
 "Write Us","Write Us"
 "Jot us a note and we’ll get back to you as quickly as possible.","Jot us a note and we’ll get back to you as quickly as possible."
 "What’s on your mind?","What’s on your mind?"
-Contacts,Contacts
-"Contact Us","Contact Us"
-"Enable Contact Us","Enable Contact Us"
-"Email Options","Email Options"
-"Send Emails To","Send Emails To"
-"Email Sender","Email Sender"
-"Email Template","Email Template"
+Contacts,コンタクト
+"Contact Us",お問い合わせ
+"Enable Contact Us",お問い合わせを有効にする
+"Email Options",Emailオプション
+"Send Emails To",Emailを次のアドレスに送信
+"Email Sender",メール送信者
+"Email Template",メールテンプレート

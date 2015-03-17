@@ -1,32 +1,32 @@
-Status,ステータス
+Status,状態
 Disabled,無効
 Enabled,有効
 "Store View",ストアビュー
 ID,ID
 Text,テキスト
-"Terms and Conditions","Terms and Conditions"
-"Add New Condition","Add New Condition"
-"Save Condition","Save Condition"
-"Delete Condition","Delete Condition"
-"Edit Terms and Conditions","Edit Terms and Conditions"
-"New Terms and Conditions","New Terms and Conditions"
-"Terms and Conditions Information","Terms and Conditions Information"
-"Condition Name","Condition Name"
-"Show Content as","Show Content as"
+"Terms and Conditions",契約条件
+"Add New Condition",新しい条件を追加
+"Save Condition",条件を保存
+"Delete Condition",条件の削除
+"Edit Terms and Conditions",契約条件の編集
+"New Terms and Conditions",新規条件
+"Terms and Conditions Information",契約条件情報
+"Condition Name",条件
+"Show Content as",内容の提示
 HTML,HTML
-"Checkbox Text","Checkbox Text"
-Content,Content
-"Content Height (css)","Content Height (css)"
-"Content Height","Content Height"
-Condition,Condition
-Sales,Sales
-"Checkout Conditions","Checkout Conditions"
-"Checkout Terms and Conditions","Checkout Terms and Conditions"
-"This condition no longer exists.","This condition no longer exists."
+"Checkbox Text",チェックボックスのラベル
+Content,コンテンツ
+"Content Height (css)","高さ (css)"
+"Content Height",高さ
+Condition,条件
+Sales,セールス
+"Checkout Conditions",購入条件
+"Checkout Terms and Conditions",購入条件
+"This condition no longer exists.",この条件は存在しません。
 "The condition has been deleted.","The condition has been deleted."
 "Something went wrong  while deleting this condition.","Something went wrong  while deleting this condition."
-"Edit Condition","Edit Condition"
-"New Condition","New Condition"
-"The condition has been saved.","The condition has been saved."
+"Edit Condition",条件を編集
+"New Condition",新しい条件
+"The condition has been saved.",条件を保存しました。
 "Something went wrong while saving this condition.","Something went wrong while saving this condition."
-"Enable Terms and Conditions","Enable Terms and Conditions"
+"Enable Terms and Conditions",契約条件を有効にする

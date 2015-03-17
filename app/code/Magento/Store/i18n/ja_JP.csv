@@ -1,12 +1,12 @@
 "All Store Views",全てのストアビュー
 "-- Please Select --","-- 選択してください --"
-Admin,Admin
-"Store with the same code","Store with the same code"
-"Website with the same code","Website with the same code"
-"Website code may only contain letters (a-z), numbers (0-9) or underscore(_), the first character must be a letter","Website code may only contain letters (a-z), numbers (0-9) or underscore(_), the first character must be a letter"
+Admin,管理者
+"Store with the same code",同じコードの店舗です
+"Website with the same code",同じコードのウェブサイトです
+"Website code may only contain letters (a-z), numbers (0-9) or underscore(_), the first character must be a letter",ウェブサイトコードは半角英数字またはアンダースコア(_)で作成してください。最初の文字は英文字である必要があります。
 "Name is required","Name is required"
 "The store code may contain only letters (a-z), numbers (0-9) or underscore(_),' ' the first character must be a letter","The store code may contain only letters (a-z), numbers (0-9) or underscore(_),' ' the first character must be a letter"
-"Your Language:","Your Language:"
-"Your Language","Your Language"
+"Your Language:",あなたの言語:
+"Your Language",あなたの言語
 Language,Language
-"Select Store","Select Store"
+"Select Store",ストア選択

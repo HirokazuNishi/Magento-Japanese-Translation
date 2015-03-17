@@ -2,33 +2,33 @@ Orders,注文
 Bestsellers,ベストセラー
 Customers,顧客
 Customer,顧客
-Guest,ゲスト
-Items,アイテム
-Average,平均
+Guest,ゲスト様
+Items,商品
 Total,合計
+Average,平均
 Product,商品
-Price,Price
-"Order Quantity",注文点数
-Views,Views
-Revenue,収益
-Tax,税
-Shipping,配送
+Price,価格
 Quantity,数量
+Views,表示
+Revenue,収入
+Tax,税
+Shipping,配送料
 "First Name",名
 "Last Name",姓
-Email,メールアドレス
+Email,Eメール
 Refresh,更新
 Yes,Yes
 No,No
-Name,Name
-From,From
-To,To
+Name,名前
+From,開始
+To,終了
 Dashboard,ダッシュボード
+"We can't refresh lifetime statistics.",統計を更新できませんでした。
 "All Websites",全てのウェブサイト
 ID,ID
-SKU,SKU
-Invoiced,領収済
-Refunded,返金済
+SKU,商品番号
+Invoiced,請求済
+Refunded,返金
 Canceled,キャンセル済
 "In stock",在庫あり
 "Out of stock",在庫切れ
@@ -36,164 +36,164 @@ Subtotal,小計
 Day,日
 Month,月
 Year,年
-Products,Products
-Title,Title
-Action,Action
-"Add to Cart","Add to Cart"
-"Add to Wishlist","Add to Wishlist"
-"Add to Compare","Add to Compare"
-"Learn More","Learn More"
-Description,Description
-"Shopping Cart","Shopping Cart"
-"Items in Cart","Items in Cart"
-Sales,Sales
+Products,商品
+Title,タイトル
+Action,アクション
+"Add to Cart",カートに入れる
+"Add to Wishlist",欲しい物リストに追加
+"Add to Compare",比較リストに追加
+"Learn More",もっと詳しく
+Description,概要
+"Shopping Cart",ショッピングカート
+"Items in Cart",カートの中の商品
+Sales,セールス
 Created,Created
-Unlimited,Unlimited
-Filter,Filter
+Unlimited,無制限
+Filter,フィルタ
 Added,Added
 Updated,Updated
-Discount,Discount
-"New Accounts","New Accounts"
-"Customers by number of orders","Customers by number of orders"
-"Customers by Orders Total","Customers by Orders Total"
-"Match Period To","Match Period To"
-Period,Period
-"Empty Rows","Empty Rows"
+Discount,割引価格
+"New Accounts",新しいアカウント
+"Customers by number of orders",顧客ごとの注文件数
+"Customers by Orders Total",顧客ごとの購入合計
+"Match Period To",期間の指定
+Period,期間
+"Empty Rows",空白行
 "Invalid date specified","Invalid date specified"
 "We couldn't find records for this period.","We couldn't find records for this period."
-"Show Reviews","Show Reviews"
-"Products Report","Products Report"
-Downloads,Downloads
-Link,Link
-Purchases,Purchases
-CSV,CSV
-"Excel XML","Excel XML"
+"Show Reviews",レビューを表示
+"Products Report",商品レポート
+Downloads,ダウンロード
+Link,リンク
+Purchases,購入品
+CSV,CSVファイル
+"Excel XML",Excel形式XML
 Viewed,Viewed
 Purchased,Purchased
 Fulfilled,Fulfilled
-"Low stock","Low stock"
-"Products Ordered","Products Ordered"
-"Most Viewed","Most Viewed"
-"Show Report","Show Report"
+"Low stock",在庫薄
+"Products Ordered",最近注文された商品
+"Most Viewed",最も閲覧された
+"Show Report",レポート表示
 Interval,Interval
-"Refresh Statistics","Refresh Statistics"
-"Customers Reviews","Customers Reviews"
+"Refresh Statistics",統計を更新
+"Customers Reviews",顧客のレビュー
 "Reviews for %1","Reviews for %1"
-Detail,Detail
-"Products Reviews","Products Reviews"
-"Products Bestsellers Report","Products Bestsellers Report"
-"Coupons Usage Report","Coupons Usage Report"
-"Coupon Code","Coupon Code"
+Detail,詳細
+"Products Reviews",商品レビュー
+"Products Bestsellers Report",商品ベストセラーレポート
+"Order Quantity",注文数量
+"Coupons Usage Report",クーポン使用レポート
+"Coupon Code",クーポンコード
 "Price Rule","Price Rule"
 Uses,Uses
 "Sales Subtotal","Sales Subtotal"
-"Sales Discount","Sales Discount"
-"Sales Total","Sales Total"
-"Total Invoiced vs. Paid Report","Total Invoiced vs. Paid Report"
+"Sales Discount",値引
+"Sales Total",合計
+"Total Invoiced vs. Paid Report",請求額と支払額のレポート
 "Invoiced Orders","Invoiced Orders"
-"Total Invoiced","Total Invoiced"
+"Total Invoiced",請求額合計
 "Paid Invoices","Paid Invoices"
 "Unpaid Invoices","Unpaid Invoices"
-"Total Refunded Report","Total Refunded Report"
+"Total Refunded Report",返金レポート
 "Refunded Orders","Refunded Orders"
-"Total Refunded","Total Refunded"
+"Total Refunded",返金合計
 "Online Refunds","Online Refunds"
 "Offline Refunds","Offline Refunds"
-"Total Ordered Report","Total Ordered Report"
-"Sales Items","Sales Items"
-Profit,Profit
-Paid,Paid
-"Sales Tax","Sales Tax"
-"Sales Shipping","Sales Shipping"
-"Total Shipped Report","Total Shipped Report"
-Carrier/Method,Carrier/Method
-"Total Sales Shipping","Total Sales Shipping"
-"Total Shipping","Total Shipping"
-"Order Taxes Report Grouped by Tax Rate","Order Taxes Report Grouped by Tax Rate"
-Rate,Rate
-"Tax Amount","Tax Amount"
-"Abandoned carts","Abandoned carts"
-"Applied Coupon","Applied Coupon"
-"IP Address","IP Address"
-"Products in carts","Products in carts"
-Carts,Carts
+"Total Ordered Report",注文合計レポート
+"Sales Items",販売商品
+Profit,利益
+Paid,支払済
+"Sales Tax",消費税
+"Sales Shipping",送料
+"Total Shipped Report",合計配送レポート
+Carrier/Method,配送業者・配送方法
+"Total Sales Shipping",合計配送料金
+"Total Shipping",合計送料
+"Order Taxes Report Grouped by Tax Rate",注文税レポートを税率でグループ化する
+Rate,レート
+"Tax Amount",税
+"Abandoned carts",無効になったショッピングカート
+"Applied Coupon",適用されたクーポン
+"IP Address",IPアドレス
+"Products in carts",カート内の商品
+Carts,カート
 "Wish Lists","Wish Lists"
 "Wishlist Purchase","Wishlist Purchase"
 "Wish List vs. Regular Order","Wish List vs. Regular Order"
 "Times Deleted","Times Deleted"
 "Index type is not valid","Index type is not valid"
-Reports,Reports
+Reports,レポート
 "Last updated: %1. To refresh last day\'s <a href=""%2"">statistics</a>, ' 'click <a href=""%3"">here</a>.","Last updated: %1. To refresh last day\'s <a href=""%2"">statistics</a>, ' 'click <a href=""%3"">here</a>."
 "New Accounts Report","New Accounts Report"
-"Customers by Number of Orders","Customers by Number of Orders"
+"Customers by Number of Orders",顧客ごとの注文件数
 "Order Count Report","Order Count Report"
 "Order Total Report","Order Total Report"
 "Downloads Report","Downloads Report"
-"Low Stock","Low Stock"
+"Low Stock",在庫わずか
 "Low Stock Report","Low Stock Report"
 "Ordered Products Report","Ordered Products Report"
-"Products Most Viewed Report","Products Most Viewed Report"
+"Products Most Viewed Report",最も閲覧されている商品レポート
 "Product Views Report","Product Views Report"
 "An error occurred while showing the product views report. Please review the log and try again.","An error occurred while showing the product views report. Please review the log and try again."
-Review,Review
-Reviews,Reviews
-"Customers Report","Customers Report"
+Review,レビュー
+Reviews,レビュー
+"Customers Report",顧客のレポート
 "Customer Reviews Report","Customer Reviews Report"
 "Product Reviews Report","Product Reviews Report"
-"Product Reviews","Product Reviews"
-Details,Details
+"Product Reviews",商品レビュー
+Details,詳細
 "Best Sellers Report","Best Sellers Report"
-Coupons,Coupons
+Coupons,クーポン
 "Coupons Report","Coupons Report"
 "Invoice Report","Invoice Report"
 "Refunds Report","Refunds Report"
-"Sales Report","Sales Report"
+"Sales Report",セールスレポート
 "Shipping Report","Shipping Report"
 "Tax Report","Tax Report"
-"Abandoned Carts","Abandoned Carts"
-"Customer Shopping Carts","Customer Shopping Carts"
-"Products in Carts","Products in Carts"
-Statistics,Statistics
+"Abandoned Carts",無効になったショッピングカート
+"Customer Shopping Carts",ショッピングカート
+"Products in Carts",カートに入っている商品
+Statistics,統計
 "No report code is specified.","No report code is specified."
 "We updated lifetime statistics.","We updated lifetime statistics."
-"We can't refresh lifetime statistics.","We can't refresh lifetime statistics."
-"Recent statistics have been updated.","Recent statistics have been updated."
+"Recent statistics have been updated.",統計情報を更新しました。
 "We can't refresh recent statistics.","We can't refresh recent statistics."
 "The product type filter specified is incorrect.","The product type filter specified is incorrect."
-"Order Taxes Report Grouped by Tax Rates","Order Taxes Report Grouped by Tax Rates"
-"Total Invoiced VS Paid Report","Total Invoiced VS Paid Report"
-"Promotion Coupons Usage Report","Promotion Coupons Usage Report"
-"Most Viewed Products Report","Most Viewed Products Report"
-"Show By","Show By"
-"Select Date","Select Date"
+"Order Taxes Report Grouped by Tax Rates",注文税レポートを税率でグループ化する
+"Total Invoiced VS Paid Report",請求額と支払額のレポート
+"Promotion Coupons Usage Report",クーポン使用レポート
+"Most Viewed Products Report",最も閲覧されている商品レポート
+"Show By",表示先
+"Select Date",日付を選択
 "Customers that have wish list: %1%","Customers that have wish list: %1%"
 "Number of wish lists: %1","Number of wish lists: %1"
 "Number of items bought from a wish list: %1","Number of items bought from a wish list: %1"
 "Number of times wish lists have been shared (emailed): %1","Number of times wish lists have been shared (emailed): %1"
 "Number of wish list referrals: %1","Number of wish list referrals: %1"
 "Number of wish list conversions: %1","Number of wish list conversions: %1"
-"Show Report For:","Show Report For:"
-"Recently Viewed","Recently Viewed"
-"Recently Compared","Recently Compared"
-"Recently Compared Products","Recently Compared Products"
-"Recently Viewed Products","Recently Viewed Products"
-"Recently Viewed/Compared Products","Recently Viewed/Compared Products"
-"Show for Current","Show for Current"
-"Default Recently Viewed Products Count","Default Recently Viewed Products Count"
-"Default Recently Compared Products Count","Default Recently Compared Products Count"
-"Year-To-Date Starts","Year-To-Date Starts"
-"Current Month Starts","Current Month Starts"
-"Select day of the month.","Select day of the month."
-"List of Products Recently Viewed by Visitor","List of Products Recently Viewed by Visitor"
-"Number of Products to display","Number of Products to display"
-"Viewed Products Grid Template","Viewed Products Grid Template"
-"Viewed Products List Template","Viewed Products List Template"
+"Show Report For:",レポートを表示:
+"Recently Viewed",最近閲覧した商品
+"Recently Compared",最近比較した商品
+"Recently Compared Products",最近比較した商品
+"Recently Viewed Products",最近閲覧した商品
+"Recently Viewed/Compared Products",最近見られた/比較された商品
+"Show for Current",最新を表示
+"Default Recently Viewed Products Count",標準の最近閲覧した商品点数
+"Default Recently Compared Products Count",標準の最近比較された商品点数
+"Year-To-Date Starts",開始日
+"Current Month Starts",現在の月から開始
+"Select day of the month.",月の日を選択してください。
+"List of Products Recently Viewed by Visitor",訪問者に最近閲覧された商品のリスト
+"Number of Products to display",商品表示件数
+"Viewed Products Grid Template",閲覧された商品グリッドテンプレート
+"Viewed Products List Template",閲覧の多い商品リストテンプレート
 "Viewed Products Images and Names Template","Viewed Products Images and Names Template"
 "Viewed Products Names Only Template","Viewed Products Names Only Template"
 "Viewed Products Images Only Template","Viewed Products Images Only Template"
-"List of Products Recently Compared and Removed from the Compare List by Visitor","List of Products Recently Compared and Removed from the Compare List by Visitor"
-"Compared Products Grid Template","Compared Products Grid Template"
-"Compared Products List Template","Compared Products List Template"
+"List of Products Recently Compared and Removed from the Compare List by Visitor",訪問者に比較リストで最近比較されたかリストから削除された商品リスト
+"Compared Products Grid Template",商品比較グリッドテンプレート
+"Compared Products List Template",商品比較リストテンプレート
 "Compared Products Images and Names Template","Compared Products Images and Names Template"
 "Compared Product Names Only Template","Compared Product Names Only Template"
 "Compared Product Images Only Template","Compared Product Images Only Template"
@@ -201,16 +201,16 @@ Statistics,Statistics
 "Ordered Quantity","Ordered Quantity"
 "This report uses timezone configuration data. Be sure to refresh lifetime statistics any time you change store timezone.","This report uses timezone configuration data. Be sure to refresh lifetime statistics any time you change store timezone."
 "Average (Approved)","Average (Approved)"
-"Last Review","Last Review"
-"Order Created Date","Order Created Date"
-"Order Updated Date","Order Updated Date"
+"Last Review",最新のレビュー
+"Order Created Date",注文作成日
+"Order Updated Date",注文更新日
 "The Order Updated Date report is displayed in real-time, and does not need to be refreshed.","The Order Updated Date report is displayed in real-time, and does not need to be refreshed."
-"Last Invoice Created Date","Last Invoice Created Date"
-"Last Credit Memo Created Date","Last Credit Memo Created Date"
-"First Invoice Created Date","First Invoice Created Date"
-"Refresh Lifetime Statistics","Refresh Lifetime Statistics"
-"Are you sure you want to refresh lifetime statistics? There can be performance impact during this operation.","Are you sure you want to refresh lifetime statistics? There can be performance impact during this operation."
-"Refresh Statistics for the Last Day","Refresh Statistics for the Last Day"
+"Last Invoice Created Date",直近の請求書作成日
+"Last Credit Memo Created Date",直近のクレジットメモ作成日
+"First Invoice Created Date",初回請求書作成日
+"Refresh Lifetime Statistics",集計期間の統計を更新
+"Are you sure you want to refresh lifetime statistics? There can be performance impact during this operation.","統計情報を更新しても構いませんか？ 処理中はシステムのパフォーマンスに影響を及ぼします。"
+"Refresh Statistics for the Last Day",昨日の統計を更新する
 "Are you sure you want to refresh statistics for last day?","Are you sure you want to refresh statistics for last day?"
-Report,Report
-undefined,undefined
+Report,レポート
+undefined,未定義

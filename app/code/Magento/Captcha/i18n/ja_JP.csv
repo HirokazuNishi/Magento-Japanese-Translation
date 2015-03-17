@@ -1,27 +1,27 @@
 Always,常に
-"After number of attempts to login",所定回数のログインが試みられた後
+"After number of attempts to login",CAPTCHAを表示するログイン失敗回数
 "Incorrect CAPTCHA",不正なCAPTCHA
-"Incorrect CAPTCHA.",不正なCAPTCHA。
+"Incorrect CAPTCHA.",不正なCAPTCHA.
 "Please enter the letters from the image:",画像に表示された文字を入力してください:
-"Reload captcha",CAPTCHAを再読み込み
+"Reload captcha",CAPTCHAの再読込
 "<strong>Attention</strong>: Captcha is case sensitive.","<strong>注意</strong>: CAPTCHAは大文字小文字を区別します。"
-"Please type the letters below",以下の文字を入力してください
+"Please type the letters below",以下に文字を入力してください
 CAPTCHA,CAPTCHA
-"Enable CAPTCHA in Admin","Enable CAPTCHA in Admin"
-Font,Font
-Forms,Forms
-"Displaying Mode","Displaying Mode"
-"Number of Unsuccessful Attempts to Login","Number of Unsuccessful Attempts to Login"
-"If 0 is specified, CAPTCHA on the Login form will be always available.","If 0 is specified, CAPTCHA on the Login form will be always available."
-"CAPTCHA Timeout (minutes)","CAPTCHA Timeout (minutes)"
-"Number of Symbols","Number of Symbols"
-"Please specify 8 symbols at the most. Range allowed (e.g. 3-5)","Please specify 8 symbols at the most. Range allowed (e.g. 3-5)"
-"Symbols Used in CAPTCHA","Symbols Used in CAPTCHA"
+"Enable CAPTCHA in Admin",管理画面でCAPTCHAを有効にする
+Font,フォント
+Forms,対象フォーム
+"Displaying Mode",表示モード
+"Number of Unsuccessful Attempts to Login",ログイン失敗回数
+"If 0 is specified, CAPTCHA on the Login form will be always available.","もし0が指定された場合, ログインフォーム上のCAPTCHAは常に有効になります。"
+"CAPTCHA Timeout (minutes)","CAPTCHA 有効期限 (分)"
+"Number of Symbols",文字数
+"Please specify 8 symbols at the most. Range allowed (e.g. 3-5)","多くても8文字を指定してください。 範囲指定が可能です（例：3-5）"
+"Symbols Used in CAPTCHA",CAPTCHAで使用する文字
 "
                         Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.
                     ","
                         Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.
                     "
-"Case Sensitive","Case Sensitive"
-"Enable CAPTCHA on Frontend","Enable CAPTCHA on Frontend"
+"Case Sensitive",大文字小文字を区別する
+"Enable CAPTCHA on Frontend",フロントエンドでCAPTCHAを有効にする
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen."

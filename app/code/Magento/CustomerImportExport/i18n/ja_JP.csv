@@ -13,5 +13,5 @@
 "Invalid value in Store column (store does not exists?)","Invalid value in Store column (store does not exists?)"
 "E-mail and website combination is not found","E-mail and website combination is not found"
 "Invalid password length","Invalid password length"
-CSV,CSV
-"Excel XML","Excel XML"
+CSV,CSVファイル
+"Excel XML",Excel形式XML

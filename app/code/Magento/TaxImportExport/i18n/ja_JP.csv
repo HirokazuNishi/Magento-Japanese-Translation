@@ -1,16 +1,19 @@
 Code,コード
-Country,Country
-CSV,CSV
-"Excel XML","Excel XML"
-Rate,Rate
-"Zip/Post is Range","Zip/Post is Range"
-"Zip/Post Code","Zip/Post Code"
-"Range From","Range From"
-"Range To","Range To"
-State,State
+Country,国
+CSV,CSVファイル
+"Excel XML",Excel形式XML
+Rate,レート
+"Zip/Post is Range",郵便番号の範囲
+"Zip/Post Code",郵便番号
+"Range From",開始
+"Range To",終了
+State,都道府県
 "Tax Zones and Rates","Tax Zones and Rates"
-"Import and Export Tax Rates","Import and Export Tax Rates"
-"The tax rate has been imported.","The tax rate has been imported."
-"Invalid file upload attempt","Invalid file upload attempt"
-"Import Tax Rates","Import Tax Rates"
-"Export Tax Rates","Export Tax Rates"
+"Import and Export Tax Rates",税率のインポートとエクスポート
+"The tax rate has been imported.",税率を取り込みました。
+"Invalid file upload attempt",不正なファイルがアップロードされました
+"Invalid file upload attempt.","Invalid file upload attempt."
+"Invalid file format.","Invalid file format."
+"One of the countries has invalid code.","One of the countries has invalid code."
+"Import Tax Rates",税率のインポート
+"Export Tax Rates",税率のエクスポート

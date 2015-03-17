@@ -1,29 +1,29 @@
 Qty,個数
 "Product Name",商品名
-"ALL GROUPS","ALL GROUPS"
+"ALL GROUPS",全てのグループ
 "Could not rebuild index for undefined product","Could not rebuild index for undefined product"
-"Manage Stock","Manage Stock"
-"Minimum Qty Allowed in Shopping Cart","Minimum Qty Allowed in Shopping Cart"
-"Maximum Qty Allowed in Shopping Cart","Maximum Qty Allowed in Shopping Cart"
-Backorders,Backorders
-"Notify for Quantity Below","Notify for Quantity Below"
-"Enable Qty Increments","Enable Qty Increments"
-"Qty Increments","Qty Increments"
-"In Stock","In Stock"
-"Out of Stock","Out of Stock"
-"Customer Group","Customer Group"
-"Minimum Qty","Minimum Qty"
-"Add Minimum Qty","Add Minimum Qty"
+"Manage Stock",在庫管理
+"Minimum Qty Allowed in Shopping Cart",カートの中で許可する最小個数
+"Maximum Qty Allowed in Shopping Cart",カートの中で許可する最大個数
+Backorders,バックオーダー
+"Notify for Quantity Below",これ以下の数量になれば通知
+"Enable Qty Increments",個数の増分を許可する
+"Qty Increments",個数の増分
+"In Stock",在庫あり
+"Out of Stock",在庫切れ
+"Customer Group",顧客グループ
+"Minimum Qty",最小個数
+"Add Minimum Qty",最小個数を追加
 "Could not rebuild index for empty products array","Could not rebuild index for empty products array"
-"The stock item for Product is not valid.","The stock item for Product is not valid."
+"The stock item for Product is not valid.",商品の在庫数が不正です。
 "This product is out of stock.","This product is out of stock."
-"Some of the products are currently out of stock.","Some of the products are currently out of stock."
-"The stock item for Product in option is not valid.","The stock item for Product in option is not valid."
+"Some of the products are currently out of stock.",いくつかの商品が在庫切れです
+"The stock item for Product in option is not valid.",オプション商品の在庫数が不正です。
 "Undefined product type","Undefined product type"
-"%1 is not a correct comparison method.","%1 is not a correct comparison method."
-"No Backorders","No Backorders"
-"Allow Qty Below 0","Allow Qty Below 0"
-"Allow Qty Below 0 and Notify Customer","Allow Qty Below 0 and Notify Customer"
+"%1 is not a correct comparison method.","%1 は正しくない比較方法です。"
+"No Backorders",バックオーダーなし
+"Allow Qty Below 0",在庫数0個以下を許可する
+"Allow Qty Below 0 and Notify Customer",在庫数0個以下を許可し、顧客に通知する
 "Not all of your products are available in the requested quantity.","Not all of your products are available in the requested quantity."
 "The fewest you may purchase is %1.","The fewest you may purchase is %1."
 "Please correct the quantity for some products.","Please correct the quantity for some products."
@@ -33,24 +33,25 @@ Backorders,Backorders
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2."
 "You can buy %1 only in increments of %2.","You can buy %1 only in increments of %2."
 "You can buy this product only in increments of %1.","You can buy this product only in increments of %1."
+"Decimal qty increments is not allowed.","Decimal qty increments is not allowed."
 "%1 is available for purchase in increments of %2","%1 is available for purchase in increments of %2"
 "Only %1 left","Only %1 left"
 "Product availability","Product availability"
-Inventory,Inventory
-"Stock Options","Stock Options"
-"Decrease Stock When Order is Placed","Decrease Stock When Order is Placed"
-"Set Items' Status to be In Stock When Order is Cancelled","Set Items' Status to be In Stock When Order is Cancelled"
-"Display Out of Stock Products","Display Out of Stock Products"
-"Products will still be shown by direct product URLs.","Products will still be shown by direct product URLs."
-"Only X left Threshold","Only X left Threshold"
-"Display products availability in stock in the frontend","Display products availability in stock in the frontend"
-"Product Stock Options","Product Stock Options"
+Inventory,在庫
+"Stock Options",ストックオプション
+"Decrease Stock When Order is Placed",注文を受けると在庫を減らす。
+"Set Items' Status to be In Stock When Order is Cancelled",注文がキャンセルされたときにはセット商品の状態を在庫ありにする
+"Display Out of Stock Products",在庫切れ商品を表示する
+"Products will still be shown by direct product URLs.",商品は商品のURLで表示され続けます。
+"Only X left Threshold",「X点在庫有り」と表記する閾値
+"Display products availability in stock in the frontend",商品の在庫状態をフロントエンドで表示する
+"Product Stock Options",商品在庫オプション
 "
                     Please note that these settings apply to individual items in the cart, not to the entire cart.
                 ","
                     Please note that these settings apply to individual items in the cart, not to the entire cart.
                 "
-"Qty for Item's Status to Become Out of Stock","Qty for Item's Status to Become Out of Stock"
-"Automatically Return Credit Memo Item to Stock","Automatically Return Credit Memo Item to Stock"
+"Qty for Item's Status to Become Out of Stock",在庫切れステータスにする在庫数
+"Automatically Return Credit Memo Item to Stock",返金時に在庫数を更新する
 Stock,Stock
 "Index stock","Index stock"

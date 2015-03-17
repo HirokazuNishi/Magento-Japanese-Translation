@@ -1,94 +1,94 @@
-"Delete File",ファイル削除
 Delete,削除
 "-- Please Select --","-- 選択してください --"
 "Custom Design",カスタムデザイン
 "Block Information",ブロック情報
-Status,ステータス
+Status,状態
 Disabled,無効
 Enabled,有効
-"Save and Continue Edit",保存して編集を続ける
 Home,ホーム
 "Store View",ストアビュー
-"Browse Files...",ファイルを表示...
+"Browse Files...",ファイルを選択....
 ID,ID
-Edit,Edit
-"Go to Home Page","Go to Home Page"
+"Save and Continue Edit",保存して編集を続ける
+Edit,編集
+"Go to Home Page",ホームページへ
 "A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted."
-px.,px.
-"Collapse All","Collapse All"
-"Expand All","Expand All"
-Title,Title
-Action,Action
-"General Information","General Information"
-Description,Description
-Content,Content
-"Static Blocks","Static Blocks"
-"Add New Block","Add New Block"
-"Save Block","Save Block"
-"Delete Block","Delete Block"
+px.,ピクセル
+"Collapse All",すべて折りたたむ
+"Expand All",すべて展開する
+Title,タイトル
+Action,アクション
+"General Information",総合情報
+Description,概要
+Content,コンテンツ
+"Static Blocks",静的ブロック
+"Add New Block",新規ブロック追加
+"Save Block",保存
+"Delete Block",ブロックの削除
 "Edit Block '%1'","Edit Block '%1'"
-"New Block","New Block"
-"Block Title","Block Title"
-Identifier,Identifier
-"Manage Pages","Manage Pages"
-"Add New Page","Add New Page"
-"Save Page","Save Page"
-"Delete Page","Delete Page"
+"New Block",新規ブロック
+"Block Title",ブロックタイトル
+Identifier,識別子
+"Manage Pages",ページ管理
+"Add New Page",新規ページの追加
+"Save Page",保存
+"Delete Page",ページの削除
 "Edit Page '%1'","Edit Page '%1'"
-"New Page","New Page"
-"Content Heading","Content Heading"
-"Page Layout","Page Layout"
-Layout,Layout
-"Layout Update XML","Layout Update XML"
-"Custom Design From","Custom Design From"
-"Custom Design To","Custom Design To"
-"Custom Theme","Custom Theme"
-"Custom Layout","Custom Layout"
-"Custom Layout Update XML","Custom Layout Update XML"
-Design,Design
-"Page Information","Page Information"
-"Page Title","Page Title"
-"URL Key","URL Key"
+"New Page",新規ページ
+"Content Heading",コンテンツヘッダ
+"Page Layout",ページレイアウト
+Layout,レイアウト
+"Layout Update XML",レイアウトXMLを更新する
+"Custom Design From",カスタムデザイン適用開始日
+"Custom Design To",カスタムデザイン適用終了日
+"Custom Theme",カスタムテーマ
+"Custom Layout",カスタムレイアウト
+"Custom Layout Update XML",カスタムレイアウト更新XML
+Design,デザイン
+"Page Information",ページ情報
+"Page Title",ページタイトル
+"URL Key",URLキー
 "Relative to Web Site Base URL","Relative to Web Site Base URL"
-"Page Status","Page Status"
-"Meta Data","Meta Data"
-Keywords,Keywords
-"Meta Keywords","Meta Keywords"
-"Meta Description","Meta Description"
+"Page Status",ページステータス
+"Meta Data",メタデータ
+Keywords,キーワード
+"Meta Keywords",メタキーワード
+"Meta Description",メタ概要
 Created,Created
 Modified,Modified
-Preview,Preview
-"Media Storage","Media Storage"
-"Create Folder...","Create Folder..."
-"Delete Folder","Delete Folder"
-"Insert File","Insert File"
-"New Folder Name:","New Folder Name:"
+Preview,プレビュー
+"Media Storage",メディアストレージ
+"Create Folder...",フォルダを作成...
+"Delete Folder",フォルダを削除
+"Delete File",ファイルを削除
+"Insert File",ファイル挿入
+"New Folder Name:",新しいフォルダ名:
 "Are you sure you want to delete this folder?","Are you sure you want to delete this folder?"
 "Are you sure you want to delete this file?","Are you sure you want to delete this file?"
 "Images (%1)","Images (%1)"
-"Storage Root","Storage Root"
+"Storage Root",ストレージルート
 "Please select item(s).","Please select item(s)."
 CMS,CMS
-"The block has been deleted.","The block has been deleted."
+"The block has been deleted.",ブロックを削除しました。
 "We can't find a block to delete.","We can't find a block to delete."
-"This block no longer exists.","This block no longer exists."
-"Edit Block","Edit Block"
+"This block no longer exists.",このブロックは存在していません。
+"Edit Block",ブロックを編集
 Blocks,Blocks
-"The block has been saved.","The block has been saved."
-"The page has been deleted.","The page has been deleted."
+"The block has been saved.",ブロックを保存しました。
+"The page has been deleted.",ページを削除しました
 "We can't find a page to delete.","We can't find a page to delete."
-"This page no longer exists.","This page no longer exists."
-"Edit Page","Edit Page"
-Pages,Pages
-"The page has been saved.","The page has been saved."
+"This page no longer exists.",このページは存在していません。
+"Edit Page",ページの編集
+Pages,ページ
+"The page has been saved.",ページを保存しました。
 "Something went wrong while saving the page.","Something went wrong while saving the page."
 "The directory %1 is not writable by server.","The directory %1 is not writable by server."
 "Make sure that static block content does not reference the block itself.","Make sure that static block content does not reference the block itself."
-"Enabled by Default","Enabled by Default"
-"Disabled by Default","Disabled by Default"
-"Disabled Completely","Disabled Completely"
-"A block identifier with the same properties already exists in the selected store.","A block identifier with the same properties already exists in the selected store."
-"The page URL key contains capital letters or disallowed symbols.","The page URL key contains capital letters or disallowed symbols."
+"Enabled by Default",デフォルトで有効
+"Disabled by Default",デフォルトで無効
+"Disabled Completely",完全に無効にする
+"A block identifier with the same properties already exists in the selected store.",選択した店舗には同じブロック識別子のブロックが存在しています。
+"The page URL key contains capital letters or disallowed symbols.",URLキーに使用できない文字が含まれています。
 "The page URL key cannot be made of only numbers.","The page URL key cannot be made of only numbers."
 "Please correct the folder name. Use only letters, numbers, underscores and dashes.","Please correct the folder name. Use only letters, numbers, underscores and dashes."
 "We found a directory with the same name. Please try another folder name.","We found a directory with the same name. Please try another folder name."
@@ -97,28 +97,29 @@ Pages,Pages
 "We cannot upload the file.","We cannot upload the file."
 "We cannot delete root directory %1.","We cannot delete root directory %1."
 "Directory %1 is not under storage root path.","Directory %1 is not under storage root path."
-"No files found","No files found"
-Block,Block
-Template,Template
-"Anchor Custom Text","Anchor Custom Text"
-"Anchor Custom Title","Anchor Custom Title"
-"CMS Home Page","CMS Home Page"
-"CMS No Route Page","CMS No Route Page"
-"CMS No Cookies Page","CMS No Cookies Page"
-"Show Breadcrumbs for CMS Pages","Show Breadcrumbs for CMS Pages"
-"Browser Capabilities Detection","Browser Capabilities Detection"
-"Redirect to CMS-page if Cookies are Disabled","Redirect to CMS-page if Cookies are Disabled"
-"Show Notice if JavaScript is Disabled","Show Notice if JavaScript is Disabled"
+"No files found",ファイルが見つかりません
+Block,ブロック
+Template,テンプレート
+"We could not detect a size.",サイズを検出できません。
+"Anchor Custom Text",アンカーカスタムテキスト
+"Anchor Custom Title",アンカーカスタムタイトル
+"CMS Home Page",CMSのホームページ
+"CMS No Route Page",CMSエラーページ
+"CMS No Cookies Page",Cookie無効時ページ
+"Show Breadcrumbs for CMS Pages",CMSページにパンくずを表示する
+"Browser Capabilities Detection",ブラウザ互換性検出
+"Redirect to CMS-page if Cookies are Disabled",Cookieが無効の場合はCMSページにリダイレクトさせる。
+"Show Notice if JavaScript is Disabled",JavaScriptが無効の場合に警告を表示する。
 "Show Notice if Local Storage is Disabled","Show Notice if Local Storage is Disabled"
-"Content Management","Content Management"
-"WYSIWYG Options","WYSIWYG Options"
-"Enable WYSIWYG Editor","Enable WYSIWYG Editor"
-"CMS Page Link","CMS Page Link"
-"Link to a CMS Page","Link to a CMS Page"
-"CMS Page","CMS Page"
-"If empty, the Page Title will be used","If empty, the Page Title will be used"
-"CMS Page Link Block Template","CMS Page Link Block Template"
-"CMS Page Link Inline Template","CMS Page Link Inline Template"
-"CMS Static Block","CMS Static Block"
-"Contents of a Static Block","Contents of a Static Block"
-"CMS Static Block Default Template","CMS Static Block Default Template"
+"Content Management",コンテンツ管理
+"WYSIWYG Options",WYSIWYGオプション
+"Enable WYSIWYG Editor",WYSIWYGエディタを有効にする
+"CMS Page Link",CMSページリンク
+"Link to a CMS Page",CMSページにリンク
+"CMS Page",CMSページ
+"If empty, the Page Title will be used",空白の場合はページタイトルが使用されます（日本語は正しく処理されません）
+"CMS Page Link Block Template",CMSページリンクブロックテンプレート
+"CMS Page Link Inline Template",CMSページインラインリンクテンプレート
+"CMS Static Block",静的ブロック
+"Contents of a Static Block",静的ブロックのコンテンツ
+"CMS Static Block Default Template",静的ブロックデフォルトテンプレート

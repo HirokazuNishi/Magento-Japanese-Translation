@@ -1,24 +1,24 @@
 Enabled,有効
-"Sort Order",表示順
-Title,Title
+"Sort Order",並び順
+Title,タイトル
 "<label class=""label""><span>Make Check payable to:</span></label> %1","<label class=""label""><span>Make Check payable to:</span></label> %1"
-"Send Check to:","Send Check to:"
-"Purchase Order Number","Purchase Order Number"
+"Send Check to:",小切手の宛先を指定:
+"Purchase Order Number",配送番号
 "Make Check payable to: %1","Make Check payable to: %1"
 "Purchase Order Number: %1","Purchase Order Number: %1"
-"Make Check payable to:","Make Check payable to:"
+"Make Check payable to:",小切手支払を可能にする:
 "Make Check payable to","Make Check payable to"
-"Send Check to","Send Check to"
-"New Order Status","New Order Status"
-"Check / Money Order","Check / Money Order"
-"Payment from Applicable Countries","Payment from Applicable Countries"
-"Payment from Specific Countries","Payment from Specific Countries"
-"Make Check Payable to","Make Check Payable to"
-"Minimum Order Total","Minimum Order Total"
-"Maximum Order Total","Maximum Order Total"
-"Purchase Order","Purchase Order"
-"Bank Transfer Payment","Bank Transfer Payment"
-Instructions,Instructions
-"Cash On Delivery Payment","Cash On Delivery Payment"
-"Zero Subtotal Checkout","Zero Subtotal Checkout"
-"Automatically Invoice All Items","Automatically Invoice All Items"
+"Send Check to",小切手の宛先
+"New Order Status",新規注文ステータス
+"Check / Money Order","小切手 / 現金支払"
+"Payment from Applicable Countries",許可された国からの支払
+"Payment from Specific Countries",特定の国からの支払
+"Make Check Payable to",小切手の振出先を指定
+"Minimum Order Total",注文合計最小値
+"Maximum Order Total",注文合計最大値
+"Purchase Order",配送
+"Bank Transfer Payment",銀行振込
+Instructions,説明
+"Cash On Delivery Payment",代引き支払い
+"Zero Subtotal Checkout",ゼロ合計チェックアウト
+"Automatically Invoice All Items",自動ですべての商品を請求する。

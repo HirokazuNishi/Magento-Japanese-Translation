@@ -1,26 +1,29 @@
+Remove,削除
 No,No
 Previous,前へ
-Position,表示位置
-"Shop By","Shop By"
-"Shopping Options","Shopping Options"
-"Remove This Item","Remove This Item"
-"Clear All","Clear All"
-"Use In Layered Navigation","Use In Layered Navigation"
-"Can be used only with catalog input type Dropdown, Multiple Select and Price","Can be used only with catalog input type Dropdown, Multiple Select and Price"
-"Filterable (with results)","Filterable (with results)"
-"Filterable (no results)","Filterable (no results)"
-"Use In Search Results Layered Navigation","Use In Search Results Layered Navigation"
-"Position in Layered Navigation","Position in Layered Navigation"
-"Position of attribute in layered navigation block","Position of attribute in layered navigation block"
-"Use in Layered Navigation","Use in Layered Navigation"
+Position,おすすめ
+"Shop By",閲覧中
+"Shopping Options",絞り込み条件
+"Remove This Item",この商品を削除する
+"Clear All",すべてクリア
+item,アイテム
+items,アイテム
+"Use In Layered Navigation",階層ナビゲーションで使用する
+"Can be used only with catalog input type Dropdown, Multiple Select and Price",ドロップダウンリストは複数選択または価格でのみ利用可能です
+"Filterable (with results)","フィルタ可能 (結果あり)"
+"Filterable (no results)","フィルタ可能 (結果なし)"
+"Use In Search Results Layered Navigation",検索結果ナビゲーションで使用
+"Position in Layered Navigation",階層ナビゲーション内の位置
+"Position of attribute in layered navigation block",レイアウトナビゲーションブロックの位置属性
+"Use in Layered Navigation",階層ナビゲーションで使用する
 "Currently Shopping by","Currently Shopping by"
-"Layered Navigation","Layered Navigation"
-"Display Product Count","Display Product Count"
-"Price Navigation Step Calculation","Price Navigation Step Calculation"
-"Default Price Navigation Step","Default Price Navigation Step"
-"Maximum Number of Price Intervals","Maximum Number of Price Intervals"
-"Maximum number of price intervals is 100","Maximum number of price intervals is 100"
-"Display Price Interval as One Price","Display Price Interval as One Price"
-"This setting will be applied when all prices in the specific price interval are equal.","This setting will be applied when all prices in the specific price interval are equal."
-"Interval Division Limit","Interval Division Limit"
-"Please specify the number of products, that will not be divided into subintervals.","Please specify the number of products, that will not be divided into subintervals."
+"Layered Navigation",階層ナビゲーション
+"Display Product Count",商品点数を表示
+"Price Navigation Step Calculation",価格ナビゲーション計算区切り
+"Default Price Navigation Step",標準の価格ナビゲーション区切り
+"Maximum Number of Price Intervals",価格ステップの最大数
+"Maximum number of price intervals is 100",価格ステップの最大数は100です
+"Display Price Interval as One Price",価格範囲を1つの価格で表示する
+"This setting will be applied when all prices in the specific price interval are equal.",この設定はすべての商品が特定の価格帯にある場合に適用されます。
+"Interval Division Limit",ステップ分割制限数
+"Please specify the number of products, that will not be divided into subintervals.",下階層の価格帯の中で価格帯を区切らないための商品数を指定してください。

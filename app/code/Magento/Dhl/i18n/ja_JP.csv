@@ -1,19 +1,19 @@
-"Sort Order",表示順
-None,None
-Title,Title
-Password,Password
+"Sort Order",並び順
+None,なし
+Title,タイトル
+Password,パスワード
 "This allows breaking total order weight into smaller pieces if it exceeds %1 %2 to ensure accurate calculation of shipping charges.","This allows breaking total order weight into smaller pieces if it exceeds %1 %2 to ensure accurate calculation of shipping charges."
 "Wrong Content Type","Wrong Content Type"
-Pounds,Pounds
-Kilograms,Kilograms
+Pounds,ポンド
+Kilograms,キログラム
 Inches,Inches
 Centimeters,Centimeters
-inch,inch
+inch,インチ
 cm,cm
-Height,Height
+Height,高さ
 Depth,Depth
-Width,Width
-Regular,Regular
+Width,幅
+Regular,普通配達
 Specific,Specific
 "Easy shop","Easy shop"
 Sprintline,Sprintline
@@ -39,10 +39,10 @@ Jetline,Jetline
 "Freight worldwide","Freight worldwide"
 "Jumbo box","Jumbo box"
 "DHL service is not available at %s date","DHL service is not available at %s date"
-"The response is in wrong format.","The response is in wrong format."
+"The response is in wrong format.",レスポンスが不正なフォーマットです。
 "Error #%1 : %2","Error #%1 : %2"
 "We had to skip DHL method %1 because we couldn't find exchange rate %2 (Base Currency).","We had to skip DHL method %1 because we couldn't find exchange rate %2 (Base Currency)."
-"Zero shipping charge for '%1'","Zero shipping charge for '%1'"
+"Zero shipping charge for '%1'","送料無料対象 '%1'"
 DHL,DHL
 "Cannot identify measure unit for %1","Cannot identify measure unit for %1"
 "Cannot identify weight unit for %1","Cannot identify weight unit for %1"
@@ -52,28 +52,29 @@ Documents,Documents
 "Non Documents","Non Documents"
 "Height, width and length should be equal or greater than %1","Height, width and length should be equal or greater than %1"
 "Wrong Region","Wrong Region"
-"Unable to retrieve tracking","Unable to retrieve tracking"
-"Response is in the wrong format","Response is in the wrong format"
+"Unable to retrieve tracking",トラッキングを読み込みできません
+"Response is in the wrong format",回答のフォーマットが間違っています
 "No packages for request","No packages for request"
+"Unable to retrieve shipping label","Unable to retrieve shipping label"
 "Non documents","Non documents"
-Size,Size
-Debug,Debug
-"Enabled for Checkout","Enabled for Checkout"
-"Gateway URL","Gateway URL"
-"Access ID","Access ID"
-"Account Number","Account Number"
+Size,サイズ
+Debug,デバッグ
+"Enabled for Checkout",有効
+"Gateway URL",ゲートウェイURL
+"Access ID",アクセスID
+"Account Number",アカウント番号
 "Content Type","Content Type"
-"Calculate Handling Fee","Calculate Handling Fee"
-"Handling Applied","Handling Applied"
+"Calculate Handling Fee",手数料を計算
+"Handling Applied",手数料適用済み
 """Per Order"" allows a single handling fee for the entire order. ""Per Package"" allows an individual handling fee for each package.","""Per Order"" allows a single handling fee for the entire order. ""Per Package"" allows an individual handling fee for each package."
-"Handling Fee","Handling Fee"
+"Handling Fee",手数料
 "Divide Order Weight","Divide Order Weight"
 "This allows breaking total order weight into smaller pieces if it exeeds 70 kg to ensure accurate calculation of shipping charges.","This allows breaking total order weight into smaller pieces if it exeeds 70 kg to ensure accurate calculation of shipping charges."
-"Weight Unit","Weight Unit"
-"Allowed Methods","Allowed Methods"
-"Displayed Error Message","Displayed Error Message"
-"Free Method","Free Method"
+"Weight Unit",単位(重量)
+"Allowed Methods",許可する配送方法
+"Displayed Error Message",エラーメッセージ表示
+"Free Method",フリーメソッド
 "Free Shipping Amount Threshold","Free Shipping Amount Threshold"
-"Ship to Applicable Countries","Ship to Applicable Countries"
-"Ship to Specific Countries","Ship to Specific Countries"
-"Show Method if Not Applicable","Show Method if Not Applicable"
+"Ship to Applicable Countries",利用可能な国にのみ配送する
+"Ship to Specific Countries",特定の国にのみ配送する
+"Show Method if Not Applicable",配送方法が利用できない場合でも表示する

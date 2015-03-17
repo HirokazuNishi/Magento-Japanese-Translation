@@ -1,50 +1,51 @@
-"Are you sure?",よろしいですか?
+"Are you sure?",よろしいですか？
 Delete,削除
-Store,Store
+Store,店舗
 Yes,Yes
 No,No
 Search,検索
 ID,ID
-Edit,Edit
-Action,Action
-"General Information","General Information"
-Results,Results
+Edit,編集
+Action,アクション
+"General Information",総合情報
+Results,結果
 "Total of %1 record(s) were deleted","Total of %1 record(s) were deleted"
-CSV,CSV
-"Excel XML","Excel XML"
+CSV,CSVファイル
+"Excel XML",Excel形式XML
 Uses,Uses
-Reports,Reports
-"Search Term","Search Term"
-"Search Terms","Search Terms"
-"Add New Search Term","Add New Search Term"
-"Save Search","Save Search"
-"Delete Search","Delete Search"
+Reports,レポート
+"Search Term",検索ワード
+"Search Terms",検索ワード
+"Add New Search Term",新しい検索ワードを追加
+"Save Search",検索の保存
+"Delete Search",検索の削除
 "Edit Search '%1'","Edit Search '%1'"
-"New Search","New Search"
-"Search Information","Search Information"
-"Search Query","Search Query"
-"Number of results","Number of results"
-"Number of results (For the last time placed)","Number of results (For the last time placed)"
-"For the last time placed.","For the last time placed."
-"Number of Uses","Number of Uses"
-"Synonym For","Synonym For"
+"New Search",新規検索条件
+"Search Information",検索情報
+"Search Query",検索クエリ
+"Number of results",結果
+"Number of results (For the last time placed)","結果 (最新の結果)"
+"For the last time placed.",最終検索結果件数
+"Number of Uses",使用数
+"Synonym For",別名
 "Will make search for the query above return results for this search","Will make search for the query above return results for this search"
-"Redirect URL","Redirect URL"
-"ex. http://domain.com","ex. http://domain.com"
-"Display in Suggested Terms","Display in Suggested Terms"
+"Redirect URL",リダイレクトURL
+"ex. http://domain.com","例: http://domain.com"
+"Display in Suggested Terms",お勧め文内に表示
 "You deleted the search.","You deleted the search."
 "We can't find a search term to delete.","We can't find a search term to delete."
-"This search no longer exists.","This search no longer exists."
-"Edit Search","Edit Search"
+"This search no longer exists.",この検索キーワードは存在していません。
+"Edit Search",検索の編集
 "Please select searches.","Please select searches."
 "Search Terms Report","Search Terms Report"
 "You already have an identical search term query.","You already have an identical search term query."
 "You saved the search term.","You saved the search term."
 "Something went wrong while saving the search query.","Something went wrong while saving the search query."
 "Your search query can't be longer than %1, so we had to shorten your query.","Your search query can't be longer than %1, so we had to shorten your query."
-"Search entire store here...","Search entire store here..."
-"There are no search terms available.","There are no search terms available."
-Hits,Hits
+"Search entire store here...",ストア全体から検索....
+"There are no search terms available.",利用できる検索キーワードがありません
+"Search Engine","Search Engine"
+Hits,ヒット
 Synonym,Synonym
 "Suggested Terms","Suggested Terms"
 yes,yes

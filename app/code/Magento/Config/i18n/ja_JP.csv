@@ -1,0 +1,74 @@
+Disable,無効
+Enable,有効
+Delete,削除
+Store,店舗
+Yes,Yes
+No,No
+Stores,店舗
+System,システム
+"Store View",ストアビュー
+Database,データベース
+"We can't save the Cron expression.","We can't save the Cron expression."
+Required,必須
+[GLOBAL],[グローバル]
+[WEBSITE],[ウェブサイト]
+"[STORE VIEW]",[ストアビュー]
+Website,ウェブサイト
+"Use Default",標準の値を使用
+"Delete File",ファイルを削除
+"Default Config",標準の設定
+"Save Config",設定を保存
+"Use Website",ウェブサイトの設定を使用する
+Add,追加
+"Search String","Search String"
+"Design Theme",デザインテーマ
+"Add \Exception","Add \Exception"
+"-- No Theme --","-- No Theme --"
+Synchronize,同期
+Configuration,設定
+"You saved the configuration.","You saved the configuration."
+"An error occurred while saving this configuration:",設定を保存中にエラーが発生しました。
+"Synchronizing %1 to %2","Synchronizing %1 to %2"
+Synchronizing...,同期中...
+"The timeout limit for response from synchronize process was reached.","The timeout limit for response from synchronize process was reached."
+"Please specify the admin custom URL.",管理画面のURLを指定してください。
+"Invalid %1. %2","Invalid %1. %2"
+"Value must be a URL or one of placeholders: %1","Value must be a URL or one of placeholders: %1"
+"Specify a URL or path that starts with placeholder(s): %1, and ends with ""/"".","Specify a URL or path that starts with placeholder(s): %1, and ends with ""/""."
+"%1 An empty value is allowed as well.","%1 からの値も同様に許可されます。"
+"Specify a fully qualified URL.","Specify a fully qualified URL."
+"Selected allowed currency ""%1"" is not available in installed currencies.","Selected allowed currency ""%1"" is not available in installed currencies."
+"Default display currency ""%1"" is not available in allowed currencies.","Default display currency ""%1"" is not available in allowed currencies."
+"Sorry, we haven't installed the base currency you selected.","Sorry, we haven't installed the base currency you selected."
+"Sorry, we haven't installed the default display currency you selected.","Sorry, we haven't installed the default display currency you selected."
+"Sorry, the default display currency you selected in not available in allowed currencies.","Sorry, the default display currency you selected in not available in allowed currencies."
+"Please correct the email address: ""%1"".","Please correct the email address: ""%1""."
+"The sender name ""%1"" is not valid. Please use only visible characters and spaces.","The sender name ""%1"" is not valid. Please use only visible characters and spaces."
+"Maximum sender name length is 255. Please correct your settings.",送信者名の長さは最大255文字です。設定を見なおしてください。
+"The file you're uploading exceeds the server size limit of %1 kilobytes.","The file you're uploading exceeds the server size limit of %1 kilobytes."
+"The base directory to upload file is not specified.",ファイルをアップロードするディレクトリが未指定です。
+"The specified image adapter cannot be used because of: ","The specified image adapter cannot be used because of: "
+"Default scope",標準のスコープ
+"Base currency",基本通貨
+"Display default currency",標準通貨の表示
+"website(%1) scope","ウェブサイト(%1) スコープ"
+"store(%1) scope","ストア(%1) スコープ"
+"Currency ""%1"" is used as %2 in %3.","Currency ""%1"" is used as %2 in %3."
+"Please correct the timezone.","Please correct the timezone."
+"Always (during development)","常時 (開発中)"
+"Only Once (version upgrade)","一度だけ (バージョンアップ)"
+"Never (production)","停止 (稼働中)"
+Bcc,BCC
+"Separate Email",分割メール
+"%1 (Default)","%1 (デフォルト)"
+title,タイトル
+Optional,オプション
+"File System",ファイルシステム
+"HTTP (unsecure)","HTTP (非セキュア)"
+"HTTPS (SSL)","HTTPS (SSL)"
+"Yes (302 Found)","Yes (302 Found)"
+"Yes (301 Moved Permanently)","Yes (301 Moved Permanently)"
+Specified,指定の
+"Config form fieldset clone model required to be able to clone fields",フィールドセットからの複製モデルはフィールドの複製ができることが必要です。
+"Add after",追加後
+"Current Configuration Scope:",現在の設定スコープ:

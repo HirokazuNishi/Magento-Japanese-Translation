@@ -1,0 +1,30 @@
+Tax,税
+Shipping,配送料
+Subtotal,小計
+"Grand Total",合計
+Discount,割引価格
+"We found an invalid request for adding product to quote.","We found an invalid request for adding product to quote."
+"This is the wrong quote item id to update configuration.","This is the wrong quote item id to update configuration."
+"This shipping method is not available. To use this shipping method, please contact us.","This shipping method is not available. To use this shipping method, please contact us."
+"The address model is not defined.","The address model is not defined."
+"The address total model should be extended from \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","The address total model should be extended from \Magento\Quote\Model\Quote\Address\Total\AbstractTotal."
+"Discount (%1)","Discount (%1)"
+"Shipping & Handling (%1)","Shipping & Handling (%1)"
+"Shipping & Handling",配送料と手数料
+"We found an invalid item option format.","We found an invalid item option format."
+"An item option with code %1 already exists.","An item option with code %1 already exists."
+"Item qty declaration error","Item qty declaration error"
+"Some of the products below do not have all the required options.",以下の商品はすべて必須オプションが指定されていません。
+"Something went wrong during the item options declaration.","Something went wrong during the item options declaration."
+"We found an item options declaration error.","We found an item options declaration error."
+"Some of the selected options are not currently available.",選択されたオプションの中にご利用いただけないものが含まれています。
+"Selected option(s) or their combination is not currently available.",選択したオプションまたはオプションの組み合わせは現在利用できません。
+"Some item options or their combination are not currently available.",商品のオプションおよびオプションの組み合わせに利用できないものがあります。
+"The qty value is required to update quote item.","The qty value is required to update quote item."
+"The requested Payment Method is not available.",指定された決済方法は利用できません。
+"This item price or quantity is not valid for checkout.","This item price or quantity is not valid for checkout."
+"Please check the shipping address information. %1","Please check the shipping address information. %1"
+"Please specify a shipping method.",配送方法を指定してください。
+"Please check the billing address information. %1","Please check the billing address information. %1"
+"Please select a valid payment method.",正しい支払い方法を選択してください。
+"Store Credit",店舗クレジット

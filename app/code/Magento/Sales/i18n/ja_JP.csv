@@ -3,47 +3,43 @@ Close,閉じる
 Cancel,キャンセル
 Orders,注文
 Customer,顧客
-Guest,ゲスト
-"Grand Total",合計
+Guest,ゲスト様
 Product,商品
-Price,Price
-Tax,税
-Shipping,配送
+Price,価格
 Quantity,数量
+Tax,税
+Shipping,配送料
 "Account Information",アカウント情報
 "First Name",名
 "Last Name",姓
-Email,メールアドレス
+Email,Eメール
 Refresh,更新
 Enable,有効
 Back,戻る
 General,全般
 Yes,Yes
 No,No
-Name,Name
-Status,ステータス
+Name,名前
+Status,状態
 Enabled,有効
 Home,ホーム
 Search,検索
-Any,全て
-From,From
-To,To
+Any,すべて
+From,開始
+To,終了
 " [deleted]"," [削除済]"
 Dashboard,ダッシュボード
-title,タイトル
-Website,ウェブサイト
-Specified,特定
 Order,注文
 View,表示
 Actions,アクション
 ID,ID
-SKU,SKU
+SKU,商品番号
 "We cannot add this item to your shopping cart.",この商品をショッピングカートに追加できません。
-N/A,N/A
+N/A,該当無し
 Ordered,注文済
-Invoiced,領収済
-Shipped,出荷済
-Refunded,返金済
+Invoiced,請求済
+Shipped,荷送り人
+Refunded,返金
 Canceled,キャンセル済
 Qty,個数
 "Gift Message",ギフトメッセージ
@@ -52,188 +48,194 @@ To:,終了:
 Message:,メッセージ:
 "Product Name",商品名
 Subtotal,小計
-"Discount Amount",値引き額
+"Discount Amount",割引価格
 "Row Total",行合計
-"Qty Invoiced",領収済個数
-"Qty Shipped",出荷済個数
-"Tier Pricing","Tier Pricing"
-Edit,Edit
-"Go to Home Page","Go to Home Page"
-Products,Products
-Title,Title
-"Customer Group","Customer Group"
-Action,Action
-"Add to Cart","Add to Cart"
-Apply,Apply
-"Shopping Cart","Shopping Cart"
-Country,Country
-State/Province,State/Province
-"Payment Information","Payment Information"
-"Shipping Information","Shipping Information"
-"Shipping Method","Shipping Method"
-Item,Item
-"Clear Shopping Cart","Clear Shopping Cart"
-"Move to Wishlist","Move to Wishlist"
-City,City
-"Zip/Postal Code","Zip/Postal Code"
-"Excl. Tax","Excl. Tax"
-Company,Company
-Address,Address
-"Street Address","Street Address"
-"Phone Number","Phone Number"
-"Save in address book","Save in address book"
-Continue,Continue
-"Order #","Order #"
-"No Payment Methods","No Payment Methods"
-"Billing Address","Billing Address"
-"Shipping Address","Shipping Address"
-"Payment Method","Payment Method"
-"Incl. Tax","Incl. Tax"
-Sales,Sales
+"Qty Invoiced",請求済個数
+"Qty Shipped",配送数
+Website,ウェブサイト
+"Tier Pricing",価格層
+Edit,編集
+"Go to Home Page",ホームページへ
+Products,商品
+Title,タイトル
+"Customer Group",顧客グループ
+Action,アクション
+"Add to Cart",カートに入れる
+Apply,反映
+"Shopping Cart",ショッピングカート
+Country,国
+State/Province,都道府県
+"Payment Information",お支払情報
+"Shipping Information",配送情報
+"Shipping Method",発送方法
+Item,商品
+"Clear Shopping Cart",ショッピングカートをクリア
+"Move to Wishlist",欲しい物リストへ移動
+City,市区町村
+"Zip/Postal Code",郵便番号
+"Excl. Tax",税別
+Company,会社名
+Address,住所
+"Street Address",番地
+"Phone Number",電話番号
+"Save in address book",アドレス帳に保存
+Continue,続ける
+"Order #",ご注文番号
+"No Payment Methods",支払方法なし
+"Billing Address",請求先住所
+"Shipping Address",配送先
+"Payment Method",お支払方法
+"Incl. Tax",税込
+Sales,セールス
 Created,Created
-Select,Select
-%1,%1
-"Add New Address","Add New Address"
-Configure,Configure
+title,タイトル
+Specified,指定の
+Select,選択
+"Add New Address",住所を追加
+Configure,構成
 "Purchase Date","Purchase Date"
 "Bill-to Name","Bill-to Name"
 "Ship-to Name","Ship-to Name"
-"Order Total","Order Total"
+"Order Total",注文合計
 "Purchase Point","Purchase Point"
-Pending,Pending
-Date,Date
-"View Order","View Order"
-Template,Template
-Message,Message
-"Gift Options","Gift Options"
+"Grand Total",合計
+Pending,処理待ち
+Date,日付
+"View Order",注文の詳細を表示
+%1,%1
+Template,テンプレート
+Message,メッセージ
+"Gift Options",ギフトオプション
 "If you don't want to leave a gift message for the entire order, leave this box blank.","If you don't want to leave a gift message for the entire order, leave this box blank."
-Processing,Processing
-"Newsletter Subscription","Newsletter Subscription"
-Discount,Discount
-CSV,CSV
-"Excel XML","Excel XML"
-"Total Refunded","Total Refunded"
-Paid,Paid
-"Tax Amount","Tax Amount"
-Coupons,Coupons
-"Recently Viewed","Recently Viewed"
-"View All","View All"
-"Credit Memos","Credit Memos"
-Invoices,Invoices
+Processing,処理中
+"Newsletter Subscription",ニュースレター購読
+Discount,割引価格
+"Discount (%1)","Discount (%1)"
+"Shipping & Handling",配送料と手数料
+CSV,CSVファイル
+"Excel XML",Excel形式XML
+"Total Refunded",返金合計
+Paid,支払済
+"Tax Amount",税
+Coupons,クーポン
+"Recently Viewed",最近閲覧した商品
+"View All",全て表示
+"Credit Memos",クレジットメモ
+Invoices,請求書
 "We cannot get the order instance.","We cannot get the order instance."
-"Create New Order","Create New Order"
-"Save Order Address","Save Order Address"
-Billing,Billing
+"Create New Order",注文新規作成
+"Save Order Address",注文住所を保存
+Billing,請求書
 "Edit Order %1 %2 Address","Edit Order %1 %2 Address"
-"Order Address Information","Order Address Information"
+"Order Address Information",注文住所情報
 "Please correct the parent block for this block.","Please correct the parent block for this block."
-"Submit Comment","Submit Comment"
-"Submit Order","Submit Order"
-"Are you sure you want to cancel this order?","Are you sure you want to cancel this order?"
-"Order Comment","Order Comment"
-"Please select a customer.","Please select a customer."
-"Create New Customer","Create New Customer"
+"Submit Comment",コメント送信
+"Submit Order",注文送信
+"Are you sure you want to cancel this order?",ご注文をキャンセルしてもよろしいですか？
+"Order Comment",注文コメント
+"Please select a customer.",顧客を選択してください。
+"Create New Customer",新規顧客作成
 "Edit Order #%1","Edit Order #%1"
 "Create New Order for %1 in %2","Create New Order for %1 in %2"
 "Create New Order for New Customer in %1","Create New Order for New Customer in %1"
 "Create New Order for %1","Create New Order for %1"
-"Create New Order for New Customer","Create New Order for New Customer"
-"Items Ordered","Items Ordered"
+"Create New Order for New Customer",新規顧客の注文を新規作成する
+"Items Ordered",注文済商品
 "This product is disabled.","This product is disabled."
 "Buy %1 for price %2","Buy %1 for price %2"
-"Item ordered qty","Item ordered qty"
+"Item ordered qty",オーダーされた商品数量
 "%1 with %2 discount each","%1 with %2 discount each"
-"%1 for %2","%1 for %2"
-"* - Enter custom price including tax","* - Enter custom price including tax"
-"* - Enter custom price excluding tax","* - Enter custom price excluding tax"
-"This product does not have any configurable options","This product does not have any configurable options"
+"%1 for %2","%1 点で %2"
+"* - Enter custom price including tax","* - 税込みのカスタム価格を入力"
+"* - Enter custom price excluding tax","* - 税別のカスタム価格を入力"
+"This product does not have any configurable options",この商品は変更できるオプションを持っていません。
 "Please select products.","Please select products."
-"Add Selected Product(s) to Order","Add Selected Product(s) to Order"
-"Update Changes","Update Changes"
-"Are you sure you want to delete all items from shopping cart?","Are you sure you want to delete all items from shopping cart?"
-"Products in Comparison List","Products in Comparison List"
-"Recently Compared Products","Recently Compared Products"
-"Recently Viewed Products","Recently Viewed Products"
-"Last Ordered Items","Last Ordered Items"
+"Add Selected Product(s) to Order",選択した商品をご注文に追加する
+"Update Changes",変更内容を保存
+"Are you sure you want to delete all items from shopping cart?",ショッピングカートからすべての商品を削除してもいいですか？
+"Products in Comparison List",比較リストの商品
+"Recently Compared Products",最近比較した商品
+"Recently Viewed Products",最近閲覧した商品
+"Last Ordered Items",最終注文商品
 "Wish List","Wish List"
-"Please select a store.","Please select a store."
-"Order Totals","Order Totals"
+"Please select a store.",店舗を選択してください。
+"Order Totals",注文合計
 "Shipping Incl. Tax (%1)","Shipping Incl. Tax (%1)"
 "Shipping Excl. Tax (%1)","Shipping Excl. Tax (%1)"
 "New Credit Memo for Invoice #%1","New Credit Memo for Invoice #%1"
 "New Credit Memo for Order #%1","New Credit Memo for Order #%1"
-"Refund Shipping (Incl. Tax)","Refund Shipping (Incl. Tax)"
-"Refund Shipping (Excl. Tax)","Refund Shipping (Excl. Tax)"
-"Refund Shipping","Refund Shipping"
-"Update Qty's","Update Qty's"
-Refund,Refund
-"Refund Offline","Refund Offline"
-"Paid Amount","Paid Amount"
-"Refund Amount","Refund Amount"
-"Shipping Amount","Shipping Amount"
-"Shipping Refund","Shipping Refund"
-"Order Grand Total","Order Grand Total"
-"Adjustment Refund","Adjustment Refund"
-"Adjustment Fee","Adjustment Fee"
-"Send Email","Send Email"
+"Refund Shipping (Incl. Tax)","返金配送料 (税込)"
+"Refund Shipping (Excl. Tax)","返金配送料 (税抜)"
+"Refund Shipping",払戻配送
+"Update Qty's",個数の更新
+Refund,払戻
+"Refund Offline",オフラインで返金
+"Paid Amount",支払額
+"Refund Amount",払戻量
+"Shipping Amount",配送料金
+"Shipping Refund",配送払戻
+"Order Grand Total",注文合計
+"Adjustment Refund",払戻調整
+"Adjustment Fee",調整料
+"Send Email",メール送信
 "Are you sure you want to send a Credit memo email to customer?","Are you sure you want to send a Credit memo email to customer?"
-Void,Void
-Print,Print
+Void,無効
+Print,印刷
 "The credit memo email was sent","The credit memo email was sent"
-"the credit memo email is not sent","the credit memo email is not sent"
+"the credit memo email is not sent",クレジットメモメールは未送信です。
 "Credit Memo #%1 | %3 | %2 (%4)","Credit Memo #%1 | %3 | %2 (%4)"
-"Total Refund","Total Refund"
+"Total Refund",返金額合計
 "New Invoice and Shipment for Order #%1","New Invoice and Shipment for Order #%1"
 "New Invoice for Order #%1","New Invoice for Order #%1"
-"Submit Invoice and Shipment","Submit Invoice and Shipment"
-"Submit Invoice","Submit Invoice"
+"Submit Invoice and Shipment",請求書と配送伝票を作成
+"Submit Invoice",請求書作成
 "Are you sure you want to send an Invoice email to customer?","Are you sure you want to send an Invoice email to customer?"
-"Credit Memo","Credit Memo"
-Capture,Capture
-"the invoice email was sent","the invoice email was sent"
-"the invoice email is not sent","the invoice email is not sent"
+"Credit Memo",クレジットメモ
+Capture,計上
+"the invoice email was sent",請求書メールは送信済です
+"the invoice email is not sent",請求書メールは未送信です
 "Invoice #%1 | %2 | %4 (%3)","Invoice #%1 | %2 | %4 (%3)"
-"Invalid parent block for this block","Invalid parent block for this block"
-"Order Statuses","Order Statuses"
-"Create New Status","Create New Status"
-"Assign Status to State","Assign Status to State"
-"Save Status Assignment","Save Status Assignment"
-"Assign Order Status to State","Assign Order Status to State"
-"Assignment Information","Assignment Information"
-"Order Status","Order Status"
-"Order State","Order State"
-"Use Order Status As Default","Use Order Status As Default"
+"Invalid parent block for this block",不正な親ブロックです。
+"Order Statuses",注文ステータス
+"Create New Status",新しいステータスを作成
+"Assign Status to State",ステータスをステートに割り当てる
+"Save Status Assignment",ステータス割当を保存
+"Assign Order Status to State",注文ステータスをステートに割り当てる
+"Assignment Information",割当情報
+"Order Status",注文ステータス
+"Order State",注文ステート
+"Use Order Status As Default",注文ステータスを標準とする
 "Visible On Frontend","Visible On Frontend"
-"Edit Order Status","Edit Order Status"
-"Save Status","Save Status"
-"New Order Status","New Order Status"
-"Order Status Information","Order Status Information"
-"Status Code","Status Code"
-"Status Label","Status Label"
-"Store View Specific Labels","Store View Specific Labels"
-"Total Paid","Total Paid"
-"Total Due","Total Due"
+"Edit Order Status",注文ステータスの編集
+"Save Status",ステータスを保存
+"New Order Status",新規注文ステータス
+"Order Status Information",注文処理状況
+"Status Code",ステータスコード
+"Status Label",ステータスラベル
+"Store View Specific Labels",ストアビュー固有のラベル
+"Total Paid",支払済合計
+"Total Due",合計
 "Are you sure you want to send an order email to customer?","Are you sure you want to send an order email to customer?"
 "This will create an offline refund. ' 'To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","This will create an offline refund. ' 'To create an online refund, open an invoice and create credit memo for it. Do you want to continue?"
-"Are you sure you want to void the payment?","Are you sure you want to void the payment?"
-Hold,Hold
-hold,hold
-Unhold,Unhold
-unhold,unhold
-"Are you sure you want to accept this payment?","Are you sure you want to accept this payment?"
-"Accept Payment","Accept Payment"
-"Are you sure you want to deny this payment?","Are you sure you want to deny this payment?"
-"Deny Payment","Deny Payment"
-"Get Payment Update","Get Payment Update"
-"Invoice and Ship","Invoice and Ship"
-Invoice,Invoice
-Ship,Ship
-Reorder,Reorder
+"Are you sure you want to void the payment?",決済データを取り消してもかまいませんか？
+Hold,保留
+hold,保留
+Unhold,保留解除
+unhold,保留解除
+"Are you sure you want to accept this payment?",この支払い方法でよろしいですか？
+"Accept Payment",支払受付
+"Are you sure you want to deny this payment?",この支払いを拒否してよろしいですか？
+"Deny Payment",決済拒否
+"Get Payment Update",決済情報の更新を取得する
+"Invoice and Ship",請求と配送
+Invoice,請求書
+Ship,配送
+Reorder,再注文
 "Order # %1 %2 | %3","Order # %1 %2 | %3"
 "This order contains (%1) items and therefore cannot be edited through the admin interface. ' 'If you wish to continue editing, the (%2) items will be removed, ' ' the order will be canceled and a new order will be placed.","This order contains (%1) items and therefore cannot be edited through the admin interface. ' 'If you wish to continue editing, the (%2) items will be removed, ' ' the order will be canceled and a new order will be placed."
 "Are you sure? This order will be canceled and a new one will be created instead.","Are you sure? This order will be canceled and a new one will be created instead."
-"Save Gift Message","Save Gift Message"
-"Order Credit Memos","Order Credit Memos"
+"Save Gift Message",ギフトメッセージ
+"Order Credit Memos",注文クレジットメモ
 "Credit memo #%1 created","Credit memo #%1 created"
 "Credit memo #%1 comment added","Credit memo #%1 comment added"
 "Shipment #%1 created","Shipment #%1 created"
@@ -241,107 +243,106 @@ Reorder,Reorder
 "Invoice #%1 created","Invoice #%1 created"
 "Invoice #%1 comment added","Invoice #%1 comment added"
 "Tracking number %1 for %2 assigned","Tracking number %1 for %2 assigned"
-"Comments History","Comments History"
-"Order History","Order History"
-Information,Information
-"Order Information","Order Information"
-"Order Invoices","Order Invoices"
-Shipments,Shipments
-"Order Shipments","Order Shipments"
-Transactions,Transactions
-"Order View","Order View"
-"Applies to Any of the Specified Order Statuses","Applies to Any of the Specified Order Statuses"
-"Shopping Cart Price Rule","Shopping Cart Price Rule"
-"Show Actual Values","Show Actual Values"
-"New Order RSS","New Order RSS"
-"Shipping & Handling","Shipping & Handling"
-"Discount (%1)","Discount (%1)"
-Fetch,Fetch
+"Comments History",コメント履歴
+"Order History",注文履歴
+Information,情報
+"Order Information",注文情報
+"Order Invoices",注文請求書
+Shipments,配送
+"Order Shipments",注文を配送する
+Transactions,トランザクション
+"Order View",注文ビュー
+"Applies to Any of the Specified Order Statuses",指定した注文ステータスすべてに適用する
+"Shopping Cart Price Rule",クーポン
+"Show Actual Values",実際の値を表示
+"New Order RSS","新規注文 RSS"
+Fetch,フェッチ
 "Transaction # %1 | %2","Transaction # %1 | %2"
-Key,Key
-Value,Value
+Key,キー
+Value,値
 "We found an invalid entity model.","We found an invalid entity model."
 "Order # %1","Order # %1"
-"Back to My Orders","Back to My Orders"
-"View Another Order","View Another Order"
-"About Your Refund","About Your Refund"
-"My Orders","My Orders"
-"Subscribe to Order Status","Subscribe to Order Status"
-"About Your Invoice","About Your Invoice"
+"Back to My Orders",ご注文画面に戻る
+"View Another Order",他の注文を表示
+"About Your Refund",あなたのご返金について
+"My Orders",ご注文
+"Subscribe to Order Status",注文状態を購読
+"About Your Invoice",あなたのお支払いについて
 "Print Order # %1","Print Order # %1"
-"Grand Total to be Charged","Grand Total to be Charged"
-Unassign,Unassign
+"Grand Total to be Charged",お支払合計
+Unassign,未割り当て
 "We sent the message.","We sent the message."
-"This order no longer exists.","This order no longer exists."
+"This order no longer exists.",この注文は存在しません。
 "Comment text cannot be empty.","Comment text cannot be empty."
 "We cannot add order history.","We cannot add order history."
 "You updated the order address.","You updated the order address."
 "Something went wrong updating the order address.","Something went wrong updating the order address."
 "You canceled the order.","You canceled the order."
 "You have not canceled the item.","You have not canceled the item."
-"""%1"" coupon code is not valid.","""%1"" coupon code is not valid."
-"The coupon code has been accepted.","The coupon code has been accepted."
-"Quote item id is not received.","Quote item id is not received."
-"Quote item is not loaded.","Quote item is not loaded."
-"New Order","New Order"
+"""%1"" coupon code was not applied. Do not apply discount is selected for item(s)","""%1"" クーポンコードは未適用です。 選択された商品に値引きは適用されません。"
+"""%1"" coupon code is not valid.","""%1"" クーポンコードが正しくありません。"
+"The coupon code has been accepted.",クーポンコードを適用しました。
+"Quote item id is not received.",商品データが見つかりません。
+"Quote item is not loaded.",商品データを読み込めませんでした。
+"New Order",新しい注文
 "You created the order.","You created the order."
 "Order saving error: %1","Order saving error: %1"
-"The Comment Text field cannot be empty.","The Comment Text field cannot be empty."
-"Cannot add new comment.","Cannot add new comment."
-"The credit memo has been canceled.","The credit memo has been canceled."
+"The Comment Text field cannot be empty.",コメントを入力してください。
+"Cannot add new comment.",コメントを追加できません。
+"The credit memo has been canceled.",返金伝票をキャンセルしました。
 "You canceled the credit memo.","You canceled the credit memo."
 "New Memo for #%1","New Memo for #%1"
-"New Memo","New Memo"
-"Credit memo's total must be positive.","Credit memo's total must be positive."
+"New Memo",新規メモ
+"Credit memo's total must be positive.",クレジットメモ合計にマイナスの金額は許可されていません。
 "Cannot create online refund for Refund to Store Credit.","Cannot create online refund for Refund to Store Credit."
 "You created the credit memo.","You created the credit memo."
-"Cannot save the credit memo.","Cannot save the credit memo."
-"Cannot update the item's quantity.","Cannot update the item's quantity."
+"Cannot save the credit memo.",クレジットメモを保存できません。
+"Cannot update the item's quantity.",商品の個数を更新できません。
 "View Memo for #%1","View Memo for #%1"
-"View Memo","View Memo"
+"View Memo",メモを見る
 "You voided the credit memo.","You voided the credit memo."
 "We can't void the credit memo.","We can't void the credit memo."
-"The order no longer exists.","The order no longer exists."
-"Cannot create credit memo for the order.","Cannot create credit memo for the order."
-"Edit Order","Edit Order"
+"The order no longer exists.",この注文データは存在しません。
+"Cannot create credit memo for the order.",この注文の返金データを作成できません。
+"Edit Order",注文編集
 "You sent the order email.","You sent the order email."
 "We couldn't send the email order.","We couldn't send the email order."
 "You put the order on hold.","You put the order on hold."
 "You have not put the order on hold.","You have not put the order on hold."
 "You canceled the invoice.","You canceled the invoice."
 "Invoice canceling error","Invoice canceling error"
-"The invoice has been captured.","The invoice has been captured."
+"The invoice has been captured.",請求書を売り上げ計上しました。
 "Invoice capturing error","Invoice capturing error"
 "The order does not allow an invoice to be created.","The order does not allow an invoice to be created."
-"Cannot create an invoice without products.","Cannot create an invoice without products."
-"New Invoice","New Invoice"
+"Cannot create an invoice without products.",商品のない請求書は作成できません。
+"New Invoice",新しい請求書
 "We can't save the invoice.","We can't save the invoice."
 "The invoice and the shipment  have been created. ' 'The shipping label cannot be created now.","The invoice and the shipment  have been created. ' 'The shipping label cannot be created now."
 "You created the invoice and shipment.","You created the invoice and shipment."
-"The invoice has been created.","The invoice has been created."
+"The invoice has been created.",請求書を作成しました。
 "We can't send the invoice email.","We can't send the invoice email."
 "We can't send the shipment.","We can't send the shipment."
-"Cannot update item quantity.","Cannot update item quantity."
-"The invoice has been voided.","The invoice has been voided."
+"Cannot update item quantity.",商品点数を更新できません。
+"The invoice has been voided.",請求書を無効にしました。
 "Invoice voiding error","Invoice voiding error"
 "%1 order(s) cannot be canceled.","%1 order(s) cannot be canceled."
 "You cannot cancel the order(s).","You cannot cancel the order(s)."
 "We canceled %1 order(s).","We canceled %1 order(s)."
 "%1 order(s) were not put on hold.","%1 order(s) were not put on hold."
-"No order(s) were put on hold.","No order(s) were put on hold."
+"No order(s) were put on hold.",保留中の注文はありません。.
 "You have put %1 order(s) on hold.","You have put %1 order(s) on hold."
 "%1 order(s) were not released from on hold status.","%1 order(s) were not released from on hold status."
 "No order(s) were released from on hold status.","No order(s) were released from on hold status."
 "%1 order(s) have been released from on hold status.","%1 order(s) have been released from on hold status."
-"There are no printable documents related to selected orders.","There are no printable documents related to selected orders."
-"The payment has been accepted.","The payment has been accepted."
-"The payment has been denied.","The payment has been denied."
+"There are no printable documents related to selected orders.",印刷可能な文書は選択した注文に関連付けられていません。
+"The payment has been accepted.",支払いを受け付けました。
+"The payment has been denied.",支払いが拒否されました。
 "The payment update has been made.","The payment update has been made."
 "We couldn't update the payment.","We couldn't update the payment."
 "You have assigned the order status.","You have assigned the order status."
-"An error occurred while assigning order status. Status has not been assigned.","An error occurred while assigning order status. Status has not been assigned."
+"An error occurred while assigning order status. Status has not been assigned.",注文ステータスの割当中にエラーが発生しました。ステータスは割り当てられていません。
 "We can't find this order status.","We can't find this order status."
-"Create New Order Status","Create New Order Status"
+"Create New Order Status",新しい注文ステータスを作成
 "We found another order status with the same order status code.","We found another order status with the same order status code."
 "You have saved the order status.","You have saved the order status."
 "We couldn't add your order status because something went wrong saving.","We couldn't add your order status because something went wrong saving."
@@ -351,50 +352,49 @@ Unassign,Unassign
 "The order was not on hold.","The order was not on hold."
 "Exception occurred during order load","Exception occurred during order load"
 "Something went wrong while saving the gift message.","Something went wrong while saving the gift message."
-"The gift message has been saved.","The gift message has been saved."
-"The payment has been voided.","The payment has been voided."
+"The gift message has been saved.",ギフトメッセージを保存しました。
+"The payment has been voided.",支払いを取消しました。
 "We couldn't void the payment.","We couldn't void the payment."
 "Please correct the transaction ID and try again.","Please correct the transaction ID and try again."
-"The transaction details have been updated.","The transaction details have been updated."
+"The transaction details have been updated.",トランザクション詳細を更新しました。
 "We can't update the transaction details.","We can't update the transaction details."
-"Orders and Returns","Orders and Returns"
-"This item price or quantity is not valid for checkout.","This item price or quantity is not valid for checkout."
+"Orders and Returns",注文と返品
 "You entered incorrect data. Please try again.","You entered incorrect data. Please try again."
 "We couldn't find this wish list.","We couldn't find this wish list."
 "We could not add a product to cart by the ID ""%1"".","We could not add a product to cart by the ID ""%1""."
-"There is an error in one of the option rows.","There is an error in one of the option rows."
-"Shipping Address: ","Shipping Address: "
-"Billing Address: ","Billing Address: "
-"You need to specify order items.","You need to specify order items."
+"There is an error in one of the option rows.",オプション行にエラーがあります。
+"Shipping Address: ",配送先住所:
+"Billing Address: ",配送先住所:
+"You need to specify order items.",注文する商品を指定してください。
 "You need to specify a shipping method.","You need to specify a shipping method."
 "A payment method must be specified.","A payment method must be specified."
 "This payment method is not available.","This payment method is not available."
+"Validation is failed.","Validation is failed."
 "You did not email your customer. Please check your email settings.","You did not email your customer. Please check your email settings."
-"VAT Request Identifier","VAT Request Identifier"
-"VAT Request Date","VAT Request Date"
+"VAT Request Identifier",VATリクエスト識別番号
+"VAT Request Date",VATリクエスト日
 "The Order State ""%1"" must not be set manually.","The Order State ""%1"" must not be set manually."
 "A hold action is not available.","A hold action is not available."
 "You cannot remove the hold.","You cannot remove the hold."
 "We cannot cancel this order.","We cannot cancel this order."
 "The most money available to refund is %1.","The most money available to refund is %1."
 "We cannot register an existing credit memo.","We cannot register an existing credit memo."
-"Unknown State","Unknown State"
+"Unknown State",不明な国
 "We found an invalid quantity to refund item ""%1"".","We found an invalid quantity to refund item ""%1""."
 "Maximum shipping amount allowed to refund is: %1","Maximum shipping amount allowed to refund is: %1"
 "We cannot register an existing invoice","We cannot register an existing invoice"
 "We found an invalid quantity to invoice item ""%1"".","We found an invalid quantity to invoice item ""%1""."
-"Unknown Status","Unknown Status"
-Backordered,Backordered
-Returned,Returned
-Partial,Partial
-Mixed,Mixed
+"Unknown Status",不明なステータス
+Backordered,バックオーダー中
+Returned,返品済
+Partial,一部
+Mixed,混じった
 "An amount of %1 will be captured after being approved at the payment gateway.","An amount of %1 will be captured after being approved at the payment gateway."
 "Captured amount of %1 online","Captured amount of %1 online"
-"An order with subscription items was registered.","An order with subscription items was registered."
 "The transaction ""%1"" cannot be captured yet.","The transaction ""%1"" cannot be captured yet."
 "Order is suspended as its capture amount %1 is suspected to be fraudulent.","Order is suspended as its capture amount %1 is suspected to be fraudulent."
 "Registered notification about captured amount of %1.","Registered notification about captured amount of %1."
-"Registered a Void notification.","Registered a Void notification."
+"Registered a Void notification.",取り消し通知を登録しました。
 "If the invoice was created offline, try creating an offline credit memo.","If the invoice was created offline, try creating an offline credit memo."
 "We refunded %1 online.","We refunded %1 online."
 "We refunded %1 offline.","We refunded %1 offline."
@@ -403,48 +403,48 @@ Mixed,Mixed
 "Registered notification about refunded amount of %1.","Registered notification about refunded amount of %1."
 "Canceled order online","Canceled order online"
 "Canceled order offline","Canceled order offline"
-"Approved the payment online.","Approved the payment online."
-"There is no need to approve this payment.","There is no need to approve this payment."
-"Registered notification about approved payment.","Registered notification about approved payment."
+"Approved the payment online.",オンラインで受け付けられました。
+"There is no need to approve this payment.",この決済方法はオーソリの必要がありません。
+"Registered notification about approved payment.",承認済みの支払情報に対する通知
 "Denied the payment online","Denied the payment online"
-"There is no need to deny this payment.","There is no need to deny this payment."
-"Registered notification about denied payment.","Registered notification about denied payment."
-"Registered update about approved payment.","Registered update about approved payment."
-"Registered update about denied payment.","Registered update about denied payment."
-"There is no update for the payment.","There is no update for the payment."
+"There is no need to deny this payment.",この決済方法は拒否する必要がありません。
+"Registered notification about denied payment.",拒否済みの支払情報に対する通知登録
+"Registered update about approved payment.",承認済みの支払情報に対する更新登録
+"Registered update about denied payment.",拒否済みの支払情報に対する更新登録
+"There is no update for the payment.",この決済方法の更新情報はありません。
 "The order amount of %1 is pending approval on the payment gateway.","The order amount of %1 is pending approval on the payment gateway."
 "Ordered amount of %1","Ordered amount of %1"
 "We will authorize %1 after the payment is approved at the payment gateway.","We will authorize %1 after the payment is approved at the payment gateway."
 "Order is suspended as its authorizing amount %1 is suspected to be fraudulent.","Order is suspended as its authorizing amount %1 is suspected to be fraudulent."
 "Authorized amount of %1","Authorized amount of %1"
-"Voided authorization.","Voided authorization."
+"Voided authorization.",オーソリ情報を無効にしました
 "Amount: %1.","Amount: %1."
 "Transaction ID: ""%1""","Transaction ID: ""%1"""
 "The parent transaction ID must have a transaction ID.","The parent transaction ID must have a transaction ID."
-"Payment transactions disallow storing objects.","Payment transactions disallow storing objects."
+"Payment transactions disallow storing objects.",支払トランザクションは許可されていません。
 "The transaction ""%1"" (%2) is already closed.","The transaction ""%1"" (%2) is already closed."
-"Set order for existing transactions not allowed","Set order for existing transactions not allowed"
+"Set order for existing transactions not allowed",既に存在するトランザクションを使用して注文することは許可されていません。
 "At minimum, you need to set a payment ID.","At minimum, you need to set a payment ID."
-Authorization,Authorization
+Authorization,認証
 "We found an unsupported transaction type ""%1"".","We found an unsupported transaction type ""%1""."
 "Please set a proper payment object.","Please set a proper payment object."
 "The Transaction ID field cannot be empty.","The Transaction ID field cannot be empty."
 "You can't do this without a transaction object.","You can't do this without a transaction object."
-"Order # ","Order # "
-"Order Date: ","Order Date: "
-"Sold to:","Sold to:"
-"Ship to:","Ship to:"
-"Payment Method:","Payment Method:"
-"Shipping Method:","Shipping Method:"
-"Total Shipping Charges","Total Shipping Charges"
-Number,Number
+"Order # ","ご注文番号 "
+"Order Date: ",注文日:
+"Sold to:",販売先:
+"Ship to:",配送先:
+"Payment Method:",支払方法:
+"Shipping Method:",配送方法:
+"Total Shipping Charges",配送料合計
+Number,数
 "We found an invalid renderer model.","We found an invalid renderer model."
 "Please define the PDF object before using.","Please define the PDF object before using."
 "We don't recognize the draw line data. Please define the ""lines"" array.","We don't recognize the draw line data. Please define the ""lines"" array."
-"Total (ex)","Total (ex)"
-"Total (inc)","Total (inc)"
-"Credit Memo # ","Credit Memo # "
-"Invoice # ","Invoice # "
+"Total (ex)",合計（税抜）
+"Total (inc)",合計（税込）
+"Credit Memo # ","クレジットメモ #"
+"Invoice # ",請求書番号
 "The order object is not specified.","The order object is not specified."
 "The source object is not specified.","The source object is not specified."
 "An item object is not specified.","An item object is not specified."
@@ -456,34 +456,14 @@ Number,Number
 "The last status can't be unassigned from its current state.","The last status can't be unassigned from its current state."
 "Status can't be unassigned, because it is used by existing order(s).","Status can't be unassigned, because it is used by existing order(s)."
 "The total model should be extended from \Magento\Sales\Model\Order\Total\AbstractTotal.","The total model should be extended from \Magento\Sales\Model\Order\Total\AbstractTotal."
-"Sorry, but items with payment agreements must be ordered one at a time To continue, please remove or buy the other items in your cart, then order this item by itself.","Sorry, but items with payment agreements must be ordered one at a time To continue, please remove or buy the other items in your cart, then order this item by itself."
-"We found an invalid request for adding product to quote.","We found an invalid request for adding product to quote."
-"This is the wrong quote item id to update configuration.","This is the wrong quote item id to update configuration."
-"This shipping method is not available. To use this shipping method, please contact us.","This shipping method is not available. To use this shipping method, please contact us."
-"The address model is not defined.","The address model is not defined."
-"The address total model should be extended from \Magento\Sales\Model\Quote\Address\Total\AbstractTotal.","The address total model should be extended from \Magento\Sales\Model\Quote\Address\Total\AbstractTotal."
-"Subscription Items","Subscription Items"
-"Regular Payment","Regular Payment"
-"Shipping & Handling (%1)","Shipping & Handling (%1)"
-"We found an invalid item option format.","We found an invalid item option format."
-"An item option with code %1 already exists.","An item option with code %1 already exists."
-"Item qty declaration error","Item qty declaration error"
-"Some of the products below do not have all the required options.","Some of the products below do not have all the required options."
-"Something went wrong during the item options declaration.","Something went wrong during the item options declaration."
-"We found an item options declaration error.","We found an item options declaration error."
-"Some of the selected options are not currently available.","Some of the selected options are not currently available."
-"Selected option(s) or their combination is not currently available.","Selected option(s) or their combination is not currently available."
-"Some item options or their combination are not currently available.","Some item options or their combination are not currently available."
-"The qty value is required to update quote item.","The qty value is required to update quote item."
-"The requested Payment Method is not available.","The requested Payment Method is not available."
 "We cannot determine the field name.","We cannot determine the field name."
 "Cannot save address","Cannot save address"
 "Cannot save comment","Cannot save comment"
 "We don't have enough information to save the parent transaction ID.","We don't have enough information to save the parent transaction ID."
 "We cannot create an empty shipment.","We cannot create an empty shipment."
 "Cannot save track","Cannot save track"
-"Store Credit","Store Credit"
-"New Orders","New Orders"
+"Cannot unassing status from state","Cannot unassing status from state"
+"New Orders",新しい注文
 "Order #%1 created at %2","Order #%1 created at %2"
 "Details for %1 #%2","Details for %1 #%2"
 "Notified Date: %1","Notified Date: %1"
@@ -491,234 +471,230 @@ Number,Number
 "Current Status: %1<br/>","Current Status: %1<br/>"
 "Total: %1<br/>","Total: %1<br/>"
 "Order # %1 Notification(s)","Order # %1 Notification(s)"
-"Please check the shipping address information. %1","Please check the shipping address information. %1"
-"Please specify a shipping method.","Please specify a shipping method."
-"Please check the billing address information. %1","Please check the billing address information. %1"
-"Please select a valid payment method.","Please select a valid payment method."
-"Pending Payment","Pending Payment"
-"On Hold","On Hold"
-Complete,Complete
-Closed,Closed
-"Suspected Fraud","Suspected Fraud"
-"Payment Review","Payment Review"
-New,New
-"Changing address information will not recalculate shipping, tax or other order amount.","Changing address information will not recalculate shipping, tax or other order amount."
-"Comment Text","Comment Text"
-"Notify Customer by Email","Notify Customer by Email"
-"Visible on Frontend","Visible on Frontend"
-Notified,Notified
-"Not Notified","Not Notified"
-"Order Comments","Order Comments"
-"Apply Coupon Code","Apply Coupon Code"
-"Remove Coupon Code","Remove Coupon Code"
-"Order Currency:","Order Currency:"
-"Select from existing customer addresses:","Select from existing customer addresses:"
-"Same As Billing Address","Same As Billing Address"
+"Pending Payment",未支払
+"On Hold",保留
+Complete,完了
+Closed,クローズド
+"Suspected Fraud",詐欺の疑い
+"Payment Review",決済レビュー
+New,新規
+"Changing address information will not recalculate shipping, tax or other order amount.",住所情報を変更しても、配送料金や税金、その他の情報は変更されません。
+"Comment Text",コメントテキスト
+"Notify Customer by Email",メールで通知
+"Visible on Frontend",フロントエンドで表示する
+Notified,通知済
+"Not Notified",通知無し
+"Order Comments",注文コメント
+"Apply Coupon Code",クーポンコードを適用する
+"Remove Coupon Code",クーポンコードの削除
+"Order Currency:",注文通貨:
+"Select from existing customer addresses:",登録済の顧客と住所から選択:
+"Same As Billing Address",請求先と同じ
 "You don't need to select a shipping address.","You don't need to select a shipping address."
-"Gift Message for the Entire Order","Gift Message for the Entire Order"
-"Row Subtotal","Row Subtotal"
-"No ordered items","No ordered items"
-"Update Items and Qty's","Update Items and Qty's"
+"Gift Message for the Entire Order",この注文のギフトメッセージ
+"Row Subtotal",列小計
+"No ordered items",オーダーされていない商品
+"Update Items and Qty's",商品と数量を更新
 "Total %1 product(s)","Total %1 product(s)"
-Subtotal:,Subtotal:
-"Custom Price","Custom Price"
-"Move to Shopping Cart","Move to Shopping Cart"
-"Subscribe to Newsletter","Subscribe to Newsletter"
-"Click to change shipping method","Click to change shipping method"
+Subtotal:,小計:
+"Custom Price",カスタム価格
+"Move to Shopping Cart",ショッピングカートへ移動
+"Subscribe to Newsletter",ニュースレター購読
+"Click to change shipping method",クリックして配送方法を変更
 "Sorry, no quotes are available for this order.","Sorry, no quotes are available for this order."
-"Get shipping methods and rates","Get shipping methods and rates"
+"Get shipping methods and rates",配送方法と料金を取得する
 "You don't need to select a shipping method.","You don't need to select a shipping method."
 "Customer's Activities","Customer's Activities"
-"Add To Order","Add To Order"
-"Configure and Add to Order","Configure and Add to Order"
-"No items","No items"
-"Append Comments","Append Comments"
-"Email Order Confirmation","Email Order Confirmation"
-"Grand Total Excl. Tax","Grand Total Excl. Tax"
-"Grand Total Incl. Tax","Grand Total Incl. Tax"
-"Subtotal (Excl. Tax)","Subtotal (Excl. Tax)"
-"Subtotal (Incl. Tax)","Subtotal (Incl. Tax)"
+"Add To Order",ご注文にくわえる
+"Configure and Add to Order",オプションを選択して追加する
+"No items",商品なし
+"Append Comments",コメントを追加
+"Email Order Confirmation",注文受付メールを送信する
+"Grand Total Excl. Tax",税抜合計
+"Grand Total Incl. Tax",税込合計
+"Subtotal (Excl. Tax)","小計 (税抜)"
+"Subtotal (Incl. Tax)","小計 (税込)"
 "The order was placed using %1.","The order was placed using %1."
-"Items to Refund","Items to Refund"
-"Return to Stock","Return to Stock"
-"Qty to Refund","Qty to Refund"
-"No Items To Refund","No Items To Refund"
-"Credit Memo Comments","Credit Memo Comments"
-"Refund Totals","Refund Totals"
-"Email Copy of Credit Memo","Email Copy of Credit Memo"
+"Items to Refund",払戻商品
+"Return to Stock",在庫へ戻す
+"Qty to Refund",払戻数量
+"No Items To Refund",払戻商品無し
+"Credit Memo Comments",クレジットメモコメント
+"Refund Totals",返金合計
+"Email Copy of Credit Memo",返金完了済メールを送信する
 "Please enter a positive number in this field.","Please enter a positive number in this field."
-"Items Refunded","Items Refunded"
-"No Items","No Items"
-"Credit Memo History","Credit Memo History"
-"Credit Memo Totals","Credit Memo Totals"
+"Items Refunded",払戻された商品
+"No Items",商品なし
+"Credit Memo History",クレジットメモ履歴
+"Credit Memo Totals",クレジットメモの合計
 "Customer Name: %1","Customer Name: %1"
 "Purchased From: %1","Purchased From: %1"
-"Shipping &amp; Handling","Shipping &amp; Handling"
-"Create Shipment","Create Shipment"
+"Shipping &amp; Handling",配送料と手数料
+"Create Shipment",配送伝票作成
 "Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice."
-"Qty to Invoice","Qty to Invoice"
-"Invoice History","Invoice History"
-"Invoice Comments","Invoice Comments"
-"Invoice Totals","Invoice Totals"
-"Capture Amount","Capture Amount"
-Amount,Amount
-"Capture Online","Capture Online"
-"Capture Offline","Capture Offline"
-"Not Capture","Not Capture"
+"Qty to Invoice",請求個数
+"Invoice History",請求書履歴
+"Invoice Comments",請求書コメント
+"Invoice Totals",請求書合計
+"Capture Amount",計上金額
+Amount,金額
+"Capture Online",オンライン計上
+"Capture Offline",オフライン計上
+"Not Capture",取込無し
 "The invoice will be created offline without the payment gateway.","The invoice will be created offline without the payment gateway."
-"Email Copy of Invoice","Email Copy of Invoice"
-"Items Invoiced","Items Invoiced"
-"Total Tax","Total Tax"
-"From Name","From Name"
-"To Name","To Name"
-"Add Order Comments","Add Order Comments"
-Comment,Comment
-"Notification Not Applicable","Notification Not Applicable"
-"the order confirmation email was sent","the order confirmation email was sent"
-"the order confirmation email is not sent","the order confirmation email is not sent"
-"Order Date","Order Date"
+"Email Copy of Invoice",領収済メールを送信する
+"Items Invoiced",請求済個数
+"Total Tax",合計税
+"From Name",送信者
+"To Name",宛先
+"Add Order Comments",注文コメントを追加
+Comment,コメント
+"Notification Not Applicable",通知対象はありません
+"the order confirmation email was sent",注文確認メールは送信済みです
+"the order confirmation email is not sent",注文確認メールは未送信です
+"Order Date",注文日
 "Order Date (%1)","Order Date (%1)"
-"Purchased From","Purchased From"
-"Link to the New Order","Link to the New Order"
-"Link to the Previous Order","Link to the Previous Order"
-"Placed from IP","Placed from IP"
-"%1 / %2 rate:","%1 / %2 rate:"
-"Customer Name","Customer Name"
-"Item Status","Item Status"
-"Original Price","Original Price"
-"Tax Percent","Tax Percent"
-"Transaction Data","Transaction Data"
-"Transaction ID","Transaction ID"
-"Parent Transaction ID","Parent Transaction ID"
-"Order ID","Order ID"
-"Transaction Type","Transaction Type"
-"Is Closed","Is Closed"
-"Created At","Created At"
-"Child Transactions","Child Transactions"
-"Transaction Details","Transaction Details"
-Sku,Sku
-"Gift Message for this Order","Gift Message for this Order"
-"Shipped By","Shipped By"
-"Tracking Number","Tracking Number"
-"Billing Last Name","Billing Last Name"
-"Find Order By:","Find Order By:"
-"ZIP Code","ZIP Code"
-"Billing ZIP Code","Billing ZIP Code"
-"Print All Refunds","Print All Refunds"
-"Refund #","Refund #"
-"Print Refund","Print Refund"
-"Ship To","Ship To"
-"You have placed no orders.","You have placed no orders."
-"No shipping information available","No shipping information available"
-"Print Order","Print Order"
-"Print All Invoices","Print All Invoices"
-"Invoice #","Invoice #"
-"Print Invoice","Print Invoice"
-"About Your Order","About Your Order"
+"Purchased From",購入店舗
+"Link to the New Order",新しい注文へのリンク
+"Link to the Previous Order",前の注文へのリンク
+"Placed from IP",IPアドレス
+"%1 / %2 rate:","%1 / %2 レート:"
+"Customer Name",顧客名
+"Item Status",商品状況
+"Original Price",原価
+"Tax Percent",税率
+"Transaction Data",トランザクションデータ
+"Transaction ID",トランザクションID
+"Parent Transaction ID",親トランザクションID
+"Order ID",注文番号
+"Transaction Type",トランザクション種別
+"Is Closed",クローズ済
+"Created At",作成日
+"Child Transactions",子トランザクション
+"Transaction Details",トランザクション詳細
+Sku,商品番号
+"Gift Message for this Order",この注文のギフトメッセージ
+"Shipped By",配送元
+"Tracking Number",追跡番号
+"Billing Last Name",請求先姓
+"Find Order By:",この条件で検索:
+"ZIP Code",郵便番号
+"Billing ZIP Code",請求先郵便番号
+"Print All Refunds",すべての返金を印刷
+"Refund #",払戻番号
+"Print Refund",返金済を印刷
+"Ship To",配送先
+"You have placed no orders.",注文はありません
+"No shipping information available",有効な配送方法がありません。
+"Print Order",注文印刷
+"Print All Invoices",全ての請求書を印刷する
+"Invoice #",請求書番号
+"Print Invoice",請求書を印刷する
+"About Your Order",ご注文について
 "<span class=""label"">Order Date:</span> %1","<span class=""label"">Order Date:</span> %1"
 "Refund #%1","Refund #%1"
 "Shipment #%1","Shipment #%1"
-"Recent Orders","Recent Orders"
-"Gift Message for This Order","Gift Message for This Order"
-"Shipment Comments","Shipment Comments"
-"Add Products","Add Products"
+"Recent Orders",最近のご注文
+"Gift Message for This Order",この注文のギフトメッセージ
+"Shipment Comments",配送コメント
+"Add Products",商品を追加
 "Gift Options for ","Gift Options for "
 Ok,Ok
-"Anchor Custom Title","Anchor Custom Title"
+"Anchor Custom Title",アンカーカスタムタイトル
 Phone,Phone
-"Minimum Order Amount","Minimum Order Amount"
-"Hide Customer IP","Hide Customer IP"
+"Minimum Order Amount",最小注文金額
+"Hide Customer IP",顧客のIPを隠す
 "Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos."
-"Checkout Totals Sort Order","Checkout Totals Sort Order"
-"Allow Reorder","Allow Reorder"
-"Invoice and Packing Slip Design","Invoice and Packing Slip Design"
-"Logo for PDF Print-outs (200x50)","Logo for PDF Print-outs (200x50)"
+"Checkout Totals Sort Order",合計表示順
+"Allow Reorder",再注文を許可
+"Invoice and Packing Slip Design",請求書と納品書のデザイン
+"Logo for PDF Print-outs (200x50)","PDF印刷のロゴ (200x50)"
 "
                         Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.
                     ","
                         Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.
                     "
-"Logo for HTML Print View","Logo for HTML Print View"
+"Logo for HTML Print View",HTML印刷画面のロゴ
 "
                         Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)
                     ","
                         Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)
                     "
-"Minimum Amount","Minimum Amount"
+"Minimum Amount",最小個数
 "Subtotal after discount","Subtotal after discount"
 "Include Tax to Amount","Include Tax to Amount"
-"Description Message","Description Message"
+"Description Message",概要メッセージ
 "This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.","This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount."
-"Error to Show in Shopping Cart","Error to Show in Shopping Cart"
-"Validate Each Address Separately in Multi-address Checkout","Validate Each Address Separately in Multi-address Checkout"
-"Multi-address Description Message","Multi-address Description Message"
+"Error to Show in Shopping Cart",ショッピングカートに表示するエラーメッセージ
+"Validate Each Address Separately in Multi-address Checkout",複数配送先チェックアウトで個別に配送先を検証する
+"Multi-address Description Message",複数住所概要メッセージ
 "We'll use the default description above if you leave this empty.","We'll use the default description above if you leave this empty."
-"Multi-address Error to Show in Shopping Cart","Multi-address Error to Show in Shopping Cart"
+"Multi-address Error to Show in Shopping Cart",ショッピングカート内に表示する複数住所エラーメッセージ
 "We'll use the default error above if you leave this empty.","We'll use the default error above if you leave this empty."
-"Use Aggregated Data (beta)","Use Aggregated Data (beta)"
-"Sales Emails","Sales Emails"
-"New Order Confirmation Email Sender","New Order Confirmation Email Sender"
-"New Order Confirmation Template","New Order Confirmation Template"
-"New Order Confirmation Template for Guest","New Order Confirmation Template for Guest"
-"Send Order Email Copy To","Send Order Email Copy To"
+"Use Aggregated Data (beta)","合計データを使用する (ベータ版)"
+"Sales Emails",セールスメール
+"New Order Confirmation Email Sender",新規注文確認メール送信者
+"New Order Confirmation Template",新しい注文確認テンプレート
+"New Order Confirmation Template for Guest",ゲスト用の新しい注文確認テンプレート
+"Send Order Email Copy To",注文メールのコピー送信先
 Comma-separated,Comma-separated
-"Send Order Email Copy Method","Send Order Email Copy Method"
-"Order Comment Email Sender","Order Comment Email Sender"
-"Order Comment Email Template","Order Comment Email Template"
-"Order Comment Email Template for Guest","Order Comment Email Template for Guest"
-"Send Order Comment Email Copy To","Send Order Comment Email Copy To"
-"Send Order Comments Email Copy Method","Send Order Comments Email Copy Method"
-"Invoice Email Sender","Invoice Email Sender"
-"Invoice Email Template","Invoice Email Template"
-"Invoice Email Template for Guest","Invoice Email Template for Guest"
-"Send Invoice Email Copy To","Send Invoice Email Copy To"
-"Send Invoice Email Copy Method","Send Invoice Email Copy Method"
-"Invoice Comment Email Sender","Invoice Comment Email Sender"
-"Invoice Comment Email Template","Invoice Comment Email Template"
-"Invoice Comment Email Template for Guest","Invoice Comment Email Template for Guest"
-"Send Invoice Comment Email Copy To","Send Invoice Comment Email Copy To"
-"Send Invoice Comments Email Copy Method","Send Invoice Comments Email Copy Method"
-Shipment,Shipment
-"Shipment Email Sender","Shipment Email Sender"
-"Shipment Email Template","Shipment Email Template"
-"Shipment Email Template for Guest","Shipment Email Template for Guest"
-"Send Shipment Email Copy To","Send Shipment Email Copy To"
-"Send Shipment Email Copy Method","Send Shipment Email Copy Method"
-"Shipment Comment Email Sender","Shipment Comment Email Sender"
-"Shipment Comment Email Template","Shipment Comment Email Template"
-"Shipment Comment Email Template for Guest","Shipment Comment Email Template for Guest"
-"Send Shipment Comment Email Copy To","Send Shipment Comment Email Copy To"
-"Send Shipment Comments Email Copy Method","Send Shipment Comments Email Copy Method"
-"Credit Memo Email Sender","Credit Memo Email Sender"
-"Credit Memo Email Template","Credit Memo Email Template"
-"Credit Memo Email Template for Guest","Credit Memo Email Template for Guest"
-"Send Credit Memo Email Copy To","Send Credit Memo Email Copy To"
-"Send Credit Memo Email Copy Method","Send Credit Memo Email Copy Method"
-"Credit Memo Comment Email Sender","Credit Memo Comment Email Sender"
-"Credit Memo Comment Email Template","Credit Memo Comment Email Template"
-"Credit Memo Comment Email Template for Guest","Credit Memo Comment Email Template for Guest"
-"Send Credit Memo Comment Email Copy To","Send Credit Memo Comment Email Copy To"
-"Send Credit Memo Comments Email Copy Method","Send Credit Memo Comments Email Copy Method"
-"PDF Print-outs","PDF Print-outs"
-"Display Order ID in Header","Display Order ID in Header"
-"Customer Order Status Notification","Customer Order Status Notification"
-"Orders and Returns Search Form","Orders and Returns Search Form"
-"Default Template","Default Template"
-"PDF Credit Memos","PDF Credit Memos"
-"PDF Invoices","PDF Invoices"
-"Invoice Date","Invoice Date"
-"ZIP/Post Code","ZIP/Post Code"
+"Send Order Email Copy Method",オーダーメールコピー送信方法
+"Order Comment Email Sender",注文コメントメール送信者
+"Order Comment Email Template",注文コメントメールテンプレート
+"Order Comment Email Template for Guest",ゲスト用の注文コメントメールテンプレート
+"Send Order Comment Email Copy To",注文コメントメールのコピー送信先
+"Send Order Comments Email Copy Method",注文コメントコピーメール送信方法
+"Invoice Email Sender",請求書メール送信者
+"Invoice Email Template",請求書メールテンプレート
+"Invoice Email Template for Guest",ゲスト用の請求書メールテンプレート
+"Send Invoice Email Copy To",請求書メールのコピー送信先
+"Send Invoice Email Copy Method",請求書コピーメール送信方法
+"Invoice Comment Email Sender",請求コメントEメール送信者
+"Invoice Comment Email Template",請求書コメントメールテンプレート
+"Invoice Comment Email Template for Guest",ゲスト用の注文コメントメールテンプレート
+"Send Invoice Comment Email Copy To",請求書コメントメールのコピー送信先
+"Send Invoice Comments Email Copy Method",請求書コメントコピーメール送信方法
+Shipment,配送
+"Shipment Email Sender",配送メール送信者
+"Shipment Email Template",配送メールテンプレート
+"Shipment Email Template for Guest",ゲスト用の配送メールテンプレート
+"Send Shipment Email Copy To",配送メールコピー送信先
+"Send Shipment Email Copy Method",配送コピーメール送信方法
+"Shipment Comment Email Sender",配送コメントメール送信者
+"Shipment Comment Email Template",配送コメントメールテンプレート
+"Shipment Comment Email Template for Guest",ゲスト用の配送コメントメールテンプレート
+"Send Shipment Comment Email Copy To",配送メールコピー送信先
+"Send Shipment Comments Email Copy Method",配送コメントコピーメール送信方法
+"Credit Memo Email Sender",クレジットメモメール送信者
+"Credit Memo Email Template",クレジットメモメールテンプレート
+"Credit Memo Email Template for Guest",ゲスト用のクレジットメモメールテンプレート
+"Send Credit Memo Email Copy To",クレジットメモのメールのコピー送信先
+"Send Credit Memo Email Copy Method",クレジットメモコピーメール送信方法
+"Credit Memo Comment Email Sender",クレジットメモコメントメール送信者
+"Credit Memo Comment Email Template",クレジットメモコメントメールテンプレート
+"Credit Memo Comment Email Template for Guest",ゲスト用のクレジットメモコメントメールテンプレート
+"Send Credit Memo Comment Email Copy To",クレジットメモコメントメールのコピー送信先
+"Send Credit Memo Comments Email Copy Method",クレジットメモコメントコピーメール送信方法
+"PDF Print-outs",PDF印刷物
+"Display Order ID in Header",ヘッダにオーダーIDを表示
+"Customer Order Status Notification",顧客注文状態通知
+"Orders and Returns Search Form",注文と返品検索フォーム
+"Default Template",標準のテンプレート
+"PDF Credit Memos",PDFクレジットメモ
+"PDF Invoices",PDF請求書
+"Invoice Date",請求日
+"ZIP/Post Code",郵便番号
 "Signed-up Point","Signed-up Point"
 order-header,order-header
-"Print Invoices","Print Invoices"
+"Print Invoices",請求書印刷
 "Print Packing Slips","Print Packing Slips"
-"Print Credit Memos","Print Credit Memos"
-"Print All","Print All"
-"Print Shipping Labels","Print Shipping Labels"
+"Print Credit Memos",クレジットメモ印刷
+"Print All",すべて印刷
+"Print Shipping Labels",配送ラベルを印刷
 "Grand Total (Base)","Grand Total (Base)"
 "Grand Total (Purchased)","Grand Total (Purchased)"
 "Ship Date","Ship Date"
 "Total Quantity","Total Quantity"
-"Default Status","Default Status"
+"Default Status",標準ステータス
 "State Code and Title","State Code and Title"
 "PDF Packing Slips","PDF Packing Slips"

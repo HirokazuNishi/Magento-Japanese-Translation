@@ -1,12 +1,10 @@
 Cancel,キャンセル
 Delete,削除
-Name,Name
-System,System
-"We can't save the Cron expression.",Cronスケジュールを保存できません。
-Database,データベース
+Name,名前
+System,システム
 Time,時間
 "System Backup",システムバックアップ
-"Database and Media Backup",データベースとメディアファイルバックアップ
+"Database and Media Backup",データベースとメディアバックアップ
 "Database Backup",データベースバックアップ
 "The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","アーカイブファイルは <a href=""%1"">%2</a> を使ってWindows上で展開できます。"
 "You need more permissions to activate maintenance mode right now.",メンテナンスモードを今有効にするには、パーミッションの設定を見直す必要があります。
@@ -26,14 +24,15 @@ successful,成功
 "To continue with the rollback, you need to either deselect ' '""Put store on the maintenance mode"" or update your permissions.","ロールバックを続けるには、' '""ストアをメンテナンスモードにする"" のチェックを外すか、パーミッションの設定を見直す必要があります。"
 "The backup file was not found.",バックアップファイルが見つかりませんでした。
 "We couldn't connect to the FTP.",FTPサーバーに接続できませんでした。
-"Failed to validate FTP",FTPサーバーへの接続チェックに失敗しました
+"Failed to validate FTP",FTP接続の検証に失敗しました
 "Not enough permissions to perform rollback.",ロールバックの実行に必要な権限が不足しています。
-"Failed to rollback",ロールバックに失敗しました。
-"Database and Media",データベースとメディアファイル
-"System (excluding Media)","システム (メディアファイル以外)"
-"The system backup has been created.",システムバックアップを作成しました。
+"Failed to rollback",ロールバックに失敗しました
+Database,データベース
+"Database and Media",データベースとメディア
+"System (excluding Media)","システム (メディア以外)"
+"The system backup has been created.",システムバックアップを作成しました
 "The system backup (excluding media) has been created.","システムバックアップ (メディアファイル以外) を作成しました。"
-"The database and media backup has been created.",データベースとメディアファイルバックアップを作成しました。
+"The database and media backup has been created.",データベースとメディアファイルのバックアップを作成しました。
 "The database backup has been created.",データベースバックアップを作成しました。
 "Please correct the order of creation for a new backup.",新しいバックアップを作成する設定を修正してください。
 "The backup file does not exist.",バックアップファイルがありません。
@@ -42,8 +41,9 @@ successful,成功
 "Sorry, but we cannot read from or write to backup file ""%1"".","申し訳ありません、 バックアップファイル ""%1"" の読み込みまたは書き込みができません。"
 "The backup file handler was unspecified.",バックアップファイルハンドラが未指定です。
 "Something went wrong writing to the backup file ""%1"".","バックアップファイル ""%1"" の書き込み中にエラーが発生しました。"
+"We can't save the Cron expression.","We can't save the Cron expression."
 Warning,警告
-"Any data created since the backup was made will be lost including admin users, customers and orders.",バックアップが作成されてから以降のデータ（管理者ユーザー、顧客、注文など）は失われます。
+"Any data created since the backup was made will be lost including admin users, customers and orders.",バックアップを作成以降の管理ユーザー、顧客データ、注文データなどの全てのデータは失われます。
 "Are you sure you want to proceed?",続けてもよろしいですか？
 OK,OK
 "It will take time to create a backup.",バックアップの作成には時間がかかります。
@@ -52,30 +52,30 @@ OK,OK
 "Backup options",バックアップオプション
 "Please specify backup creation option.",バックアップ作成オプションを指定してください。
 "Backup Name",バックアップ名
-"Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.",半角英数字のみをこの項目に入力してください。
+"Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.",半角英数字またはスペースを使用してください。
 "Please put your store into maintenance mode during backup.",バックアップ中はストアをメンテナンスモードにしてください。
-"Exclude media folder from backup",バックアップからメディアフォルダを除外する
+"Exclude media folder from backup",メディアフォルダをバックアップから除外する
 "Please enter a password.",パスワードを入力してください。
 "Please enter the password to confirm rollback.",ロールバックの実行前にパスワードを入力してください。
-"This action cannot be undone.",この処理は取り消せません。
-"User Password",ユーザーパスワード
+"This action cannot be undone.",このアクションは取り消せません。
+"User Password",パスワード
 "Please put your store into maintenance mode during rollback processing.",ロールバックの処理中はストアをメンテナンスモードにしてください。
 "Use FTP Connection",FTP接続を使用
-"FTP credentials",FTP認証情報
+"FTP credentials",FTP証明書
 "FTP Host",FTPホスト
 "FTP Login",FTPログインID
 "FTP Password",FTPパスワード
 "Magento root directory",Magentoルートディレクトリ
 "Create Backup",バックアップ作成
-Type,Type
-Action,Action
-Download,Download
-"Scheduled Backup Settings","Scheduled Backup Settings"
-"Enable Scheduled Backup","Enable Scheduled Backup"
-"Backup Type","Backup Type"
-"Start Time","Start Time"
-Frequency,Frequency
-"Maintenance Mode","Maintenance Mode"
-"Are you sure you want to delete the selected backup(s)?","Are you sure you want to delete the selected backup(s)?"
+Type,タイプ
+Action,アクション
+Download,ダウンロード
+"Scheduled Backup Settings",定期バックアップ設定
+"Enable Scheduled Backup",スケジュールバックアップを有効にする
+"Backup Type",バックアップ種別
+"Start Time",開始時間
+Frequency,頻度
+"Maintenance Mode",メンテナンスモード
+"Are you sure you want to delete the selected backup(s)?",選択したバックアップを削除してもいいですか?
 Size(bytes),Size(bytes)
-Rollback,Rollback
+Rollback,ロールバック

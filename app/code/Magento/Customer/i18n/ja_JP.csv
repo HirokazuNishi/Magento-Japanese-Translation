@@ -1,245 +1,244 @@
 Cancel,キャンセル
-"New Customers",新規顧客
+"New Customers",まだご登録いただいていないお客様
 Customers,顧客
 Customer,顧客
 "Grand Total",合計
-"Lifetime Sales",売上高
-Total,合計
+"Lifetime Sales",セール期間
 Product,商品
-Price,Price
+Price,価格
 Quantity,数量
 "All Store Views",全てのストアビュー
-"My Account",マイ・アカウント
+"My Account",マイアカウント
 "Account Information",アカウント情報
-Email,メールアドレス
-"New Password",新しいパスワード
-"Delete File",ファイル削除
+Email,Eメール
+"New Password",新規パスワード
 Back,戻る
 Delete,削除
 Save,保存
-Store,Store
+Store,店舗
 "-- Please Select --","-- 選択してください --"
 Yes,Yes
 No,No
 "Web Site",ウェブサイト
-Name,Name
-Status,ステータス
-"Save and Continue Edit",保存して編集を続ける
+Name,名前
+Status,状態
 Reset,リセット
-"Are you sure you want to do this?",実行してもよろしいですか?
+"Are you sure you want to do this?",実行してもよろしいですか？
 Submit,送信
 "Store View",ストアビュー
 Order,注文
-"Customer View",顧客表示
+"Customer View",顧客照会
 "Personal Information",個人情報
 View,表示
 ID,ID
-SKU,SKU
+SKU,商品番号
 "* Required Fields","* 必須項目"
 Qty,個数
 label,ラベル
+"Save and Continue Edit",保存して編集を続ける
 Global,グローバル
-Change,Change
-Edit,Edit
+Change,変更
+Edit,編集
 "A total of %1 record(s) were updated.","A total of %1 record(s) were updated."
-"Customer Group","Customer Group"
-Action,Action
-"Customer Groups","Customer Groups"
-Country,Country
-State/Province,State/Province
-"Please select region, state or province","Please select region, state or province"
-City,City
-"Zip/Postal Code","Zip/Postal Code"
-Company,Company
-"VAT Number","VAT Number"
-Address,Address
-"Street Address","Street Address"
+"Customer Group",顧客グループ
+Action,アクション
+"Customer Groups",顧客グループ
+Country,国
+State/Province,都道府県
+"Please select region, state or province",都道府県を選択してください
+City,市区町村
+"Zip/Postal Code",郵便番号
+Company,会社名
+"VAT Number",VAT番号
+Address,住所
+"Street Address",番地
 "Street Address %1","Street Address %1"
-"Phone Number","Phone Number"
-Fax,Fax
-Password,Password
-"Confirm Password","Confirm Password"
-Register,Register
-Login,Login
-"Forgot Your Password?","Forgot Your Password?"
-"Billing Address","Billing Address"
-"Shipping Address","Shipping Address"
-"Log Out","Log Out"
-"Log In","Log In"
+"Phone Number",電話番号
+Fax,FAX番号
+Password,パスワード
+"Confirm Password",パスワード再確認
+Register,新規登録
+Login,ログイン
+"Forgot Your Password?",パスワードをお忘れですか？
+"Billing Address",請求先住所
+"Shipping Address",配送先
+"Delete File",ファイルを削除
+"Log Out",ログアウト
+"Log In",ログイン
 "You subscribe to our newsletter.","You subscribe to our newsletter."
-"You are currently not subscribed to our newsletter.","You are currently not subscribed to our newsletter."
-"You have not set a default shipping address.","You have not set a default shipping address."
-"You have not set a default billing address.","You have not set a default billing address."
-"Address Book","Address Book"
-"Edit Address","Edit Address"
-"Add New Address","Add New Address"
-region,region
-"Add New Customer","Add New Customer"
-"Create Order","Create Order"
-"Save Customer","Save Customer"
-"Delete Customer","Delete Customer"
-"Reset Password","Reset Password"
+"You are currently not subscribed to our newsletter.",ニュースレターをご購読いただいておりません。
+"You have not set a default shipping address.",標準の配送先を指定してください。
+"You have not set a default billing address.",標準のご請求先が指定されていません。
+"Address Book",アドレス帳
+"Edit Address",住所の編集
+"Add New Address",住所を追加
+region,地域
+"Add New Customer",新規顧客の追加
+"Create Order",注文作成
+"Save Customer",保存
+"Delete Customer",顧客の削除
+"Reset Password",パスワード再発行
 "Are you sure you want to revoke the customer's tokens?","Are you sure you want to revoke the customer's tokens?"
 "Force Sign-In","Force Sign-In"
-"New Customer","New Customer"
-"or ","or "
-" Send auto-generated password"," Send auto-generated password"
+"New Customer",新規顧客
+"or ","または "
+" Send auto-generated password",自動生成したパスワードを送信
 "Please select","Please select"
-"Send Welcome Email","Send Welcome Email"
-"Send From","Send From"
-"Send Welcome Email after Confirmation","Send Welcome Email after Confirmation"
-"Delete Address","Delete Address"
-"Edit Customer's Address","Edit Customer's Address"
-Configure,Configure
+"Send Welcome Email",ウェルカムメールを送信する
+"Send From",送信元
+"Send Welcome Email after Confirmation",ウェルカムメールを確認後に送信する
+"Delete Address",住所の削除
+"Edit Customer's Address",顧客の住所を編集
+Configure,構成
 "Shopping Cart from %1","Shopping Cart from %1"
-Newsletter,Newsletter
-"Newsletter Information","Newsletter Information"
+Newsletter,ニュースレター
+"Newsletter Information",ニュースレター情報
 "Subscribed to Newsletter","Subscribed to Newsletter"
-"Last Date Subscribed","Last Date Subscribed"
-"Last Date Unsubscribed","Last Date Unsubscribed"
-"No Newsletter Found","No Newsletter Found"
+"Last Date Subscribed",最終購読日
+"Last Date Unsubscribed",最終購読解除日
+"No Newsletter Found",ニュースレターが見つかりませんでした
 "Start date","Start date"
 "End Date","End Date"
 "Receive Date","Receive Date"
-Subject,Subject
-Sent,Sent
-"Not Sent","Not Sent"
-Sending,Sending
-Paused,Paused
-Unknown,Unknown
+Subject,件名
+Sent,送信済
+"Not Sent",未送信
+Sending,送信中
+Paused,ポーズ
+Unknown,不明
 "Purchase Date","Purchase Date"
 "Bill-to Name","Bill-to Name"
 "Ship-to Name","Ship-to Name"
-"Order Total","Order Total"
+"Order Total",注文合計
 "Purchase Point","Purchase Point"
-"There are no items in customer's shopping cart at the moment","There are no items in customer's shopping cart at the moment"
+"There are no items in customer's shopping cart at the moment",顧客のショッピングカートに商品がありません
 "Shipped-to Name","Shipped-to Name"
-Confirmed,Confirmed
+Confirmed,確認
 "Confirmation Required","Confirmation Required"
 "Confirmation Not Required","Confirmation Not Required"
 Indeterminate,Indeterminate
-"The customer does not have default billing address.","The customer does not have default billing address."
-"Deleted Stores","Deleted Stores"
-"There are no items in customer's wishlist at the moment","There are no items in customer's wishlist at the moment"
+"The customer does not have default billing address.",この顧客は標準の請求先を登録していません。
+"Deleted Stores",ストアを削除
+"There are no items in customer's wishlist at the moment",現在顧客の欲しい物リストに商品がありません
 "Add Locale","Add Locale"
 "Add Date","Add Date"
 "Days in Wish List","Days in Wish List"
-Download,Download
-"Delete Image","Delete Image"
-"View Full Size","View Full Size"
-"All countries","All countries"
-"Add New Customer Group","Add New Customer Group"
-"Save Customer Group","Save Customer Group"
-"Delete Customer Group","Delete Customer Group"
-"New Customer Group","New Customer Group"
+Download,ダウンロード
+"Delete Image",画像を削除
+"View Full Size",フルサイズで表示
+"All countries",全ての国
+"Add New Customer Group",新規顧客グループの追加
+"Save Customer Group",保存
+"Delete Customer Group",顧客グループの削除
+"New Customer Group",新規顧客グループ
 "Edit Customer Group ""%1""","Edit Customer Group ""%1"""
-"Group Information","Group Information"
-"Group Name","Group Name"
+"Group Information",グループ情報
+"Group Name",グループ名
 "Maximum length must be less then %1 symbols","Maximum length must be less then %1 symbols"
-"Tax Class","Tax Class"
-"The customer is currently assigned to Customer Group %s.","The customer is currently assigned to Customer Group %s."
-"Would you like to change the Customer Group for this order?","Would you like to change the Customer Group for this order?"
+"Tax Class",税区分
+"The customer is currently assigned to Customer Group %s.","顧客は既にグループ %s に割り当てられています。"
+"Would you like to change the Customer Group for this order?",この注文の顧客グループを変更しますか？
 "The VAT ID is valid.","The VAT ID is valid."
-"The VAT ID entered (%s) is not a valid VAT ID.","The VAT ID entered (%s) is not a valid VAT ID."
-"The VAT ID is valid. The current Customer Group will be used.","The VAT ID is valid. The current Customer Group will be used."
+"The VAT ID entered (%s) is not a valid VAT ID.","VAT番号 (%s) が不正です。"
+"The VAT ID is valid. The current Customer Group will be used.","正しいVAT番号です。 現在のグループが使用されます。"
 "The VAT ID is valid but no Customer Group is assigned for it.","The VAT ID is valid but no Customer Group is assigned for it."
-"Based on the VAT ID, the customer would belong to the Customer Group %s.","Based on the VAT ID, the customer would belong to the Customer Group %s."
+"Based on the VAT ID, the customer would belong to the Customer Group %s.","VAT IDに基づいて、顧客はグループ %s に割り当てられます。"
 "There was an error validating the VAT ID. ","There was an error validating the VAT ID. "
 "The customer would belong to Customer Group %s.","The customer would belong to Customer Group %s."
 "There was an error detecting Customer Group.","There was an error detecting Customer Group."
-"Validate VAT Number","Validate VAT Number"
-"Customer Login","Customer Login"
-"Create New Customer Account","Create New Customer Account"
-"Date of Birth","Date of Birth"
-"Bad request.","Bad request."
+"Validate VAT Number",VAT番号検証
+"Customer Login",ログイン
+"Create New Customer Account",新規顧客アカウントを作成
+"Date of Birth",生年月日
+"Bad request.",不正なリクエスト。
 "This confirmation key is invalid or has expired.","This confirmation key is invalid or has expired."
 "There was an error confirming the account","There was an error confirming the account"
 "If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter you shipping address for proper VAT calculation","If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter you shipping address for proper VAT calculation"
 "If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter you billing address for proper VAT calculation","If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter you billing address for proper VAT calculation"
 "Thank you for registering with %1.","Thank you for registering with %1."
-"Please, check your email for confirmation key.","Please, check your email for confirmation key."
-"This email does not require confirmation.","This email does not require confirmation."
-"Wrong email.","Wrong email."
-"Your password reset link has expired.","Your password reset link has expired."
+"Please, check your email for confirmation key.",メールの確認キーを入力してください。
+"This email does not require confirmation.",このメールアドレスは確認を必要としません。
+"Wrong email.",間違ったメールアドレス
+"Your password reset link has expired.",パスワード再発行リンクが有効期限切れです。
 "Account confirmation is required. Please, check your email for the confirmation link. To resend the confirmation email please <a href=""%1"">click here</a>.","Account confirmation is required. Please, check your email for the confirmation link. To resend the confirmation email please <a href=""%1"">click here</a>."
 "There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account."
-"Cannot save the customer.","Cannot save the customer."
+"Cannot save the customer.",顧客データを保存できません。
 "A problem was encountered trying to change password.","A problem was encountered trying to change password."
 "Confirm your new password","Confirm your new password"
-"New password field cannot be empty.","New password field cannot be empty."
+"New password field cannot be empty.",新しいパスワードを入力してください。
 "Invalid input","Invalid input"
-"The account information has been saved.","The account information has been saved."
+"The account information has been saved.",お客様の情報を保存しました。
 "Please correct the email address.","Please correct the email address."
 "Unable to send password reset email.","Unable to send password reset email."
 "If there is an account associated with %1 you will receive an email with a link to reset your password.","If there is an account associated with %1 you will receive an email with a link to reset your password."
-"Please enter your email.","Please enter your email."
+"Please enter your email.",メールアドレスを入力してください。
 "This account is not confirmed.' ' <a href=""%1"">Click here</a> to resend confirmation email.","This account is not confirmed.' ' <a href=""%1"">Click here</a> to resend confirmation email."
-"Invalid login or password.","Invalid login or password."
+"Invalid login or password.",ログイン名かパスワードが違います。
 "There was an error validating the login and password.","There was an error validating the login and password."
-"Login and password are required.","Login and password are required."
+"Login and password are required.",ログインとパスワードが必要です。
 "New Password and Confirm New Password values didn't match.","New Password and Confirm New Password values didn't match."
-"Your password has been updated.","Your password has been updated."
+"Your password has been updated.",パスワードを更新しました。
 "There was an error saving the new password.","There was an error saving the new password."
-"The address has been deleted.","The address has been deleted."
-"An error occurred while deleting the address.","An error occurred while deleting the address."
-"The address has been saved.","The address has been saved."
-"Cannot save address.","Cannot save address."
+"The address has been deleted.",住所を削除しました。
+"An error occurred while deleting the address.",住所の削除中にエラーが発生しました。
+"The address has been saved.",住所を保存しました。
+"Cannot save address.",住所を保存できません。
 "No customer ID defined.","No customer ID defined."
 "Please correct the quote items and try again.","Please correct the quote items and try again."
 "You have revoked the customer's tokens.","You have revoked the customer's tokens."
 "We can't find a customer to revoke.","We can't find a customer to revoke."
-"The customer group has been deleted.","The customer group has been deleted."
+"The customer group has been deleted.",顧客グループを削除しました。
 "The customer group no longer exists.","The customer group no longer exists."
-"New Group","New Group"
-"New Customer Groups","New Customer Groups"
-"Edit Group","Edit Group"
-"Edit Customer Groups","Edit Customer Groups"
-"The customer group has been saved.","The customer group has been saved."
-"Please select customer(s).","Please select customer(s)."
+"New Group",新規グループ
+"New Customer Groups",新規顧客グループ
+"Edit Group",グループの編集
+"Edit Customer Groups",顧客グループを編集
+"The customer group has been saved.",顧客グループを保存しました。
+"Please select customer(s).",顧客を選択してください。
 "You deleted the customer.","You deleted the customer."
 "An error occurred while editing the customer.","An error occurred while editing the customer."
-"Manage Customers","Manage Customers"
+"Manage Customers",顧客管理
 "A total of %1 record(s) were deleted.","A total of %1 record(s) were deleted."
 "Customer will receive an email with a link to reset password.","Customer will receive an email with a link to reset password."
 "An error occurred while resetting customer password.","An error occurred while resetting customer password."
 "You saved the customer.","You saved the customer."
-"An error occurred while saving the customer.","An error occurred while saving the customer."
+"An error occurred while saving the customer.",顧客を保存中にエラーが発生しました。
 "No wishlist item ID is defined.","No wishlist item ID is defined."
 "Please load the wish list item.","Please load the wish list item."
 "There was an error validating the username and password.","There was an error validating the username and password."
 "Login successful.","Login successful."
-"Wrong transactional account email type","Wrong transactional account email type"
-"Please enter the first name.","Please enter the first name."
-"Please enter the last name.","Please enter the last name."
-"Please enter the street.","Please enter the street."
-"Please enter the city.","Please enter the city."
+"Wrong transactional account email type",不正な取引メールアカウントです
+"Please enter the first name.",名を入力してください。
+"Please enter the last name.",姓を入力してください。
+"Please enter the street.",住所を入力してください。
+"Please enter the city.",市区町村を入力してください。
 "Please enter the phone number.","Please enter the phone number."
-"Please enter the zip/postal code.","Please enter the zip/postal code."
-"Please enter the country.","Please enter the country."
-"Please enter the state/province.","Please enter the state/province."
-"""%1"" is a required value.","""%1"" is a required value."
-"Per Website","Per Website"
-"Cannot share customer accounts globally because some customer accounts with the same emails exist on multiple websites and cannot be merged.","Cannot share customer accounts globally because some customer accounts with the same emails exist on multiple websites and cannot be merged."
-"This account is not confirmed.","This account is not confirmed."
-"The first name cannot be empty.","The first name cannot be empty."
-"The last name cannot be empty.","The last name cannot be empty."
+"Please enter the zip/postal code.",郵便番号を入力してください。
+"Please enter the country.",国を入力してください。
+"Please enter the state/province.",都道府県を入力してください。
+"""%1"" is a required value.","""%1"" は必須です。"
+"Per Website",ウェブサイトごと
+"Cannot share customer accounts globally because some customer accounts with the same emails exist on multiple websites and cannot be merged.",顧客アカウントを全体で共有できません。何人かのメールアドレスが複数のサイトで登録されていて、名寄せできません。
+"This account is not confirmed.",このアカウントは認証されていません。
+"The first name cannot be empty.",名を入力してください。
+"The last name cannot be empty.",姓を入力してください。
 "Please correct this email address: ""%1"".","Please correct this email address: ""%1""."
-"The Date of Birth is required.","The Date of Birth is required."
-"The TAX/VAT number is required.","The TAX/VAT number is required."
-"Gender is required.","Gender is required."
-"Invalid password reset token.","Invalid password reset token."
+"The Date of Birth is required.",誕生日は必須項目です。
+"The TAX/VAT number is required.",納税者番号は必須項目です。
+"Gender is required.",性別は必須項目です。
+"Invalid password reset token.",不正なパスワードリセットトークン。
 "The password must have at least %1 characters.","The password must have at least %1 characters."
 "The password can not begin or end with a space.","The password can not begin or end with a space."
-Admin,Admin
-"Attribute object is undefined","Attribute object is undefined"
-"""%1"" invalid type entered.","""%1"" invalid type entered."
-"""%1"" contains non-alphabetic or non-numeric characters.","""%1"" contains non-alphabetic or non-numeric characters."
-"""%1"" is an empty string.","""%1"" is an empty string."
-"""%1"" contains non-numeric characters.","""%1"" contains non-numeric characters."
-"""%1"" contains non-alphabetic characters.","""%1"" contains non-alphabetic characters."
-"""%1"" is not a valid email address.","""%1"" is not a valid email address."
-"""%1"" is not a valid hostname.","""%1"" is not a valid hostname."
-"""%1"" exceeds the allowed length.","""%1"" exceeds the allowed length."
+Admin,管理者
+"Attribute object is undefined",属性オブジェクトが未定義です
+"""%1"" invalid type entered.","""%1"" に不正な値が入力されました。"
+"""%1"" contains non-alphabetic or non-numeric characters.","""%1"" は半角英数字以外の文字を含んでいます。"
+"""%1"" is an empty string.","""%1"" は空の文字列です。"
+"""%1"" contains non-numeric characters.","""%1"" は半角数字以外を含んでいます。"
+"""%1"" contains non-alphabetic characters.","""%1"" は半角英字以外の文字を含んでいます。"
+"""%1"" is not a valid email address.","""%1"" は正しくないメールアドレスです。"
+"""%1"" is not a valid hostname.","""%1"" は正しくないホスト名です。"
+"""%1"" exceeds the allowed length.","""%1"" は許可された長さを超過しています。"
 "'%value%' appears to be an IP address, but IP addresses are not allowed.","'%value%' appears to be an IP address, but IP addresses are not allowed."
 "'%value%' appears to be a DNS hostname but cannot match TLD against known list.","'%value%' appears to be a DNS hostname but cannot match TLD against known list."
 "'%value%' appears to be a DNS hostname but contains a dash in an invalid position.","'%value%' appears to be a DNS hostname but contains a dash in an invalid position."
@@ -248,146 +247,144 @@ Admin,Admin
 "'%value%' does not appear to be a valid local network name.","'%value%' does not appear to be a valid local network name."
 "'%value%' appears to be a local network name but local network names are not allowed.","'%value%' appears to be a local network name but local network names are not allowed."
 "'%value%' appears to be a DNS hostname but the given punycode notation cannot be decoded.","'%value%' appears to be a DNS hostname but the given punycode notation cannot be decoded."
-"""%1"" is not a valid URL.","""%1"" is not a valid URL."
-"""%1"" is not a valid date.","""%1"" is not a valid date."
-"""%1"" does not fit the entered date format.","""%1"" does not fit the entered date format."
+"""%1"" is not a valid URL.","""%1"" は正しくないURLです。"
+"""%1"" is not a valid date.","""%1"" は正しくない日付です。"
+"""%1"" does not fit the entered date format.","""%1"" は入力された日付の形式に一致しません。"
 "Please enter a valid date between %1 and %2 at %3.","Please enter a valid date between %1 and %2 at %3."
 "Please enter a valid date equal to or greater than %1 at %2.","Please enter a valid date equal to or greater than %1 at %2."
 "Please enter a valid date less than or equal to %1 at %2.","Please enter a valid date less than or equal to %1 at %2."
-"""%1"" is not a valid file extension.","""%1"" is not a valid file extension."
-"""%1"" is not a valid file.","""%1"" is not a valid file."
-"""%1"" exceeds the allowed file size.","""%1"" exceeds the allowed file size."
-"""%1"" is not a valid image format.","""%1"" is not a valid image format."
-"""%1"" width exceeds allowed value of %2 px.","""%1"" width exceeds allowed value of %2 px."
-"""%1"" height exceeds allowed value of %2 px.","""%1"" height exceeds allowed value of %2 px."
-"""%1"" length must be equal or greater than %2 characters.","""%1"" length must be equal or greater than %2 characters."
-"""%1"" length must be equal or less than %2 characters.","""%1"" length must be equal or less than %2 characters."
-"Customer email is required","Customer email is required"
+"""%1"" is not a valid file extension.","""%1"" は正しくないファイル拡張子です。"
+"""%1"" is not a valid file.","""%1"" ふぁ正しくないファイルです。"
+"""%1"" exceeds the allowed file size.","""%1"" は許可されたファイルサイズを超過しています。"
+"""%1"" is not a valid image format.","""%1"" は正しくない画像フォーマットです。"
+"""%1"" width exceeds allowed value of %2 px.","""%1"" の幅は許可された値 %2 ピクセルを超過しています。"
+"""%1"" height exceeds allowed value of %2 px.","""%1"" の高さは許可された値 %2 ピクセルを超過しています。"
+"""%1"" length must be equal or greater than %2 characters.","""%1"" の長さは %2 文字以上でなければなりません。"
+"""%1"" length must be equal or less than %2 characters.","""%1"" の長さは %2 文字以下でなければなりません。"
+"Customer email is required",メールアドレスが必要です。
 "Customer with the same email already exists in associated website.","Customer with the same email already exists in associated website."
-"Customer website ID must be specified when using the website scope","Customer website ID must be specified when using the website scope"
-Visitor,Visitor
+"Customer website ID must be specified when using the website scope",ウェブサイトごとに顧客管理をする場合には顧客データにウェブサイトIDが必要です。
+Visitor,訪問者
 "The group ""%1"" cannot be deleted","The group ""%1"" cannot be deleted"
 "Customer Group already exists.","Customer Group already exists."
-"PHP SOAP extension is required.","PHP SOAP extension is required."
-"VAT Number is Invalid","VAT Number is Invalid"
-"VAT Number is Valid","VAT Number is Valid"
-"Customer Addresses","Customer Addresses"
-"Are you sure you want to delete this address?","Are you sure you want to delete this address?"
-"Set as Default Billing Address","Set as Default Billing Address"
-"Default Billing Address","Default Billing Address"
-"Set as Default Shipping Address","Set as Default Shipping Address"
-"Default Shipping Address","Default Shipping Address"
-"New Customer Address","New Customer Address"
-"No item specified.","No item specified."
-"Are you sure that you want to remove this item?","Are you sure that you want to remove this item?"
-"Confirmed email:","Confirmed email:"
-"Account Created on:","Account Created on:"
+"PHP SOAP extension is required.","PHP SOAPエクステンションが必要です。"
+"VAT Number is Invalid",VAT番号が不正です
+"VAT Number is Valid",VAT番号を確認しました
+"Customer Addresses",顧客住所
+"Are you sure you want to delete this address?",この住所を削除してもよろしいですか？
+"Set as Default Billing Address",標準の請求先住所に設定する
+"Default Billing Address",標準の請求先住所
+"Set as Default Shipping Address",標準の配送先住所に設定する
+"Default Shipping Address",標準の配送先
+"New Customer Address",新規顧客住所
+"No item specified.",アイテムが指定されていません。
+"Are you sure that you want to remove this item?",このアイテムを削除してもよろしいですか？
+"Confirmed email:",確認メール:
+"Account Created on:",アカウント作成元:
 "Account Created on (%1):","Account Created on (%1):"
-"Account Created in:","Account Created in:"
-"Customer Group:","Customer Group:"
-"Sales Statistics","Sales Statistics"
-"Average Sale","Average Sale"
-"Manage Addresses","Manage Addresses"
-"Contact Information","Contact Information"
-"Change Password","Change Password"
-Newsletters,Newsletters
-"You are currently subscribed to 'General Subscription'.","You are currently subscribed to 'General Subscription'."
-"You are currently not subscribed to any newsletter.","You are currently not subscribed to any newsletter."
-"Default Addresses","Default Addresses"
-"Change Billing Address","Change Billing Address"
-"You have no default billing address in your address book.","You have no default billing address in your address book."
-"Change Shipping Address","Change Shipping Address"
-"You have no default shipping address in your address book.","You have no default shipping address in your address book."
-"Additional Address Entries","Additional Address Entries"
-"You have no additional address entries in your address book.","You have no additional address entries in your address book."
-"Use as my default billing address","Use as my default billing address"
-"Use as my default shipping address","Use as my default shipping address"
-"Save Address","Save Address"
+"Account Created in:",作成されたアカウント:
+"Customer Group:",顧客グループ:
+"Sales Statistics",売上情報
+"Average Sale",平均売上
+"Manage Addresses",住所の管理
+"Contact Information",ご連絡先
+"Change Password",パスワード変更
+Newsletters,ニュースレター
+"You are currently subscribed to 'General Subscription'.",ニュースレターをご購読中です。
+"You are currently not subscribed to any newsletter.",ニュースレターをご購読いただいておりません。
+"Default Addresses",標準の住所
+"Change Billing Address",請求先住所変更
+"You have no default billing address in your address book.",標準の請求先が住所録にありません。
+"Change Shipping Address",配送先変更
+"You have no default shipping address in your address book.",標準の配送先が住所録にありません。
+"Additional Address Entries",追加住所登録
+"You have no additional address entries in your address book.",その他の住所データがありません。
+"Use as my default billing address",標準の請求先住所にする
+"Use as my default shipping address",標準の配送先住所にする
+"Save Address",保存
 "Go back","Go back"
 "Please enter your email below and we will send you the confirmation link for it.","Please enter your email below and we will send you the confirmation link for it."
-"Send confirmation link","Send confirmation link"
-"Back to Login","Back to Login"
-"Current Password","Current Password"
-"Confirm New Password","Confirm New Password"
-"Please enter your email address below. You will receive a link to reset your password.","Please enter your email address below. You will receive a link to reset your password."
-"Registered Customers","Registered Customers"
+"Send confirmation link",認証リンクを送信
+"Back to Login",ログイン画面に戻る
+"Current Password",現在のパスワード
+"Confirm New Password",新しいパスワードの確認
+"Please enter your email address below. You will receive a link to reset your password.",メールアドレスを入力してください。パスワード再発行メールをお送りいたします。
+"Registered Customers",既にご登録いただいているお客様
 "If you have an account with us, log in using your email address.","If you have an account with us, log in using your email address."
 "Subscription option","Subscription option"
-"General Subscription","General Subscription"
-"Sign Up for Newsletter","Sign Up for Newsletter"
-"Address Information","Address Information"
-"Login Information","Login Information"
+"General Subscription",ニュースレターを購読する
+"Sign Up for Newsletter",ニュースレターを購読する
+"Address Information",住所情報
+"Login Information",ログイン情報
 "Create account","Create account"
-"Reset a Password","Reset a Password"
-"You have logged out and will be redirected to our homepage in 5 seconds.","You have logged out and will be redirected to our homepage in 5 seconds."
-"By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more.","By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more."
-Gender,Gender
-"Tax/VAT number","Tax/VAT number"
-"Subscribe to Newsletter","Subscribe to Newsletter"
-"Recovery Link Expiration Period (days)","Recovery Link Expiration Period (days)"
-"Please enter a number 1 or greater in this field.","Please enter a number 1 or greater in this field."
-"Email Sender","Email Sender"
-"Customer Configuration","Customer Configuration"
-"Account Sharing Options","Account Sharing Options"
-"Share Customer Accounts","Share Customer Accounts"
-"Create New Account Options","Create New Account Options"
-"Enable Automatic Assignment to Customer Group","Enable Automatic Assignment to Customer Group"
-"To show VAT number on frontend, set Show VAT Number on Frontend option to Yes.","To show VAT number on frontend, set Show VAT Number on Frontend option to Yes."
-"Tax Calculation Based On","Tax Calculation Based On"
-"Default Group","Default Group"
-"Group for Valid VAT ID - Domestic","Group for Valid VAT ID - Domestic"
-"Group for Valid VAT ID - Intra-Union","Group for Valid VAT ID - Intra-Union"
-"Group for Invalid VAT ID","Group for Invalid VAT ID"
-"Validation Error Group","Validation Error Group"
-"Validate on Each Transaction","Validate on Each Transaction"
-"Default Value for Disable Automatic Group Changes Based on VAT ID","Default Value for Disable Automatic Group Changes Based on VAT ID"
-"Show VAT Number on Frontend","Show VAT Number on Frontend"
-"Default Email Domain","Default Email Domain"
-"Default Welcome Email","Default Welcome Email"
-"Require Emails Confirmation","Require Emails Confirmation"
-"Confirmation Link Email","Confirmation Link Email"
-"Welcome Email","Welcome Email"
-"This email will be sent instead of default welcome email, after account confirmation.","This email will be sent instead of default welcome email, after account confirmation."
-"Generate Human-Friendly Customer ID","Generate Human-Friendly Customer ID"
-"Password Options","Password Options"
-"Forgot Email Template","Forgot Email Template"
-"Remind Email Template","Remind Email Template"
+"Reset a Password",パスワードリセット
+"You have logged out and will be redirected to our homepage in 5 seconds.",ログアウトしました。5秒後にTOPページに移動します。
+"By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more.",アカウントを作成いただくと、お買い物がよりスピーディーに行え、複数の配送先を登録できます。また、ご注文の追跡などができます。
+Gender,性別
+"Tax/VAT number",税/付加価値税番号
+"Subscribe to Newsletter",ニュースレター購読
+"Recovery Link Expiration Period (days)",再発行リンク有効期限(日)
+"Please enter a number 1 or greater in this field.",1またはそれ以上の数字を入力してください。
+"Email Sender",メール送信者
+"Customer Configuration",顧客設定
+"Account Sharing Options",アカウント設定オプション
+"Share Customer Accounts",顧客アカウントを共有
+"Create New Account Options",新規アカウント作成オプション
+"Enable Automatic Assignment to Customer Group",自動グループ割当を有効にする
+"Tax Calculation Based On",税計算基準
+"Default Group",標準のグループ
+"Group for Valid VAT ID - Domestic","正規VAT番号グループ - 国内"
+"Group for Valid VAT ID - Intra-Union","正規VAT番号グループ - 国際"
+"Group for Invalid VAT ID",不正なVAT番号です
+"Validation Error Group",エラーグループ検証
+"Validate on Each Transaction",各トランザクションごとに検証する
+"Default Value for Disable Automatic Group Changes Based on VAT ID","VAT IDに基づくグループ自動割り当てを無効にする"
+"Show VAT Number on Frontend",フロントエンドでVAT番号を表示
+"Default Email Domain",標準のメールアドレスドメイン
+"Default Welcome Email",標準のウェルカムメール
+"Require Emails Confirmation",メールによる確認を行う
+"Confirmation Link Email",確認リンクEメール
+"Welcome Email",ウェルカムメール
+"This email will be sent instead of default welcome email, after account confirmation.",このメールは標準のウェルカムメールの代わりにアカウント確認後に送信されます。
+"Generate Human-Friendly Customer ID",人間にわかりやすい顧客IDを生成する
+"Password Options",パスワードオプション
+"Forgot Email Template",リマインダーテンプレート
+"Remind Email Template",リマインダーメールテンプレート
 "Reset Password Template","Reset Password Template"
 "Password Template Email Sender","Password Template Email Sender"
-"Name and Address Options","Name and Address Options"
+"Name and Address Options",名前と住所のオプション
 "Number of Lines in a Street Address","Number of Lines in a Street Address"
-"Leave empty for default (2). Valid range: 1-4","Leave empty for default (2). Valid range: 1-4"
-"Show Prefix","Show Prefix"
-"The title that goes before name (Mr., Mrs., etc.)","The title that goes before name (Mr., Mrs., etc.)"
-"Prefix Dropdown Options","Prefix Dropdown Options"
+"Leave empty for default (2). Valid range: 1-4","空白の場合は初期値(2)になります。 有効範囲: 1-4"
+"Show Prefix",称号を表示
+"The title that goes before name (Mr., Mrs., etc.)","名前の前につけるタイトル (Mr., Mrs., など)"
+"Prefix Dropdown Options",称号の候補
 "
                         Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.
                     ","
                         Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.
                     "
-"Show Middle Name (initial)","Show Middle Name (initial)"
-"Always optional.","Always optional."
-"Show Suffix","Show Suffix"
-"The suffix that goes after name (Jr., Sr., etc.)","The suffix that goes after name (Jr., Sr., etc.)"
-"Suffix Dropdown Options","Suffix Dropdown Options"
-"Show Date of Birth","Show Date of Birth"
-"Show Tax/VAT Number","Show Tax/VAT Number"
-"Show Gender","Show Gender"
-"Login Options","Login Options"
-"Redirect Customer to Account Dashboard after Logging in","Redirect Customer to Account Dashboard after Logging in"
-"Customer will stay on the current page if ""No"" is selected.","Customer will stay on the current page if ""No"" is selected."
-"Address Templates","Address Templates"
+"Show Middle Name (initial)","ミドルネームを表示 (イニシャル)"
+"Always optional.",常に任意
+"Show Suffix",敬称を表示
+"The suffix that goes after name (Jr., Sr., etc.)","名前に続くサフィックスが必要 (Jr., Sr., など)"
+"Suffix Dropdown Options",サフィックスドロップダウンオプション
+"Show Date of Birth",誕生日を表示
+"Show Tax/VAT Number",税/VAT番号を表示
+"Show Gender",性別を表示する
+"Login Options",ログインオプション
+"Redirect Customer to Account Dashboard after Logging in",ログイン後にマイページにリダイレクトする
+"Customer will stay on the current page if ""No"" is selected.",もし、「いいえ」が選択された場合、顧客は現在のページから移動しません。
+"Address Templates",住所表記テンプレート
 "Customer Info","Customer Info"
-"Customer Address","Customer Address"
-Group,Group
+"Customer Address",顧客住所
+Group,グループ
 "Are you sure you want to delete?","Are you sure you want to delete?"
-"Unsubscribe from Newsletter","Unsubscribe from Newsletter"
-"Assign a Customer Group","Assign a Customer Group"
+"Unsubscribe from Newsletter",ニュースレターを購読解除する
+"Assign a Customer Group",顧客グループに割り当てる
 Phone,Phone
-ZIP,ZIP
-"Customer Since","Customer Since"
-"Edit Account Information","Edit Account Information"
-"Password forgotten","Password forgotten"
-"My Dashboard","My Dashboard"
-"You are now logged out","You are now logged out"
-"Are you sure you want to revoke the customer's tokens?","Are you sure you want to revoke the customer's tokens?"
+ZIP,郵便番号
+"Customer Since",顧客登録日時
+"Edit Account Information",アカウント情報の編集
+"Password forgotten",パスワードを忘れた場合
+"My Dashboard",アカウントダッシュボード
+"You are now logged out",ログアウトしました
