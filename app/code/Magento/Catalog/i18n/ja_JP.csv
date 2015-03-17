@@ -443,7 +443,7 @@ Action,アクション
 "Delete Tier",階層の削除
 "Product In Websites",ウェブサイト内の商品
 "Items that you don't want to show in the catalog or search results should have status 'Disabled' in the desired store.","カタログ、検索結果に表示したくない商品は希望のストアでステータスを""無効""にしてください。"
-"(Copy data from: %1)","(Copy data from: %1)"
+"(Copy data from: %1)","(データコピー元: %1)"
 "Remove Image","Remove Image"
 "Alt Text","Alt Text"
 Role,Role

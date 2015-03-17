@@ -325,15 +325,15 @@ Unassign,未割り当て
 "Cannot update item quantity.",商品点数を更新できません。
 "The invoice has been voided.",請求書を無効にしました。
 "Invoice voiding error","Invoice voiding error"
-"%1 order(s) cannot be canceled.","%1 order(s) cannot be canceled."
+"%1 order(s) cannot be canceled.","%1 件の注文がキャンセルできません。"
 "You cannot cancel the order(s).","You cannot cancel the order(s)."
 "We canceled %1 order(s).","We canceled %1 order(s)."
-"%1 order(s) were not put on hold.","%1 order(s) were not put on hold."
+"%1 order(s) were not put on hold.","%1 件の注文を保留にできませんでした。"
 "No order(s) were put on hold.",保留中の注文はありません。.
 "You have put %1 order(s) on hold.","You have put %1 order(s) on hold."
-"%1 order(s) were not released from on hold status.","%1 order(s) were not released from on hold status."
+"%1 order(s) were not released from on hold status.","%1 件の注文が保留ステータスから解除できませんでした。"
 "No order(s) were released from on hold status.","No order(s) were released from on hold status."
-"%1 order(s) have been released from on hold status.","%1 order(s) have been released from on hold status."
+"%1 order(s) have been released from on hold status.","%1 件の注文が保留ステータスから解除されました。"
 "There are no printable documents related to selected orders.",印刷可能な文書は選択した注文に関連付けられていません。
 "The payment has been accepted.",支払いを受け付けました。
 "The payment has been denied.",支払いが拒否されました。

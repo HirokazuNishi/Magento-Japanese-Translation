@@ -35,7 +35,7 @@ Rate,レート
 "Tax Identifier",税識別子
 "Zip/Post is Range",郵便番号の範囲
 "Zip/Post Code",郵便番号
-"'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and are not longer than %1.","'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and are not longer than %1."
+"'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and are not longer than %1.","'*' - 全てに一致; 'xyz*' - 'xyz' で始まるもの全てに一致 また %1 文字以上には一致しません。"
 "Range From",開始
 "Range To",終了
 State,都道府県

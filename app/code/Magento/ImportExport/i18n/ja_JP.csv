@@ -75,7 +75,7 @@ Import/Export,インポート/エクスポート
 "Columns number: ""%1"" have empty headers","Columns number: ""%1"" have empty headers"
 "Column names: ""%1"" are invalid","Column names: ""%1"" are invalid"
 "The adapter type must be a non empty string.","The adapter type must be a non empty string."
-"'%1' file extension is not supported","'%1' file extension is not supported"
+"'%1' file extension is not supported","拡張子 '%1' はサポートされていません"
 "Adapter must be an instance of \Magento\ImportExport\Model\Import\AbstractSource","Adapter must be an instance of \Magento\ImportExport\Model\Import\AbstractSource"
 "Please specify a source.","Please specify a source."
 "Cannot get autoincrement value",オートインクリメント値を取得できません

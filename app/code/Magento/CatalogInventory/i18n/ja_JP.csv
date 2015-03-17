@@ -34,7 +34,7 @@ Backorders,バックオーダー
 "You can buy %1 only in increments of %2.","You can buy %1 only in increments of %2."
 "You can buy this product only in increments of %1.","You can buy this product only in increments of %1."
 "Decimal qty increments is not allowed.","Decimal qty increments is not allowed."
-"%1 is available for purchase in increments of %2","%1 is available for purchase in increments of %2"
+"%1 is available for purchase in increments of %2","%1 は %2 点ずつ購入できます。"
 "Only %1 left","Only %1 left"
 "Product availability","Product availability"
 Inventory,在庫
