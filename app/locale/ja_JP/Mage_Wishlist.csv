@@ -3,6 +3,7 @@
 "%d product(s) have been added to shopping cart: %s.","%dこの商品がショッピングカートに追加されました: %s."
 "%s for ""%s"".","%s の ""%s""。"
 "%s has been moved to wishlist %s","%s は %s の欲しい物リストに移動されました"
+"%s was added to your shopping cart.","%sをショッピングカートに追加しました。"
 "%s's Wishlist","%sの欲しい物リスト"
 "* Required Fields","* 必須項目"
 "Add All to Cart","全てカートに入れる"

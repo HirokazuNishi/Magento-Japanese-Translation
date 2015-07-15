@@ -10,6 +10,7 @@
 "4 stars","4つ星"
 "5 star","5つ星"
 "5 stars","5つ星"
+"<a href=""%1$s"" onclick=""this.target=\'blank\'"">%2$s</a> <a href=""mailto:%3$s"">(%3$s)</a>","<a href=""%1$s"" onclick=""this.target=\'blank\'"">%2$s</a> <a href=""mailto:%3$s"">(%3$s)</a>"
 "<a href=""%1$s"" onclick=""this.target=\'blank\'"">%2$s %3$s</a> <a href=""mailto:%4$s"">(%4$s)</a>","<a href=""%1$s"" onclick=""this.target=\'blank\'"">%2$s %3$s</a> <a href=""mailto:%4$s"">(%4$s)</a>"
 "<a href=""%1$s"" onclick=""this.target='blank'"">%2$s %3$s</a> <a href=""mailto:%4$s"">(%4$s)</a>","<a href=""%1$s"" onclick=""this.target='blank'"">%2$s %3$s</a> <a href=""mailto:%4$s"">(%4$s)</a>"
 "Add New Review","新規レビューの追加"

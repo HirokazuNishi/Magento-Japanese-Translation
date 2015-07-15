@@ -1,6 +1,8 @@
 "%s Item(s)","%s件のページ"
 "%s-%s of %s","%s-%s 中 %s"
 "&copy; 2013 Magento Demo Store. All Rights Reserved.","&copy; 2013 Magentoデモストア. All Rights Reserved."
+"&copy; 2014 Magento Demo Store. All Rights Reserved.","&copy; 2014 Magentoデモストア. All Rights Reserved."
+"&copy; 2015 Magento Demo Store. All Rights Reserved.","&copy; 2015 Magentoデモストア. All Rights Reserved."
 "(Shift-)Click or drag to change value","(Shiftキーを押しながら)クリックまたはドラッグして値を変更してください"
 "(ver. %s)","(バージョン. %s)"
 "- Click on any of the time parts to increase it","時間部分のどれかをクリックして追加"

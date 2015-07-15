@@ -41,6 +41,7 @@
 "Search results for '%s'","'%s'の検索結果"
 "Search results for: '%s'","'%s'の検索結果"
 "Search:","検索:"
+"Show Autocomplete Results Count","オートコンプリートした結果件数を表示"
 "Specified date is invalid.","指定した日付は無効です。"
 "Subscribe to Feed","フィードの購読"
 "There are no search terms available.","利用できる検索キーワードがありません"
