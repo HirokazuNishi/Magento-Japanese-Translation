@@ -13,7 +13,7 @@
 "Invalid callback: %s::%s does not exist","無効な呼び戻し: %s::%s が存在しません"
 "Invalid model/method definition, expecting ""model/class::method"".","無効な モデル/メソッドが定義されています。 期待する内容 ""model/class::method"""
 "Minute Intervals","Minute Intervals"
-"Missed if Not Run Within","失敗しているか、処理中です。"
+"Missed if Not Run Within","次の間未実行なら失敗とする"
 "Monthly","毎月"
 "No callbacks found","コールバック処理がありません"
 "Schedule Ahead for","事前作成するスケジュール"
